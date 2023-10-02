@@ -6,7 +6,7 @@ layout: single
 title: Lehrplan   
 lang: de   
 ref: syl   
-permalink: /MHL-Advanced-CAO/syllabus/   
+permalink: /syllabus/   
 toc: true  
 toc_label: "Lehrplaninhalte" 
 toc_icon: "book-open"  

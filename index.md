@@ -6,7 +6,7 @@ layout: single
 title: Syllabus      
 lang: us   
 ref: syl   
-permalink: /MHL-Advanced-CAO/syllabus   
+permalink: /   
 toc: true  
 toc_label: "Syllabus Contents" 
 toc_icon: "book-open"  
