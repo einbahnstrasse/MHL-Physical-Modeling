@@ -24,6 +24,8 @@ search: true
 lunr:  
   search_within_pages: true   
 
+# baseurl: MHL-Advanced-CAO
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
