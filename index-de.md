@@ -22,7 +22,7 @@ last_modified_at: 2023-08-28
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %}
-    <li class="zoom"><a href="{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
+    <li class="zoom"><a href="/MHL-Advanced-CAO/{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
   {% endfor %}
 </div>
 
