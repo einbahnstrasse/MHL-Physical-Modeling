@@ -50,6 +50,9 @@ last_modified_at: 2023-08-28
 **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
 **Course Website:** [https://einbahnstrasse.github.io/MHL-Advanced-CAO/](https://einbahnstrasse.github.io/MHL-Advanced-CAO/){:target="_blank"}  
 
+_If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
+
+![Our site.](assets/images/qr-advanced-cao.png)   
   
 
 ## 2. Course Description    

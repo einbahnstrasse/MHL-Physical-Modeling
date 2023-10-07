@@ -44,6 +44,9 @@ last_modified_at: 2023-08-28
 **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
 **Kurs-Website:** [https://einbahnstrasse.github.io/MHL-Advanced-CAO/](https://einbahnstrasse.github.io/MHL-Advanced-CAO/){:target="_blank"}  
 
+_Wenn Sie diesen Lehrplan auf einer Projektionsleinwand ansehen, setzen Sie ein Lesezeichen für unsere Website unter dem folgenden Link:_   
+
+![Our site.](assets/images/qr-advanced-cao.png)   
   
 
 ## Kursbeschreibung    
