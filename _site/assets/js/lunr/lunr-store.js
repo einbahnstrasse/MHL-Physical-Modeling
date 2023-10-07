@@ -62,6 +62,9 @@ var store = [{
     "title": "Syllabus",
     "excerpt":"1. Essential Contact Information Course Number: 00789 Semester: Fall/Winter 2023 Time: Tuesdays 14:30-16:00 Location: 2.43 Electronic Music Studio Format: Seminar Modality: In-person* * hybrid and virtual available in extenuating circumstances at the discretion of the instructor Instructor: Louis Goldford Email: Louis.Goldford@mh-luebeck.de Office Hours: Monday — Wednedsay by appointment Office Location:...","url": "http://localhost:4000/"
   },{
+    "title": null,
+    "excerpt":"/*! * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */ /* Variables */ /* ========================================================================== Variables ========================================================================== */ /* Typography ========================================================================== */ @import url(\"https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,400;0,600;1,100;1,400;1,600&display=swap\"); @font-face { font-family: 'Florencesans-Exp-Bold'; src: url(\"/assets/fonts/Florencesans-Exp-Bold.ttf.woff\") format(\"woff\"), url(\"/assets/fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold\") format(\"svg\"), url(\"/assets/fonts/Florencesans-Exp-Bold.ttf.eot\"), url(\"/assets/fonts/Florencesans-Exp-Bold.ttf.eot?#iefix\")...","url": "http://localhost:4000/assets/main.css"
+  },{
     "title": "Software + Resources",
     "excerpt":"A list of stuff we’ll be using throughout the course. Be sure to install + test these before you arrive in class. MaxMSP Download + install the current build from: MaxMSP Most recent releases should support our work in class, however. At the time of this publication, all software for...","url": "http://localhost:4000/resources/"
   },{

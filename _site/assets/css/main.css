@@ -13,15 +13,7 @@
 /* Variables */
 /* ========================================================================== Variables ========================================================================== */
 /* Typography ========================================================================== */
-@font-face { font-family: 
-  'Florencesans-Exp-Bold'; 
-  src: url("fonts/Florencesans-Exp-Bold.ttf.woff") format("woff"), 
-  url("fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold") format("svg"), 
-  url("fonts/Florencesans-Exp-Bold.ttf.eot"), 
-  url("fonts/Florencesans-Exp-Bold.ttf.eot?#iefix") format("embedded-opentype"); 
-  font-weight: normal; 
-  font-style: normal; 
-}
+@font-face { font-family: 'Florencesans-Exp-Bold'; src: url("/assets/fonts/Florencesans-Exp-Bold.ttf.woff") format("woff"), url("/assets/fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold") format("svg"), url("/assets/fonts/Florencesans-Exp-Bold.ttf.eot"), url("/assets/fonts/Florencesans-Exp-Bold.ttf.eot?#iefix") format("embedded-opentype"); font-weight: normal; font-style: normal; }
 /* paragraph indention */
 /* system typefaces */
 /* sans serif typefaces */
@@ -184,7 +176,7 @@ body { margin: 0; }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section { display: block; }
 
 /* Display block in IE6-9 and FF3 */
-audio, canvas, video { display: inline-block; display: inline; zoom: 1; }
+audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 
 /* Prevents modern browsers from displaying 'audio' without controls */
 audio:not([controls]) { display: none; }
@@ -211,7 +203,7 @@ img { /* Responsive images (ensure images don't scale beyond their parents) */ m
 /* Consistent form font size in all browsers, margin changes, misc */
 button, input, select, textarea { margin: 0; font-size: 100%; vertical-align: middle; }
 
-button, input { overflow: visible; /* inner spacing ie IE6/7*/ line-height: normal; /* FF3/4 have !important on line-height in UA stylesheet*/ }
+button, input { *overflow: visible; /* inner spacing ie IE6/7*/ line-height: normal; /* FF3/4 have !important on line-height in UA stylesheet*/ }
 
 button::-moz-focus-inner, input::-moz-focus-inner { /* inner padding and border oddities in FF3/4*/ padding: 0; border: 0; }
 
@@ -317,12 +309,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 /* ========================================================================== Forms ========================================================================== */
 form { margin: 0 0 5px 0; padding: 1em; background-color: #f2f3f3; }
 form fieldset { margin-bottom: 5px; padding: 0; border-width: 0; }
-form legend { display: block; width: 100%; margin-bottom: 10px; margin-left: -7px; padding: 0; color: #40514e; border: 0; white-space: normal; }
+form legend { display: block; width: 100%; margin-bottom: 10px; *margin-left: -7px; padding: 0; color: #40514e; border: 0; white-space: normal; }
 form p { margin-bottom: 2.5px; }
 form ul { list-style-type: none; margin: 0 0 5px 0; padding: 0; }
 form br { display: none; }
 
-label, input, button, select, textarea { vertical-align: baseline; vertical-align: middle; }
+label, input, button, select, textarea { vertical-align: baseline; *vertical-align: middle; }
 
 input, button, select, textarea { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; }
 
@@ -336,17 +328,17 @@ input, textarea, select { display: inline-block; width: 100%; padding: 0.25em; m
 
 .input-small { width: 90px; }
 
-input[type="image"], input[type="checkbox"], input[type="radio"] { width: auto; height: auto; padding: 0; margin: 3px 0; margin-top: 0; line-height: normal; cursor: pointer; border-radius: 0; border: 0 \9; box-shadow: none; }
+input[type="image"], input[type="checkbox"], input[type="radio"] { width: auto; height: auto; padding: 0; margin: 3px 0; *margin-top: 0; line-height: normal; cursor: pointer; border-radius: 0; border: 0 \9; box-shadow: none; }
 
-input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0; width: 13px; height: 13px; }
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0; *width: 13px; *height: 13px; }
 
 input[type="image"] { border: 0; }
 
 input[type="file"] { width: auto; padding: initial; line-height: initial; border: initial; background-color: transparent; background-color: initial; box-shadow: none; }
 
-input[type="button"], input[type="reset"], input[type="submit"] { width: auto; height: auto; cursor: pointer; overflow: visible; }
+input[type="button"], input[type="reset"], input[type="submit"] { width: auto; height: auto; cursor: pointer; *overflow: visible; }
 
-select, input[type="file"] { margin-top: 4px; }
+select, input[type="file"] { *margin-top: 4px; }
 
 select { width: auto; background-color: #fff; }
 
