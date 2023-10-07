@@ -4,4 +4,11 @@
 @import "minimal-mistakes";
 
 /* Typography ========================================================================== */
-@font-face { font-family: 'Florencesans-Exp-Bold'; src: url("MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.woff") format("woff"), url("MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold") format("svg"), url("MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.eot"), url("MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.eot?#iefix") format("embedded-opentype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Florencesans-Exp-Bold'; 
+    src: url("fonts/Florencesans-Exp-Bold.ttf.woff") format("woff"), 
+    url("fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold") format("svg"), 
+    url("fonts/Florencesans-Exp-Bold.ttf.eot"), 
+    url("fonts/Florencesans-Exp-Bold.ttf.eot?#iefix") format("embedded-opentype"); 
+    font-weight: normal; 
+    font-style: normal; 
+}
