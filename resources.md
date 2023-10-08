@@ -96,15 +96,15 @@ To begin, in MaxMSP go to `File > Show Package Manager`.
 
 In the Package Manager window that pops up, type the name of a package, e.g., `miraweb`, in the search bar at the upper-right, and then click the MiraWeb package at the bottom to install:  
 
-<img src="/assets/images/01.package.manager.png" alt="package manager">
+<img src="/MHL-Advanced-CAO/assets/images/01.package.manager.png" alt="package manager">
 
 On the next page, click the <span style="font-weight: bold; color: lightblue;">blue</span> `Install` button:
 
-<img src="/assets/images/02.install.png" alt="install">
+<img src="/MHL-Advanced-CAO/assets/images/02.install.png" alt="install">
 
 When finished, you should see a <span style="font-weight: bold; color: lightblue;">blue</span> `Launch` button and a "Successfully installed Miraweb" message:
 
-<img src="/assets/images/03.success.png" alt="install">
+<img src="/MHL-Advanced-CAO/assets/images/03.success.png" alt="install">
 
 From here, you can simply close the Package Manager window.  
 
