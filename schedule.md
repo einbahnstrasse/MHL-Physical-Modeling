@@ -41,16 +41,17 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 1: {{ site.week-01 }}  
+### Introduction to the BACH library for Computer-Assisted Composition (CAO)  
 
-### Start-of-Semester Business
+#### Start-of-Semester Business  
 
 * Review [Syllabus + course policies.](/Goldford-MTEC1003/index.html){:target="_blank"}  
 * Review [Detailed Breakdown of Grading.](/Goldford-MTEC1003/grading.html){:target="_blank"}  
 <!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 <!-- * [About the Command Line](/Goldford-MTEC1003/labs/01/command-line.html){:target="_blank"}  
 * [Entering Commands](/Goldford-MTEC1003/labs/01/entering-commands.html){:target="_blank"}  
@@ -80,76 +81,85 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- <a id="w2"></a> -->
 <!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
 ## Week 2: {{ site.week-02 }}  
+### BACH and Polysynthesis in MaxMSP  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files   -->
 
 * * *
 
 ## Week 3: {{ site.week-03 }}  
+### Spectral and Microtonal Harmony  
 
-### Tutorials 
+#### Tutorials 
 
-### Assignments  
+#### Assignments  
 
 * * *
 
 ## Week 4: {{ site.week-04 }}  
+### Using Randomness and Distributions  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
 ## Week 5: {{ site.week-05 }}  
+### Real-Time Analysis and Resynthesis  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 * * *
 
 ## Week 6: {{ site.week-06 }}  
+### Generating Scales, Harmonies, and Chords  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
 ## Week 7: {{ site.week-07 }}  
+### Chaotic Attractors  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
 ## Week 8: {{ site.week-08 }}  
+### Interpolation of Pitch and Rhythm  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
 ## Week 9: {{ site.week-09 }}  
+### Operations on Rhythm  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 * * *
 
 ## Week 10: {{ site.week-10 }}  
+### Introduction to SPAT~ for Multichannel Audio Spatialization  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
@@ -161,19 +171,21 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 * * *
 
-## Week 12: {{ site.week-12 }}  
+## Week 12: {{ site.week-12 }}   
+### Concert Patch Design   
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
 ## Week 13: {{ site.week-13 }}  
+### Mirrors and Fractals: Webern and Risset  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
@@ -185,26 +197,28 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 * * *
 
-## Week 15: {{ site.week-15 }}  
+## Week 15: {{ site.week-15 }}   
+### Generation of Harmony: Boulez and Vivier  
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
 
 ## Week 16: {{ site.week-16 }}  
 
-### Tutorials 
+#### Tutorials   
 
-### Assignments  
+#### Assignments  
 
 * * *
 
-## Week 17: {{ site.week-17 }}  
+## Week 17: {{ site.week-17 }}   
+### Advanced FM: Chowning _Stria_   
 
-### Tutorials 
+#### Tutorials  
 
-### Assignments  
+#### Assignments   
 
 * * *
