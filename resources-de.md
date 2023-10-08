@@ -4,7 +4,7 @@
 
 # layout: archive
 layout: single   
-title: Software + Resources   
+title: Software und Ressourcen     
 lang: de   
 ref: res   
 permalink: /resources/   
