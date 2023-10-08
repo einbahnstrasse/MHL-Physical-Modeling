@@ -46,8 +46,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Start-of-Semester Business  
 
 * Review [Syllabus + course policies.](/MHL-Advanced-CAO/index.html){:target="_blank"}  
-* Review [Software Installation.](/MHL-Advanced-CAO/resources.html){:target="_blank"}  
-* Review [Detailed Breakdown of Grading.](/MHL-Advanced-CAO/grading.html){:target="_blank"}  
+* Review [Software Installation.](/MHL-Advanced-CAO/resources/){:target="_blank"}  
+* Review [Detailed Breakdown of Grading.](/MHL-Advanced-CAO/grading/){:target="_blank"}  
 
 #### Tutorials   
 
