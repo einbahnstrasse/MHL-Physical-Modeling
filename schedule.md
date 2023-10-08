@@ -45,11 +45,11 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Start-of-Semester Business  
 
-* Review [Syllabus + course policies.](/Goldford-MTEC1003/index.html){:target="_blank"}  
-* Review [Detailed Breakdown of Grading.](/Goldford-MTEC1003/grading.html){:target="_blank"}  
-<!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
+* Review [Syllabus + course policies.](/MHL-Advanced-CAO/index.html){:target="_blank"}  
+* Review [Software Installation.](/MHL-Advanced-CAO/resources.html){:target="_blank"}  
+* Review [Detailed Breakdown of Grading.](/MHL-Advanced-CAO/grading.html){:target="_blank"}  
 
-#### Tutorials  
+#### Tutorials   
 
 #### Assignments   
 
