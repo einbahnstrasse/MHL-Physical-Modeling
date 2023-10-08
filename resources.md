@@ -5,7 +5,7 @@
 # layout: archive
 layout: single   
 title: Software + Resources   
-lang: en   
+lang: us   
 ref: res   
 permalink: /resources/   
 toc: true
@@ -23,12 +23,12 @@ last_modified_at: 2023-08-28
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %}
-    <li class="zoom"><a href="{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
+    <li class="zoom"><a href="/MHL-Advanced-CAO{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
   {% endfor %}
 </div>
 
 <div class="top-h1-icon">
-  <i class="fas fa-laptop fa-2x"></i>
+  <i class="fas fa-book-open fa-2x"></i>
 </div>
 
 A list of stuff we'll be using throughout the course.    
