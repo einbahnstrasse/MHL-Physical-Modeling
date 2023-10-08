@@ -65,7 +65,7 @@ var store = [{
     "title": null,
     "excerpt":"/*! * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */ /* Variables */ /* ========================================================================== Variables ========================================================================== */ /* Typography ========================================================================== */ @import url(\"https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,400;0,600;1,100;1,400;1,600&display=swap\"); @font-face { font-family: 'Florencesans-Exp-Bold'; src: url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.woff\") format(\"woff\"), url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold\") format(\"svg\"), url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.eot\"), url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.eot?#iefix\")...","url": "http://localhost:4000/assets/main.css"
   },{
-    "title": "Software + Resources",
+    "title": "Software und Ressourcen",
     "excerpt":"Eine Liste der Dinge, die wir im Laufe des Kurses verwenden werden. Stellen Sie sicher, dass Sie diese installieren und testen, bevor Sie in den Unterricht kommen. MaxMSP Laden Sie den aktuellen Build herunter und installieren Sie ihn von: MaxMSP Die neuesten Veröffentlichungen sollten jedoch unsere Arbeit im Unterricht unterstützen....","url": "http://localhost:4000/resources/"
   },{
     "title": "Software + Resources",

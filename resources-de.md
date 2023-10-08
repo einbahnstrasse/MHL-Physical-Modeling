@@ -9,11 +9,13 @@ lang: de
 ref: res   
 permalink: /resources/   
 toc: true
-toc_label: "Software + Resources" 
+toc_label: "Software und Ressourcen"  
 toc_icon: "laptop"  
 toc_sticky: true   
 read_time: true  
+show_date: true  
 date: 2023-08-01  
+date_format: "%Y-%m-%d"  
 last_modified_at: 2023-08-28   
 
 ---
