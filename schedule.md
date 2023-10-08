@@ -164,6 +164,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 11: {{ site.week-11 }}  
+### Concert Patch Design   
 
 ### Tutorials 
 
@@ -172,15 +173,6 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 12: {{ site.week-12 }}   
-### Concert Patch Design   
-
-#### Tutorials  
-
-#### Assignments   
-
-* * *
-
-## Week 13: {{ site.week-13 }}  
 ### Mirrors and Fractals: Webern and Risset  
 
 #### Tutorials  
@@ -189,16 +181,26 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 * * *
 
+## Week 13: {{ site.week-13 }}  
+### Generation of Harmony: Boulez and Vivier    
+
+#### Tutorials  
+
+#### Assignments   
+
+* * *
+
 ## Week 14: {{ site.week-14 }}  
+### Advanced FM: Chowning _Stria_   
 
-### Tutorials 
+#### Tutorials 
 
-### Assignments  
+#### Assignments  
 
 * * *
 
 ## Week 15: {{ site.week-15 }}   
-### Generation of Harmony: Boulez and Vivier  
+### Advanced FM: DX7 Emulation    
 
 #### Tutorials  
 
@@ -207,6 +209,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 16: {{ site.week-16 }}  
+### Physical Modeling ("Modal" Synthesis), Part I: Max Library  
 
 #### Tutorials   
 
@@ -215,7 +218,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 17: {{ site.week-17 }}   
-### Advanced FM: Chowning _Stria_   
+### Physical Modeling ("Modal" Synthesis), Part II: Finite Elements  
 
 #### Tutorials  
 
