@@ -2,7 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# layout: archive
 layout: single   
 title: Software und Ressourcen     
 lang: de   
@@ -27,10 +26,6 @@ last_modified_at: 2023-08-28
   {% for page in pages %}
     <li class="zoom"><a href="/MHL-Advanced-CAO{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
   {% endfor %}
-</div>
-
-<div class="top-h1-icon">
-  <i class="fas fa-book-open fa-2x"></i>
 </div>
 
 Eine Liste der Dinge, die wir im Laufe des Kurses verwenden werden.  
