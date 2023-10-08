@@ -7,7 +7,7 @@ layout: single
 title: Software + Resources   
 lang: us   
 ref: res   
-permalink: /en/resources/   
+permalink: /resources/   
 toc: true
 toc_label: "Software + Resources" 
 toc_icon: "laptop"  
