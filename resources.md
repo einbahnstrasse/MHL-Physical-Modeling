@@ -34,7 +34,7 @@ last_modified_at: 2023-08-28
 
 A list of stuff we'll be using throughout the course.    
 
-_Be sure to install + test these before you arrive in class._   
+_Be sure to install + verify these applications before their respective deadlines listed on our Schedule page._   
 
 ## MaxMSP      
 
@@ -229,7 +229,7 @@ Your console should return a message that looks like this:
 git version 2.20.1 (Apple Git-117)
 ```
 
-### Large File Storage (LFS)  
+<!-- ### Large File Storage (LFS)  
 
 Large File Storage (LFS) is a Git **extension** that allows you to verison large binary files — like audio, video, and image files. 
 
@@ -247,7 +247,7 @@ brew install git-lfs
 
 Follow the steps outlined in the video tutorial below to set everything up:  
 
-{% include video id="HLyoH7xfoF8" provider="youtube" %}
+{% include video id="HLyoH7xfoF8" provider="youtube" %} -->
 
 <!-- 
 ## 6. Google Chrome  
