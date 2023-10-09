@@ -35,10 +35,12 @@ last_modified_at: 2023-08-28
 _A list of assignments, deadlines, and points to help you plan for the semester._  
 _For an overview of grading policies for this course, see [XI. General Grading Rubric, located in the SYLLABUS.](index.html){:target="_blank"}_  
 
-<div class="instructornote">
-<p markdown="span"><em><b>Reminder:</b> {{ site.weekly-deadline-statement }}</em></p></div>
-<!-- _**Reminder:** Deadlines are always on the Saturday night at 11:59 PM following the assignment date listed below._   -->
+_Coming soon!_  
 
+<!-- <div class="instructornote"> -->
+<!-- <p markdown="span"><em><b>Reminder:</b> {{ site.weekly-deadline-statement }}</em></p></div> -->
+<!-- _**Reminder:** Deadlines are always on the Saturday night at 11:59 PM following the assignment date listed below._   -->
+<!-- 
 ### I. Weekly Lab Assignments
 
 _Our schedule follows the [Current MHL Academic Calendar]({{ site.MHL-calendar }}){:target="_blank"}._   
@@ -270,4 +272,4 @@ _The following topics and their precise order may change. Check our Schedule pag
 
 ### III. Altogether, thats...
 
-**`340 Total Points`** for the course as a whole.
+**`340 Total Points`** for the course as a whole. -->

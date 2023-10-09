@@ -19,7 +19,7 @@ last_modified_at: 2023-08-28
 
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
 
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
@@ -30,7 +30,7 @@ last_modified_at: 2023-08-28
 
 <div class="top-h1-icon">
   <i class="fas fa-book-open fa-2x"></i>
-</div>
+</div>   -->
 
 ## 1. Essential Contact Information  
 
@@ -195,6 +195,7 @@ _Participation is based on attendance and your engagement in class, and will for
 
 * **Absences/tardiness must be accompanied by documentation** and/or include advance notice with the instructor. Absences/tardiness will not impact on your grade if they are reported in advance and if they are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor's note, religious observance with advance notice, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.  
 * _A lack of communication with the instructor about planned absences will therefore be treated as **unexcused**. Be in touch early._   
+* Planned absences should be reported to the instructor by our Week 3 class _(see our [Schedule](/schedule){:target="_blank"} page)._   
 * **Absences and lateness may result in a lack of understanding of our materials, which will become evident in your project and/or exam work, and therefore will result in lower exam and project scores.** 
 
 ##### 3.5.2.2 Required Check-In Meetings   

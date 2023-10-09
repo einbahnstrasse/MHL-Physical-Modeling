@@ -286,7 +286,8 @@ _Participation is based on attendance and your engagement in class, and will for
 	* Check our Course Website for assignments, videos, slides, readings, etc.  
 	* After these first 2 steps, contact the instructor with any additional questions.  
 * **Excused absences/lateness must be accompanied by documentation** and/or include advance notice with the instructor where possible. Excused absences/lateness will not impact on your grade. Absences may be excused in cases of: documentation of illness provided by a doctor, religious observance with advance notice, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.
-* _A lack of communication with the instructor about planned absences will therefore be treated as UNEXCUSED. Be in touch early._
+* _A lack of communication with the instructor about planned absences will therefore be treated as UNEXCUSED. Be in touch early._  
+* Planned absences should be reported to the instructor by our Week 3 class _(see our [Schedule](/schedule){:target="_blank"} page)._   
 * **Unexcused absences and lateness will result in lowered participation grades.** 
 
 <div class="instructornote">
