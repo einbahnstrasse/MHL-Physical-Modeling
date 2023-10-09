@@ -19,7 +19,7 @@ last_modified_at: 2023-08-28
 
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
 
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
@@ -30,7 +30,7 @@ last_modified_at: 2023-08-28
 
 <div class="top-h1-icon">
   <i class="fas fa-book-open fa-2x"></i>
-</div>
+</div>   -->
 
 A list of stuff we'll be using throughout the course.    
 

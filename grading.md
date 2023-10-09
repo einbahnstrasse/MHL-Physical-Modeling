@@ -18,7 +18,7 @@ last_modified_at: 2023-08-28
 
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
 
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
@@ -29,7 +29,7 @@ last_modified_at: 2023-08-28
 
 <div class="top-h1-icon">
   <i class="fas fa-graduation-cap fa-2x"></i>
-</div>
+</div>   -->
 
 <!-- # Grading -->
 _A list of assignments, deadlines, and points to help you plan for the semester._  
