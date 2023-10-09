@@ -86,6 +86,9 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 2: {{ site.week-02 }}  
 ### BACH and Polysynthesis in MaxMSP  
 
+#### Downloads   
+* [Bach and `poly~` boiler patches](#){:target="_blank"}     
+
 #### Tutorials  
 
 #### Assignments  
