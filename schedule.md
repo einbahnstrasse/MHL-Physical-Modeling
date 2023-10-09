@@ -91,7 +91,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 #### Tutorials  
 
-#### Assignments  
+#### Assignments   
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files   -->
 
