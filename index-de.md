@@ -42,7 +42,7 @@ last_modified_at: 2023-08-28
 **Lehrerin:** Louis Goldford  
 **Email:** <a href="mailto:Louis.Goldford@mh-luebeck.de">Louis.Goldford@mh-luebeck.de</a>  
 **Geschäftszeiten:** Montag — Mittwoch <mark>nach Vereinbarung</mark>   
-**Bürostandort:** _"Das Aquarium"_ (neben 2.43 Elektronisches Musikstudio)  
+**Bürostandort:** 2.47A _"Das Aquarium"_ (neben 2.43 Elektronisches Musikstudio)  
 **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
 **Kurs-Website:** [https://einbahnstrasse.github.io/MHL-Advanced-CAO/](https://einbahnstrasse.github.io/MHL-Advanced-CAO/){:target="_blank"}  
 
