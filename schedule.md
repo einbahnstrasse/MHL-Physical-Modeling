@@ -49,6 +49,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Review [Software Installation.](/MHL-Advanced-CAO/resources/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading.](/MHL-Advanced-CAO/grading/){:target="_blank"}  
 
+#### Listening   
+* [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
+* [Joshua Banks Mailman‘s analysis of _Dripsody_](/MHL-studio-methods/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}  
+
 #### Downloads  
 * [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}     
 
