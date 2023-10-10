@@ -49,7 +49,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Review [Software Installation.](/MHL-Advanced-CAO/resources/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading.](/MHL-Advanced-CAO/grading/){:target="_blank"}  
 
-#### Tutorials   
+#### Downloads  
+* [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}     
 
 #### Assignments   
 * Install MaxMSP    
