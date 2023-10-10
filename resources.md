@@ -229,61 +229,6 @@ Your console should return a message that looks like this:
 git version 2.20.1 (Apple Git-117)
 ```
 
-<!-- ### Large File Storage (LFS)  
-
-Large File Storage (LFS) is a Git **extension** that allows you to verison large binary files — like audio, video, and image files. 
-
-By itself, Git isn't very capable of versioning binary files. Without this extension, your Git folder ("repository") will quickly "blow up" and run out of space. 
-
-Install this valuable extension so that you can safely backup your media files and reserve valuable repository space for your code!     
-
-Download and install the extension here: <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://git-lfs.com/" target="_blank" class="btn btn--primary">Git LFS</a></span>
-
-Altenatively,  macOS users can install via Homebrew:  
-
-```
-brew install git-lfs
-```
-
-Follow the steps outlined in the video tutorial below to set everything up:  
-
-{% include video id="HLyoH7xfoF8" provider="youtube" %} -->
-
-<!-- 
-## 6. Google Chrome  
-_A web browser with great built-in device compatibility tools._  
-
-1. INSTALL:  
-	* [Direct from Chrome homepage](https://www.google.com/intl/en/chrome/){:target="_blank"}  
-2. VERIFY:  
-	* Chrome can be launched from your /Applications folder.  
-
-
-## 7. Python 3 + pip
-_**Python** is an object-oriented, interpreted, and interactive programming language that we'll be introducing alongside JavaScript. It's great for quick prototyping and even better for data visualization._  
-
-_**pip** is the standard package manager for the Python language, allowing you to easily install code packages + modules from the extensive [standard library.](https://docs.python.org/3/py-modindex.html){:target="_blank"}_  
-
-1. INSTALL using these tutorials:  
-	* [macOS](https://evansdianga.com/install-pip-osx/){:target="_blank"}  
-	* [Windows](https://phoenixnap.com/kb/install-pip-windows){:target="_blank"}  
-2. VERIFY:  
-	* Verify Python 3:  
-		* Open your Terminal and run:  
-			`python3 --version`  
-		* Your console should return something that looks like this:  
-			`Python 3.8.5`
-	* Verify pip:  
-		* Open your Terminal and run:  
-			`pip --version`  
-		* Your console should return something that looks like this:  
-			`pip 20.2 from /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pip (python 3.8)`  
-		* or:  
-			`pip 18.1 from C:\Python37\lib\site-packages\pip (python 3.7)`  
-3. Create an alias so that anytime you run `python` on the command line, you'll be using Python 3 instead of older versions.  
-	* When using Python, run this command when you **begin** a Terminal session:  
-			`alias python=/usr/local/bin/python3`   -->
-
 ## Additional + Optional Resources   
 
 ### Software      
