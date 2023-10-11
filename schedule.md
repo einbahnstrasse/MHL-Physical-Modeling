@@ -133,7 +133,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 6: {{ site.week-06 }}  
-### Generating Scales, Harmonies, and Chords  
+<!-- ### Generating Scales, Harmonies, and Chords   -->
+### _No Class!_  
 
 #### Tutorials  
 
@@ -232,7 +233,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 17: {{ site.week-17 }}   
-### Physical Modeling ("Modal" Synthesis), Part II: Finite Elements  
+<!-- ### Physical Modeling ("Modal" Synthesis), Part II: Finite Elements   -->
+### _No Class!_  
 
 #### Tutorials  
 

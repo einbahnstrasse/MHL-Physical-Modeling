@@ -262,7 +262,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">6</td>
 <td markdown="span">{{ site.week-06 }}</td>
-<td markdown="span"><a href="schedule/#w6" target="_blank">Generating Scales, Harmonies, and Chords</a></td>
+<td markdown="span"><a href="schedule/#w6" target="_blank"><em>No Class!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">7</td>
@@ -318,7 +318,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
-<td markdown="span"><a href="schedule/#w17" target="_blank">Physical Modeling ("Modal" Synthesis), Part II: Finite Elements</a></td>
+<td markdown="span"><a href="schedule/#w17" target="_blank"><em>No Class!</em></a></td>
 </tr>
 </tbody>
 </table>
