@@ -54,10 +54,10 @@ var store = [{
     "excerpt":" ","url": "http://localhost:4000/categories/"
   },{
     "title": "Grading",
-    "excerpt":"A list of assignments, deadlines, and points to help you plan for the semester. For an overview of grading policies for this course, see XI. General Grading Rubric, located in the SYLLABUS. Reminder: Unless otherwise noted, assignments are always due online on GitHub at 11:59 PM the following Monday night...","url": "http://localhost:4000/grading/"
+    "excerpt":"   A list of assignments, deadlines, and points to help you plan for the semester.  For an overview of grading policies for this course, see XI. General Grading Rubric, located in the SYLLABUS.   Coming soon!       ","url": "http://localhost:4000/grading/"
   },{
     "title": "Lehrplan",
-    "excerpt":"Grundlegender Kurs + Kontaktinformationen Kurs Nummer: 00789 Semester: Herbst/Winter 2023 Zeit: Dienstags 14:30-16:00 Standort: 2.43 Elektronisches Musikstudio Format: Seminar Modalität: Persönlich* * Hybrid und virtuell verfügbar unter mildernden Umständen nach Ermessen des Kursleiters Lehrerin: Louis Goldford Email: Louis.Goldford@mh-luebeck.de Geschäftszeiten: Montag — Mittwoch nach Vereinbarung Bürostandort: “Das Aquarium” (neben 2.43 Elektronisches...","url": "http://localhost:4000/syllabus/"
+    "excerpt":"Grundlegender Kurs + Kontaktinformationen Kurs Nummer: 00789 Semester: Herbst/Winter 2023 Zeit: Dienstags 14:30-16:00 Standort: 2.43 Elektronisches Musikstudio Format: Seminar Modalität: Persönlich* * Hybrid und virtuell verfügbar unter mildernden Umständen nach Ermessen des Kursleiters Lehrerin: Louis Goldford Email: Louis.Goldford@mh-luebeck.de Geschäftszeiten: Montag — Mittwoch nach Vereinbarung Bürostandort: 2.47A “Das Aquarium” (neben 2.43...","url": "http://localhost:4000/syllabus/"
   },{
     "title": "Syllabus",
     "excerpt":"1. Essential Contact Information Course Number: 00789 Semester: Fall/Winter 2023 Time: Tuesdays 14:30-16:00 Location: 2.43 Electronic Music Studio Format: Seminar Modality: In-person* * hybrid and virtual available in extenuating circumstances at the discretion of the instructor Instructor: Louis Goldford Email: Louis.Goldford@mh-luebeck.de Office Hours: Monday — Wednedsay by appointment Office Location:...","url": "http://localhost:4000/"
@@ -69,7 +69,7 @@ var store = [{
     "excerpt":"Eine Liste der Dinge, die wir im Laufe des Kurses verwenden werden. Stellen Sie sicher, dass Sie diese installieren und testen, bevor Sie in den Unterricht kommen. MaxMSP Laden Sie den aktuellen Build herunter und installieren Sie ihn von: MaxMSP Die neuesten Veröffentlichungen sollten jedoch unsere Arbeit im Unterricht unterstützen....","url": "http://localhost:4000/resources/"
   },{
     "title": "Software + Resources",
-    "excerpt":"A list of stuff we’ll be using throughout the course. Be sure to install + test these before you arrive in class. MaxMSP Download + install the current build from: MaxMSP Most recent releases should support our work in class, however. At the time of this publication, all software for...","url": "http://localhost:4000/resources/"
+    "excerpt":"A list of stuff we’ll be using throughout the course. Be sure to install + verify these applications before their respective deadlines listed on our Schedule page. MaxMSP Download + install the current build from: MaxMSP Most recent releases should support our work in class, however. At the time of...","url": "http://localhost:4000/resources/"
   },{
     "title": "Schedule",
     "excerpt":"This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the Current MHL Academic Calendar. The following topics and their precise order may change. Check here for updates! Week 1: 10 Oct. Introduction to the BACH library...","url": "http://localhost:4000/schedule/"
