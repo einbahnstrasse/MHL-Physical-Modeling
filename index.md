@@ -81,7 +81,7 @@ _By the end of the course, successful students will be able to do the following:
 
 ### 2.3 Required Software + Hardware    
 
-_See the [RESOURCES TAB](/resources){:target="_blank"} for download and documentation links._  
+_See the [RESOURCES TAB](/MHL-Advanced-CAO/resources){:target="_blank"} for download and documentation links._  
 1. personal laptop  
 2. headphones  
 3. MaxMSP  
