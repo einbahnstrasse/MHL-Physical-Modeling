@@ -54,7 +54,7 @@ By the deadline, send me a Reaper project folder (by email, WeTransfer.com, or a
 Checkpoints are opportunities for me to evaluate your work as the semester continues. By the dates below, I will need to see evidence of your progress towards the final deadline:   
 
 * **Alternative Proposal Checkpoint**: Week 4: {{ site.week-04 }}   
-    - See [3.1 Concert Patch with Live Performer(s)](#): If you want to do a project that is different from the scenario outlined below, email me 2-4 paragraphs describing your ideas. Pending approval, you can shape your piece another way.   
+    - See [3.1 Concert Patch with Live Performer(s)](#31-concert-patch-with-live-performers): If you want to do a project that is different from the scenario outlined below, email me 2-4 paragraphs describing your ideas. Pending approval, you can shape your piece another way.   
 * **1st Checkpoint**: Week 5: {{ site.week-05 }}   
     - Share your initial plans, algorithms, sounds, compositional or musical ideas   
     - At least 1 small Max patch demonstrating your work drawing upon our course materials   
@@ -64,7 +64,7 @@ Checkpoints are opportunities for me to evaluate your work as the semester conti
     - Your ideas about compositional _transitions_ between these 2-3 "states"  
     - **name of the performer** who has committed to playing your piece in January   
 * **Concert Patch Checkpoint**: Week 11: {{ site.week-11 }}  
-    - Your concert patch (_in progress_) utilizing template built in [Week 10](#){:target="_blank"}   
+    - Your concert patch (_in progress_) utilizing template built in [Week 10](/MHL-Advanced-CAO/schedule/#week-10-12-dec){:target="_blank"}   
     - Individual **events** should now be numbered and coded into your patch   
     - Send your **score** to your perfomer(s)  
 * **Tech Rider Deadline**: Week 12: {{ site.week-12 }}  
@@ -79,9 +79,9 @@ Be prepared to send me your working patch(es) and score(s) on these dates. We ma
 
 ### 3. Things Your Project Should Have   
 
-Many of the elements described below are provided in a Concert Patch Template we will build during our [Week 10 Seminar: Concert Patch Design](#){:target="_blank"}   
+Many of the elements described below are provided in a Concert Patch Template we will build during our [Week 10 Seminar: Concert Patch Design](/MHL-Advanced-CAO/schedule/#week-10-12-dec){:target="_blank"}   
 
-1. A **folder** of patches, abstractions, sounds, or other dependencies, as a Max project folder of the type demonstrated in [Week 10](#){:target="_blank"}  
+1. A **folder** of patches, abstractions, sounds, or other dependencies, as a Max project folder of the type demonstrated in [Week 10](/MHL-Advanced-CAO/schedule/#week-10-12-dec){:target="_blank"}  
 2. A clearly labeled **main patch**, which serves as your central interface and loads your other sub-patches and sounds    
 3. An **initialization (“init”)** routine that sets your piece's opening parameters, readying everything before your patch produces its first sound or event number.  
 4. An **input and output patch**: steal these from the versions we created earlier in the semester!  

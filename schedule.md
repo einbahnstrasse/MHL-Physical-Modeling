@@ -97,7 +97,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Listening   
 * Goeun talks about her new piece _"Into Another"_  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
 #### Assignments   
 * Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Advanced-CAO/final-mixed-piece/){:target="_blank"}     
@@ -110,29 +110,29 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 3: {{ site.week-03 }}  
 ### Spectral and Microtonal Harmony  
 
-#### Tutorials 
+<!-- #### Tutorials  -->
 
-#### Assignments  
+<!-- #### Assignments   -->
 
 * * *
 
 ## Week 4: {{ site.week-04 }}  
 ### Using Randomness and Distributions  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
 #### Assignments   
-* Alternative Proposal Checkpoint  
+* [Alternative Proposal Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *
 
 ## Week 5: {{ site.week-05 }}  
 ### Real-Time Analysis and Resynthesis  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
 #### Assignments   
-* 1st Checkpoint   
+* [1st Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     
 
 * * *
 
@@ -140,56 +140,56 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- ### Generating Scales, Harmonies, and Chords   -->
 ### _No Class!_  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
-#### Assignments   
+<!-- #### Assignments    -->
 
 * * *
 
 ## Week 7: {{ site.week-07 }}  
 ### Chaotic Attractors  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
 #### Assignments   
-* Midterm Exam Checkpoint  
+* [Midterm Exam Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *
 
 ## Week 8: {{ site.week-08 }}  
 ### _No Class!_  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
-#### Assignments   
+<!-- #### Assignments    -->
 
 * * *
 
 ## Week 9: {{ site.week-09 }}  
 ### Interpolation of Pitch and Rhythm  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
-#### Assignments  
+<!-- #### Assignments   -->
 
 * * *
 
 ## Week 10: {{ site.week-10 }}  
 ### Concert Patch Design   
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
-#### Assignments   
+<!-- #### Assignments    -->
 
 * * *
 
 ## Week 11: {{ site.week-11 }}  
 ### Introduction to SPAT~ for Multichannel Audio Spatialization  
 
-### Tutorials 
+<!-- ### Tutorials  -->
 
 ### Assignments  
-* Concert Patch Checkpoint  
+* [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 
 * * *
@@ -197,48 +197,48 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 12: {{ site.week-12 }}   
 ### Mirrors and Fractals: Webern and Risset  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
 #### Assignments   
-* Tech Rider Deadline  
+* [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *
 
 ## Week 13: {{ site.week-13 }}  
 ### Generation of Harmony: Boulez and Vivier    
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
 #### Assignments   
-* Deadline for Final Exam piece  
+* [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *
 
 ## Week 14: {{ site.week-14 }}  
 ### Advanced FM   
 
-#### Tutorials 
+<!-- #### Tutorials  -->
 
-#### Assignments  
+<!-- #### Assignments   -->
 
 * * *
 
 ## Week 15: {{ site.week-15 }}   
 ### Granular Synthesis      
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
-#### Assignments   
+<!-- #### Assignments    -->
 
 * * *
 
 ## Week 16: {{ site.week-16 }}  
 ### Physical Modeling ("Modal" Synthesis)  
 
-#### Tutorials   
+<!-- #### Tutorials    -->
 
 #### Assignments  
-* Debrief Checkpoint  
+* [Debrief Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *
 
@@ -246,8 +246,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- ### Physical Modeling ("Modal" Synthesis), Part II: Finite Elements   -->
 ### _No Class!_  
 
-#### Tutorials  
+<!-- #### Tutorials   -->
 
-#### Assignments   
+<!-- #### Assignments    -->
 
 * * *
