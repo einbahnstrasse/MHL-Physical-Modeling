@@ -100,6 +100,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Tutorials  
 
 #### Assignments   
+* Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Advanced-CAO/final-mixed-piece/){:target="_blank"}     
+
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files   -->
 
