@@ -122,6 +122,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Tutorials  
 
 #### Assignments   
+* Alternative Proposal Checkpoint  
 
 * * *
 
@@ -130,7 +131,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 #### Tutorials  
 
-#### Assignments  
+#### Assignments   
+* 1st Checkpoint   
 
 * * *
 
@@ -150,6 +152,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Tutorials  
 
 #### Assignments   
+* Midterm Exam Checkpoint  
 
 * * *
 
@@ -172,7 +175,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-### Introduction to SPAT~ for Multichannel Audio Spatialization  
+### Concert Patch Design   
 
 #### Tutorials  
 
@@ -181,11 +184,13 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-### Concert Patch Design   
+### Introduction to SPAT~ for Multichannel Audio Spatialization  
 
 ### Tutorials 
 
 ### Assignments  
+* Concert Patch Checkpoint  
+
 
 * * *
 
@@ -195,6 +200,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Tutorials  
 
 #### Assignments   
+* Tech Rider Deadline  
 
 * * *
 
@@ -204,6 +210,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Tutorials  
 
 #### Assignments   
+* Deadline for Final Exam piece  
 
 * * *
 
@@ -231,6 +238,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Tutorials   
 
 #### Assignments  
+* Debrief Checkpoint  
 
 * * *
 

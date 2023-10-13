@@ -283,12 +283,12 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">Introduction to SPAT~ for Multichannel Audio Spatialization</a></td>
+<td markdown="span"><a href="schedule/#w10" target="_blank">Concert Patch Design</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">{{ site.week-11 }}</td>
-<td markdown="span"><a href="schedule/#w11" target="_blank">Concert Patch Design</a></td>
+<td markdown="span"><a href="schedule/#w11" target="_blank">Introduction to SPAT~ for Multichannel Audio Spatialization</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
