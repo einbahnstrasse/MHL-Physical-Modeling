@@ -96,7 +96,7 @@ Many of the elements described below are provided in a Concert Patch Template we
 13. A **score** for your piece that _includes event numbers_ to be executed in your patch alongside your performer’s notated line. Include a PDF copy of your score inside your project folder.  
 14. A **tech rider** that satisfies the requirements of [MHL Digitale Kreation's Tech Rider Template](#){:target="_blank"}. Use the tempalate provided in class and through our periodically offered Tech Rider Workshops. The more detail, the better.     
 
-### 3.1 Concert Patch with Live Performer(s)   
+#### 3.1 Concert Patch with Live Performer(s)   
 
 Your performance patch accompanies a live musician (or musicans) as part of a **concert work with electronic sounds and processes (mixed music)**. This scenario may work best for those composing musical time _linearly_ (that is, for those accustomed to planning the general _moment-to-moment succession of musical events_), but you are **highly encouraged to explore _non-linear_ approaches**: that is, by allowing the classical performer or improvsier, audience members, or even a real-time data analysis stream to spontaneously influence or change the course of the piece. Despite its name, this option can employ any number of real-time tools.  
 
