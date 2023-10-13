@@ -152,7 +152,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 8: {{ site.week-08 }}  
-### Interpolation of Pitch and Rhythm  
+### _No Class!_  
 
 #### Tutorials  
 
@@ -161,7 +161,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### Operations on Rhythm  
+### Interpolation of Pitch and Rhythm  
 
 #### Tutorials  
 
@@ -206,7 +206,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-### Advanced FM: Chowning _Stria_   
+### Advanced FM   
 
 #### Tutorials 
 
@@ -215,7 +215,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 15: {{ site.week-15 }}   
-### Advanced FM: DX7 Emulation    
+### Granular Synthesis      
 
 #### Tutorials  
 
@@ -224,7 +224,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 16: {{ site.week-16 }}  
-### Physical Modeling ("Modal" Synthesis), Part I: Max Library  
+### Physical Modeling ("Modal" Synthesis)  
 
 #### Tutorials   
 

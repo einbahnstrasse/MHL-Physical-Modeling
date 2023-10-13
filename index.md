@@ -272,13 +272,13 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">{{ site.week-08 }}</td>
-<td markdown="span"><a href="schedule/#w8" target="_blank">Interpolation of Pitch and Rhythm</a>
+<td markdown="span"><a href="schedule/#w8" target="_blank"><em>No Class!</em></a>
 </td>
 </tr>
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Operations on Rhythm</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">Interpolation of Pitch and Rhythm</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
@@ -303,17 +303,17 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank">Advanced FM: Chowning <i>Stria</i></a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank">Advanced FM</a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank">Advanced FM: DX7 Emulation</a></td>
+<td markdown="span"><a href="schedule/#w15" target="_blank">Granular Synthesis</a></td>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="schedule/#w16" target="_blank">Physical Modeling ("Modal" Synthesis), Part I: Max Library</a></td>
+<td markdown="span"><a href="schedule/#w16" target="_blank">Physical Modeling ("Modal" Synthesis)</a></td>
 </tr>
 <tr>
 <td markdown="span">17</td>
