@@ -111,7 +111,7 @@ In general, almost everything is permissible, but there are a few ground rules. 
 * **Overemphasis on pop music production norms at the expense of our synthesis goals**. While I don’t mind if your final composition utilizes a typical pop music instrumentation or includes a beat, music that adheres strongly to song form based on typical chorus/refrain, or which overemphasizes vocals and lyrics, does not make sufficient use of our synthesis tools, or does not address or respond to the aesthetic questions studied in our class, will not be considered sufficient in scope. This class is an opportunity to deepen your understanding of more subtle and abstract musical relationships. If you normally write songs, use this project to compose something you’ve never composed before, like a granular piece, which will enrich your compositional and listening skills. A creative departure from basal songwriting is expected and will be graded closely.  
 * **Use of software we did not learn in class**. All of your materials should stem from our lessons in MaxMSP and bach, using your own field recordings or samples, and any other tools explored in class. The use of other software tools and external sample libraries is strictly prohibited. Pending availability, you may opt to record your own sounds on our MHL modular synthesizers, but you may not sample other software instruments or synthesizers.  
 
-### Rubric  
+### 5. Rubric  
 
 Details in the boxes below will be filled in upon grading and provided as feedback at the end of the semester. Each of the grading components below will be weighed against the others for a complete project grade.  
 
