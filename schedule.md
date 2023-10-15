@@ -248,6 +248,17 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 <!-- #### Tutorials   -->
 
+### Listening   
+* Piere Boulez, **_Le Marteau sans maître_** (1955) (_excerpts_)  
+  - _Excerpts to be determined._
+
+{% include video id="AwxB4lFMy3U" provider="youtube" %}    
+
+* Claude Vivier, **_Lonely Child_** (1980) (_excerpts_)   
+  - _Excerpts to be determined._
+
+{% include video id="pnaeUfNE-ew" provider="youtube" %}    
+
 #### Assignments   
 * [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
