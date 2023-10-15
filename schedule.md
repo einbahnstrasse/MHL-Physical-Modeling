@@ -229,12 +229,10 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 {% include video id="LOhZjgsqQ04" provider="youtube" %}    
 
 * Jean-Claude Risset, **_Huit esquisses en duo pour un pianiste_** (1989)  
-  - II. Mirrors  
-  {% include video id="Tz5qqMyAg88&t=137s" provider="youtube" %}    
+  - II. Mirrors (2:19)    
+  - IV. Fractals (5:53)   
 
-  - IV. Fractals  
-  {% include video id="Tz5qqMyAg88&t=353s" provider="youtube" %}    
-
+{% include video id="Tz5qqMyAg88" provider="youtube" %}    
 
 <!-- #### Tutorials   -->
 
