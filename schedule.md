@@ -141,7 +141,13 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 5: {{ site.week-05 }}  
 ### Real-Time Analysis and Resynthesis  
 
-<!-- #### Tutorials   -->
+<!-- #### Tutorials   -->  
+
+#### Listening   
+* Jonathan Bell, **_Au Commencement_** (2016) for Choir and Electronics       
+
+{% include video id="uVGPa1Z6Ji8" provider="youtube" %}    
+
 
 #### Assignments   
 * [1st Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     
