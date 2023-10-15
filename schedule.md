@@ -100,7 +100,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Tutorials   -->
 
 #### Assignments   
-* Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Advanced-CAO/final-mixed-piece/){:target="_blank"}     
+* Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Advanced-CAO/final-mixed-piece/){:target="_blank"}   
+* Consider the [score for _**Giffen Good**_ (2014) for Trombone and Live Electronics](https://drive.google.com/drive/u/0/search?q=giffen%20good){:target="_blank"} — as an example approach to using Bach for **generative notation** in a piece of of **mixed music**        
 
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files   -->
