@@ -267,6 +267,11 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 <!-- #### Tutorials  -->
 
+### Listening   
+* John Chowning, **_Stria_** (1977)   
+
+{% include video id="fTU1v0bPRE4" provider="youtube" %}    
+
 <!-- #### Assignments   -->
 
 * * *
@@ -276,6 +281,15 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 <!-- #### Tutorials   -->
 
+### Listening   
+* Iannis Xenakis, **_Concret PH_** (1958)   
+
+{% include video id="S9zMaIhuMgo" provider="youtube" %}    
+
+* Barry Truax, **_Riverrun_** (1986)   
+
+{% include video id="u81IGEFt7dM" provider="youtube" %}    
+
 <!-- #### Assignments    -->
 
 * * *
@@ -283,7 +297,20 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 16: {{ site.week-16 }}  
 ### Physical Modeling ("Modal" Synthesis)  
 
-<!-- #### Tutorials    -->
+#### Tutorials   
+* What is Modal Synthesis? – Sound Design Snacks 51   
+
+{% include video id="rCLNTaOzITc" provider="youtube" %}    
+
+### Listening   
+* Marco Stroppa, **_Come Play With Me_** (2018)   
+  - VI. _Strike_    
+
+{% include video id="DFWmCVs5GV0" provider="youtube" %}    
+
+* Hans Tutschku, **_Eikasia_** (1999/2007)   
+
+{% include video id="Rz_gKP6h61I" provider="youtube" %}    
 
 #### Assignments  
 * [Debrief Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
