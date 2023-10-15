@@ -170,7 +170,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Tutorials   -->  
 
 #### Listening   
-* Hans Tutschku, **_Shadow of bells_** (2014) for Piano and Live Llectronics  
+* Hans Tutschku, **_Shadow of bells_** (2014) for Piano and Live Electronics  
 * _Watch all 4 video clips in Hans’ series:_    
 <iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/371859612">using MaxMSP+bach to compose &#039;Shadow of bells&#039; - part 1/4</a> from <a href="https://vimeo.com/user65354774">Hans Tutschku</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
