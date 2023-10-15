@@ -274,7 +274,9 @@ _Check your operating system for compatibility and install one of these:_
 {% include video id="91PKZllbgds" provider="youtube" %}  
 
 _Choose auto-generated German translations of subtitles if it would help:_  
-![auto-generated subtitles](assets/images/auto-generated-subtitles.png)   
+
+<img src="assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
+<!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 #### MaxMSP   
 
