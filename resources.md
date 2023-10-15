@@ -275,7 +275,7 @@ _Check your operating system for compatibility and install one of these:_
 
 _Choose auto-generated German translations of subtitles if it would help:_  
 
-<img src="assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
+<img src="/MHL-Advanced-CAO/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 #### MaxMSP   
