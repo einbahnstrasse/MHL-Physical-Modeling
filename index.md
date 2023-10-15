@@ -308,7 +308,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank">Granular Synthesis</a></td>
+<td markdown="span"><a href="schedule/#w15" target="_blank">Granular Synthesis and Bach Slots</a></td>
 </tr>
 <tr>
 <td markdown="span">16</td>

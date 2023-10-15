@@ -225,7 +225,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 15: {{ site.week-15 }}   
-### Granular Synthesis      
+### Granular Synthesis and Bach Slots       
 
 <!-- #### Tutorials   -->
 
