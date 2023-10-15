@@ -192,9 +192,15 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### Interpolation of Pitch and Rhythm  
+### Interpolation of Pitch and Rhythm   
 
 <!-- #### Tutorials   -->
+
+#### Listening   
+* Magnus Lindberg, **_Joy_** (1989) for Ensemble and Electronics (_excerpts_)  
+  - _Excerpts to be determined._
+
+{% include video id="qtzqw2Gv2pQ" provider="youtube" %}    
 
 <!-- #### Assignments   -->
 
