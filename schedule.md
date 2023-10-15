@@ -111,7 +111,12 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 3: {{ site.week-03 }}  
 ### Spectral and Microtonal Harmony  
 
-<!-- #### Tutorials  -->
+<!-- #### Tutorials  -->  
+
+#### Listening   
+* "Nikola Kołodziejczyk’s _Instant Ensemble_ is a response to predictable and repeatable music tours. Sheet music for each concert of the seven-piece band is created live literally in front of the audience, composed in real-time by Nikola" :   
+
+{% include video id="gasJc0VEuo8" provider="youtube" %}    
 
 <!-- #### Assignments   -->
 
@@ -120,7 +125,13 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 4: {{ site.week-04 }}  
 ### Using Randomness and Distributions  
 
-<!-- #### Tutorials   -->
+<!-- #### Tutorials   -->  
+
+#### Listening   
+* Shai Cohen, **_Algorithmic Puzzle_** (2020) for Piano and Electronics: "_By pressing a key, the Markov synthesis moves forward one step. The notation is what the players press..._"     
+
+{% include video id="SYxSvWVY17Q" provider="youtube" %}    
+
 
 #### Assignments   
 * [Alternative Proposal Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
