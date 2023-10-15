@@ -92,7 +92,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### BACH and Polysynthesis in MaxMSP  
 
 #### Downloads   
-* [Bach and `poly~` boiler patches](#){:target="_blank"}     
+* [Bach and `poly~` boiler patches](https://github.com/einbahnstrasse/bach-poly-boiler-patches/){:target="_blank"}     
 
 #### Listening   
 * Goeun talks about her new piece _"Into Another"_  
