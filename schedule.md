@@ -223,6 +223,19 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 12: {{ site.week-12 }}   
 ### Mirrors and Fractals: Webern and Risset  
 
+### Listening   
+* Anton Webern, **_Variations for Piano_**, Op. 27 (1936)   
+
+{% include video id="LOhZjgsqQ04" provider="youtube" %}    
+
+* Jean-Claude Risset, **_Huit esquisses en duo pour un pianiste_** (1989)  
+  - II. Mirrors  
+  {% include video id="Tz5qqMyAg88&t=137s" provider="youtube" %}    
+
+  - IV. Fractals  
+  {% include video id="Tz5qqMyAg88&t=353s" provider="youtube" %}    
+
+
 <!-- #### Tutorials   -->
 
 #### Assignments   
