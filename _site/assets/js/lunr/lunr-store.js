@@ -45,13 +45,16 @@ var store = [{
     "excerpt":"Sorry, but the page you were trying to view does not exist.            ","url": "http://localhost:4000/404.html"
   },{
     "title": "Benotung",
-    "excerpt":"de en A list of assignments, deadlines, and points to help you plan for the semester. For an overview of grading policies for this course, see XI. General Grading Rubric, located in the SYLLABUS. Reminder: Unless otherwise noted, assignments are always due online on GitHub at 11:59 PM the following...","url": "http://localhost:4000/benotung/"
+    "excerpt":"de en en A list of assignments, deadlines, and points to help you plan for the semester. For an overview of grading policies for this course, see XI. General Grading Rubric, located in the SYLLABUS. Reminder: Unless otherwise noted, assignments are always due online on GitHub at 11:59 PM the...","url": "http://localhost:4000/benotung/"
   },{
     "title": "About",
     "excerpt":"Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea....","url": "http://localhost:4000/about/"
   },{
     "title": "Posts by Category",
     "excerpt":" ","url": "http://localhost:4000/categories/"
+  },{
+    "title": "Final Exam: Mixed Piece with Max Patch",
+    "excerpt":"Deadline: Week 13: 16 Jan. 1. Overview The final exam is a composition for instrument(s) with electronics realized in MaxMSP with occasional checkpoints where I evaluate your progress throughout the semester. For example, our Midterm Exam is one such checkpoint. Your project may be conceived as a work-in-progress but must...","url": "http://localhost:4000/final-mixed-piece/"
   },{
     "title": "Grading",
     "excerpt":"   A list of assignments, deadlines, and points to help you plan for the semester.  For an overview of grading policies for this course, see XI. General Grading Rubric, located in the SYLLABUS.   Coming soon!       ","url": "http://localhost:4000/grading/"
