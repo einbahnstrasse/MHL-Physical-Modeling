@@ -9,7 +9,7 @@ lang: en
 ref: grade  
 permalink: /story-curves/   
 toc: true  
-toc_label: "Final Exam Contents" # default: Content
+toc_label: "Story Curves Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc  
 read_time: true  
