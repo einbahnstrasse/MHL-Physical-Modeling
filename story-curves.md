@@ -28,7 +28,7 @@ Kurt Vonnegut (1922-2007) was an author of fiction with an engineering backgroun
 
 {% include video id="S5BhQiny7O0" provider="youtube" %}    
 
-> "Well there's no reason why the simple shapes of stories can't be fed into computers. They have beautiful shapes. [...] It's the shape of the curve that matters and not their origins." —Kurt Vonnegut  
+> "Well, there's no reason why **the simple shapes of stories** can't be fed into computers. They have beautiful shapes. [...] It's the **shape** of the curves that matter and **not their origins**." —Kurt Vonnegut  
 
 ### 2. Study the Patch   
 
