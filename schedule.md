@@ -158,7 +158,6 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Tutorials   -->
 
 #### Assignments  
-* Deadline for Story Curves Project   
 
 * * *
 
@@ -173,6 +172,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 {% include video id="uVGPa1Z6Ji8" provider="youtube" %}    
 
 #### Assignments   
+* Deadline for Story Curves Project   
 * [Midterm Exam Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *

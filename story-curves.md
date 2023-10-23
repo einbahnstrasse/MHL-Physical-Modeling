@@ -18,8 +18,7 @@ last_modified_at: 2023-08-28
 
 ---
 
-### Deadline: Week 6: {{ site.week-06 }}  
-_In one week!_   
+### Deadline: Week 7: {{ site.week-07 }}  
 
 ### 1. Watch the Video  
 
