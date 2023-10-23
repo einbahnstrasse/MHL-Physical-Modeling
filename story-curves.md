@@ -27,7 +27,7 @@ _Enable German subtitles if it would help._
 
 {% include video id="S5BhQiny7O0" provider="youtube" %}    
 
-> Well there's no reason why the simple shapes of stories can't be fed into computers. They have beautiful shapes. —Kurt Vonnegut  
+> "Well there's no reason why the simple shapes of stories can't be fed into computers. They have beautiful shapes. [...] It's the same of the curve that matters and not their origins." —Kurt Vonnegut  
 
 ### 2. Study the Patch   
 
