@@ -252,12 +252,12 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">{{ site.week-04 }}</td>
-<td markdown="span"><a href="schedule/#w4" target="_blank">Using Randomness and Distributions</a></td>
+<td markdown="span"><a href="schedule/#w4" target="_blank"><em>No Class!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">Real-Time Analysis and Resynthesis</a></td>
+<td markdown="span"><a href="schedule/#w5" target="_blank">Using Randomness and Distributions</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
@@ -267,7 +267,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">Chaotic Attractors</a></td>
+<td markdown="span"><a href="schedule/#w7" target="_blank">Real-Time Analysis and Resynthesis</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
@@ -278,7 +278,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Interpolation of Pitch and Rhythm</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">Chaotic Attractors</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
@@ -293,27 +293,27 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">{{ site.week-12 }}</td>
-<td markdown="span"><a href="schedule/#w12" target="_blank">Mirrors and Fractals: Webern and Risset</a></td>
+<td markdown="span"><a href="schedule/#w12" target="_blank">Interpolation of Pitch and Rhythm</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
 <td markdown="span">{{ site.week-13 }}</td>
-<td markdown="span"><a href="schedule/#w13" target="_blank">Generation of Harmony: Boulez and Vivier</a></td>
+<td markdown="span"><a href="schedule/#w13" target="_blank">Werkstatt für Aktuelle Musik</a></td>
 </tr>
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank">Advanced FM</a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank">Mirrors and Fractals: Webern and Risset</a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank">Granular Synthesis and Bach Slots</a></td>
+<td markdown="span"><a href="schedule/#w15" target="_blank">Advanced FM</a></td>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="schedule/#w16" target="_blank">Physical Modeling ("Modal" Synthesis)</a></td>
+<td markdown="span"><a href="schedule/#w16" target="_blank">Granular Synthesis and Bach Slots</a></td>
 </tr>
 <tr>
 <td markdown="span">17</td>

@@ -118,11 +118,24 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 {% include video id="gasJc0VEuo8" provider="youtube" %}    
 
+* Claude Vivier, **_Lonely Child_** (1980) (_excerpts_)   
+  - _Excerpts to be determined._
+
+{% include video id="pnaeUfNE-ew" provider="youtube" %}    
+
 <!-- #### Assignments   -->
 
-* * *
+* * *  
 
 ## Week 4: {{ site.week-04 }}  
+### _No Class!_    
+
+#### Assignments   
+* [Alternative Proposal Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+
+* * *  
+
+## Week 5: {{ site.week-05 }}  
 ### Using Randomness and Distributions  
 
 <!-- #### Tutorials   -->  
@@ -132,27 +145,12 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 {% include video id="SYxSvWVY17Q" provider="youtube" %}    
 
-
-#### Assignments   
-* [Alternative Proposal Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
-
-* * *
-
-## Week 5: {{ site.week-05 }}  
-### Real-Time Analysis and Resynthesis  
-
-<!-- #### Tutorials   -->  
-
-#### Listening   
-* Jonathan Bell, **_Au Commencement_** (2016) for Choir and Electronics       
-
-{% include video id="uVGPa1Z6Ji8" provider="youtube" %}    
-
+* * *    
 
 #### Assignments   
 * [1st Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     
 
-* * *
+* * *   
 
 ## Week 6: {{ site.week-06 }}  
 <!-- ### Generating Scales, Harmonies, and Chords   -->
@@ -165,17 +163,14 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 7: {{ site.week-07 }}  
-### Chaotic Attractors  
+### Real-Time Analysis and Resynthesis  
 
 <!-- #### Tutorials   -->  
 
 #### Listening   
-* Hans Tutschku, **_Shadow of bells_** (2014) for Piano and Live Electronics  
-* _Watch all 4 video clips in Hans’ series. Here is Part 1:_    
-<iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>  
-* [Part 2](https://vimeo.com/371859285){:target="_blank"}     
-* [Part 3](https://vimeo.com/371859404){:target="_blank"}     
-* [Part 4](https://vimeo.com/371859503){:target="_blank"}     
+* Jonathan Bell, **_Au Commencement_** (2016) for Choir and Electronics       
+
+{% include video id="uVGPa1Z6Ji8" provider="youtube" %}    
 
 #### Assignments   
 * [Midterm Exam Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
@@ -187,22 +182,22 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 <!-- #### Tutorials   -->
 
-<!-- #### Assignments    -->
+#### Assignments      
+* Hans Tutschku, **_Shadow of bells_** (2014) for Piano and Live Electronics  
+* _Watch all 4 video clips in Hans’ series. Here is Part 1:_    
+<iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>  
+* [Part 2](https://vimeo.com/371859285){:target="_blank"}     
+* [Part 3](https://vimeo.com/371859404){:target="_blank"}     
+* [Part 4](https://vimeo.com/371859503){:target="_blank"}     
 
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### Interpolation of Pitch and Rhythm   
+### Chaotic Attractors  
 
-<!-- #### Tutorials   -->
+<!-- #### Tutorials   -->  
 
-#### Listening   
-* Magnus Lindberg, **_Joy_** (1989) for Ensemble and Electronics (_excerpts_)  
-  - _Excerpts to be determined._
-
-{% include video id="qtzqw2Gv2pQ" provider="youtube" %}    
-
-<!-- #### Assignments   -->
+<!-- #### Assignments    -->
 
 * * *
 
@@ -227,6 +222,35 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 12: {{ site.week-12 }}   
+### Interpolation of Pitch and Rhythm   
+
+<!-- #### Tutorials   -->
+
+#### Listening   
+* Magnus Lindberg, **_Joy_** (1989) for Ensemble and Electronics (_excerpts_)  
+  - _Excerpts to be determined._
+
+{% include video id="qtzqw2Gv2pQ" provider="youtube" %}    
+
+<!-- #### Assignments   -->
+
+#### Assignments   
+* [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+
+* * *
+
+## Week 13: {{ site.week-13 }}  
+### Werkstatt für Aktuelle Musik   
+_Schedule to be announced..._    
+
+<!-- #### Tutorials   -->
+
+#### Assignments   
+* [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+
+* * *
+
+## Week 14: {{ site.week-14 }}  
 ### Mirrors and Fractals: Webern and Risset  
 
 ### Listening   
@@ -240,35 +264,11 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 {% include video id="Tz5qqMyAg88" provider="youtube" %}    
 
-<!-- #### Tutorials   -->
-
-#### Assignments   
-* [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+### Assignments  
 
 * * *
 
-## Week 13: {{ site.week-13 }}  
-### Generation of Harmony: Boulez and Vivier    
-
-<!-- #### Tutorials   -->
-
-### Listening   
-* Piere Boulez, **_Le Marteau sans maître_** (1955) (_excerpts_)  
-  - _Excerpts to be determined._
-
-{% include video id="AwxB4lFMy3U" provider="youtube" %}    
-
-* Claude Vivier, **_Lonely Child_** (1980) (_excerpts_)   
-  - _Excerpts to be determined._
-
-{% include video id="pnaeUfNE-ew" provider="youtube" %}    
-
-#### Assignments   
-* [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
-
-* * *
-
-## Week 14: {{ site.week-14 }}  
+## Week 15: {{ site.week-15 }}   
 ### Advanced FM   
 
 <!-- #### Tutorials  -->
@@ -278,11 +278,11 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 {% include video id="fTU1v0bPRE4" provider="youtube" %}    
 
-<!-- #### Assignments   -->
+#### Assignments  
 
 * * *
 
-## Week 15: {{ site.week-15 }}   
+## Week 16: {{ site.week-16 }}  
 ### Granular Synthesis and Bach Slots       
 
 <!-- #### Tutorials   -->
@@ -295,28 +295,6 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * Barry Truax, **_Riverrun_** (1986)   
 
 {% include video id="u81IGEFt7dM" provider="youtube" %}    
-
-<!-- #### Assignments    -->
-
-* * *
-
-## Week 16: {{ site.week-16 }}  
-### Physical Modeling ("Modal" Synthesis)  
-
-#### Tutorials   
-* What is Modal Synthesis? – Sound Design Snacks 51   
-
-{% include video id="rCLNTaOzITc" provider="youtube" %}    
-
-### Listening   
-* Marco Stroppa, **_Come Play With Me_** (2018)   
-  - VI. _Strike_    
-
-{% include video id="DFWmCVs5GV0" provider="youtube" %}    
-
-* Hans Tutschku, **_Eikasia_** (1999/2007)   
-
-{% include video id="Rz_gKP6h61I" provider="youtube" %}    
 
 #### Assignments  
 * [Debrief Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
