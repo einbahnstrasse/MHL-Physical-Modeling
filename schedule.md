@@ -183,12 +183,15 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Tutorials   -->
 
 #### Assignments      
+* Install MuBu before Week 8 _(See Resources page for details...)_    
 * Hans Tutschku, **_Shadow of bells_** (2014) for Piano and Live Electronics  
-* _Watch all 4 video clips in Hans’ series. Here is Part 1:_    
+  - _Watch all 4 video clips in Hans’ series. Here is Part 1:_    
+
 <iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>  
-* [Part 2](https://vimeo.com/371859285){:target="_blank"}     
-* [Part 3](https://vimeo.com/371859404){:target="_blank"}     
-* [Part 4](https://vimeo.com/371859503){:target="_blank"}     
+
+  - [Part 2](https://vimeo.com/371859285){:target="_blank"}     
+  - [Part 3](https://vimeo.com/371859404){:target="_blank"}     
+  - [Part 4](https://vimeo.com/371859503){:target="_blank"}     
 
 * * *
 
