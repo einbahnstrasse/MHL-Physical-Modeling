@@ -23,7 +23,11 @@ _In one week!_
 
 ### 1. Watch the Video  
 
+_Enable German subtitles if it would help._   
+
 {% include video id="S5BhQiny7O0" provider="youtube" %}    
+
+> Well there's no reason why the simple shapes of stories can't be fed into computers. They have beautiful shapes. —Kurt Vonnegut  
 
 ### 2. Study the Patch   
 
