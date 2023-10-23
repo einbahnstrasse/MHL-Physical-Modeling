@@ -119,7 +119,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 {% include video id="gasJc0VEuo8" provider="youtube" %}    
 
 * Claude Vivier, **_Lonely Child_** (1980) (_excerpts_)   
-  - _Excerpts to be determined._
+  <!-- - _Excerpts to be determined._ -->
 
 {% include video id="pnaeUfNE-ew" provider="youtube" %}    
 
