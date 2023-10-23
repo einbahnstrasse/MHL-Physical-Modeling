@@ -24,7 +24,7 @@ last_modified_at: 2023-08-28
 
 _Enable German subtitles if it would help._   
 
-**Kurt Vonnegut (1922-2007)** was an author of fiction with an engineering background, who thought mathematically about how to tell his stories, which include notable works such as **_Slauterhouse-Five, Cat's Cradle, Breakfast of Champions, A Man Without a Country,_** and other novels.  
+**Kurt Vonnegut (1922-2007)** was an author of fiction with an engineering background, who thought **mathematically about the form** of his stories, which include notable works such as **_Slauterhouse-Five, Cat's Cradle, Breakfast of Champions, A Man Without a Country,_** and other novels.  
 
 {% include video id="S5BhQiny7O0" provider="youtube" %}    
 
