@@ -42,3 +42,5 @@ _Enable German subtitles if it would help._
 * Recall from our lessons how we generated bach lists of `onsets`, `cents`, `durations`, and `velocities`.  
 * Map your data to pitches and rhythms in some way, however you like, and send it to `bach.roll`.  
 * Play your sequence using `bach.ezmidiplay`. Make changes and adjust your algorithm to "personalize" it and obtain something you like!    
+
+_Be prepared to share your bach sequence and patch in class in Week 7!_    
