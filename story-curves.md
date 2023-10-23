@@ -24,9 +24,11 @@ last_modified_at: 2023-08-28
 
 _Enable German subtitles if it would help._   
 
+Kurt Vonnegut (1922-2007) was an author of fiction with an engineering background, and thought mathetmatically about how to tell his stories, which include notable works such as _Slauterhouse-Five, Cat's Cradle, Breakfast of Champions, A Man Without a Country,_ and other novels.  
+
 {% include video id="S5BhQiny7O0" provider="youtube" %}    
 
-> "Well there's no reason why the simple shapes of stories can't be fed into computers. They have beautiful shapes. [...] It's the same of the curve that matters and not their origins." —Kurt Vonnegut  
+> "Well there's no reason why the simple shapes of stories can't be fed into computers. They have beautiful shapes. [...] It's the shape of the curve that matters and not their origins." —Kurt Vonnegut  
 
 ### 2. Study the Patch   
 
