@@ -44,9 +44,6 @@ var store = [{
     "title": "Page Not Found!",
     "excerpt":"Sorry, but the page you were trying to view does not exist.            ","url": "http://localhost:4000/404.html"
   },{
-    "title": "Benotung",
-    "excerpt":"de en en A list of assignments, deadlines, and points to help you plan for the semester. For an overview of grading policies for this course, see XI. General Grading Rubric, located in the SYLLABUS. Reminder: Unless otherwise noted, assignments are always due online on GitHub at 11:59 PM the...","url": "http://localhost:4000/benotung/"
-  },{
     "title": "About",
     "excerpt":"Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea....","url": "http://localhost:4000/about/"
   },{
@@ -59,23 +56,20 @@ var store = [{
     "title": "Grading",
     "excerpt":"   A list of assignments, deadlines, and points to help you plan for the semester.  For an overview of grading policies for this course, see XI. General Grading Rubric, located in the SYLLABUS.   Coming soon!       ","url": "http://localhost:4000/grading/"
   },{
-    "title": "Lehrplan",
-    "excerpt":"Grundlegender Kurs + Kontaktinformationen Kurs Nummer: 00789 Semester: Herbst/Winter 2023 Zeit: Dienstags 14:30-16:00 Standort: 2.43 Elektronisches Musikstudio Format: Seminar Modalität: Persönlich* * Hybrid und virtuell verfügbar unter mildernden Umständen nach Ermessen des Kursleiters Lehrerin: Louis Goldford Email: Louis.Goldford@mh-luebeck.de Geschäftszeiten: Montag — Mittwoch nach Vereinbarung Bürostandort: 2.47A “Das Aquarium” (neben 2.43...","url": "http://localhost:4000/syllabus/"
-  },{
     "title": "Syllabus",
     "excerpt":"1. Essential Contact Information Course Number: 00789 Semester: Fall/Winter 2023 Time: Tuesdays 14:30-16:00 Location: 2.43 Electronic Music Studio Format: Seminar Modality: In-person* * hybrid and virtual available in extenuating circumstances at the discretion of the instructor Instructor: Louis Goldford Email: Louis.Goldford@mh-luebeck.de Office Hours: Monday — Wednedsay by appointment Office Location:...","url": "http://localhost:4000/"
   },{
     "title": null,
     "excerpt":"/*! * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE) */ /* Variables */ /* ========================================================================== Variables ========================================================================== */ /* Typography ========================================================================== */ @import url(\"https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,400;0,600;1,100;1,400;1,600&display=swap\"); @font-face { font-family: 'Florencesans-Exp-Bold'; src: url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.woff\") format(\"woff\"), url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.svg#Florencesans-Exp-Bold\") format(\"svg\"), url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.eot\"), url(\"https://einbahnstrasse.github.io/MHL-Advanced-CAO/assets/fonts/Florencesans-Exp-Bold.ttf.eot?#iefix\")...","url": "http://localhost:4000/assets/main.css"
   },{
-    "title": "Software und Ressourcen",
-    "excerpt":"Eine Liste der Dinge, die wir im Laufe des Kurses verwenden werden. Stellen Sie sicher, dass Sie diese installieren und testen, bevor Sie in den Unterricht kommen. MaxMSP Laden Sie den aktuellen Build herunter und installieren Sie ihn von: MaxMSP Die neuesten Veröffentlichungen sollten jedoch unsere Arbeit im Unterricht unterstützen....","url": "http://localhost:4000/resources/"
-  },{
     "title": "Software + Resources",
     "excerpt":"A list of stuff we’ll be using throughout the course. Be sure to install + verify these applications before their respective deadlines listed on our Schedule page. MaxMSP Download + install the current build from: MaxMSP Most recent releases should support our work in class, however. At the time of...","url": "http://localhost:4000/resources/"
   },{
     "title": "Schedule",
     "excerpt":"This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the Current MHL Academic Calendar. The following topics and their precise order may change. Check here for updates! Week 1: 10 Oct. Introduction to the BACH library...","url": "http://localhost:4000/schedule/"
+  },{
+    "title": "Story Curves Project",
+    "excerpt":"Deadline: Week 6: 14 Nov. In one week! 1. Watch the Video 2. Study the Patch 3. Create a Small Étude Use the multislider object to recreate Kurt Vonnegut’s story curves, or make your own. Transform, scale, or re-calculate things based on your curve’s points by any means. Recall from...","url": "http://localhost:4000/story-curves/"
   },{
     "title": "Posts by Tag",
     "excerpt":" ","url": "http://localhost:4000/tags/"

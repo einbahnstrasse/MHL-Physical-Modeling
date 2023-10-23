@@ -145,9 +145,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 {% include video id="SYxSvWVY17Q" provider="youtube" %}    
 
-* * *    
-
 #### Assignments   
+* Assign the [Story Curves Project](https://einbahnstrasse.github.io/MHL-Advanced-CAO/story-curves/){:target="_blank"}      
 * [1st Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     
 
 * * *   
@@ -158,7 +157,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 <!-- #### Tutorials   -->
 
-<!-- #### Assignments    -->
+#### Assignments  
+* Deadline for Story Curves Project   
 
 * * *
 

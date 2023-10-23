@@ -29,9 +29,6 @@
 <lastmod>2019-04-18T21:34:30+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/benotung/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -46,10 +43,6 @@
 <lastmod>2023-08-28T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/syllabus/</loc>
-<lastmod>2023-08-28T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/</loc>
 <lastmod>2023-08-28T00:00:00+02:00</lastmod>
 </url>
@@ -58,11 +51,11 @@
 <lastmod>2023-08-28T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/resources/</loc>
+<loc>http://localhost:4000/schedule/</loc>
 <lastmod>2023-08-28T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/schedule/</loc>
+<loc>http://localhost:4000/story-curves/</loc>
 <lastmod>2023-08-28T00:00:00+02:00</lastmod>
 </url>
 <url>
