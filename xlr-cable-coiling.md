@@ -18,7 +18,7 @@ last_modified_at: 2023-08-28
 
 ---
 
-## Deadline: Week 7: {{ site.week-07 }}  
+## Deadline: Week 6: {{ site.week-06 }}  
 
 Microphones and speakers are connected using [3-pin XLR cables](https://www.google.com/search?q=xlr+cable&sca_esv=571840155&tbm=isch&sxsrf=AM9HkKl7SE-2oID6ZJbkkx17KCT-LoPdMQ:1696851973303&source=lnms&sa=X&ved=0ahUKEwjd6OqY8uiBAxWbQ_EDHbo7CQUQ0pQJCKIJ&biw=1569&bih=939&dpr=2.2){:target="_blank"}:   
 

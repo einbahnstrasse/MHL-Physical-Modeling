@@ -174,7 +174,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 {% include video id="uVGPa1Z6Ji8" provider="youtube" %}    
 
 #### Assignments   
-* Deadline for Story Curves Project   
+* <span style="color: red;"><em>Deadline for Story Curves Project</em></span>     
 * [Midterm Exam Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *
@@ -233,7 +233,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 #### Listening   
 * Magnus Lindberg, **_Joy_** (1989) for Ensemble and Electronics (_excerpts_)  
-  - _Excerpts to be determined._
+  <!-- - _Excerpts to be determined._ -->
 
 {% include video id="qtzqw2Gv2pQ" provider="youtube" %}    
 
