@@ -123,7 +123,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 {% include video id="pnaeUfNE-ew" provider="youtube" %}    
 
-<!-- #### Assignments   -->
+#### Assignments  
+* Assign + discuss the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Advanced-CAO/xlr-cable-coiling/){:target="_blank"} Assignment.  
 
 * * *  
 
@@ -158,6 +159,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Tutorials   -->
 
 #### Assignments  
+* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
 
 * * *
 
