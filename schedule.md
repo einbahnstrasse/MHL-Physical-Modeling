@@ -251,7 +251,8 @@ _Schedule to be announced..._
 <!-- #### Tutorials   -->
 
 #### Assignments   
-* [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+* <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints" target="_blank">Deadline for Final Exam piece</a></em></span>
+<!-- * [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 
 * * *
 
