@@ -293,6 +293,7 @@ _Schedule to be announced..._
 <!-- #### Tutorials   -->
 
 ### Listening   
+* Jakob talks about his installation (ca. 5 min.)   
 * Iannis Xenakis, **_Concret PH_** (1958)   
 
 {% include video id="S9zMaIhuMgo" provider="youtube" %}    
