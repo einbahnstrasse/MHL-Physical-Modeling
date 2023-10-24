@@ -240,7 +240,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Assignments   -->
 
 #### Assignments   
-* [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+* <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints" target="_blank">Tech Rider Deadline</a></em></span>
+<!-- * [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 
 * * *
 
