@@ -34,7 +34,9 @@ _Enable German subtitles if it would help._
 
 <img src="/MHL-Advanced-CAO/assets/images/vonnegut.patch.v01.png" alt="Vonnegut-patch">   
 
-[Download this boiler patch here.](/MHL-Advanced-CAO/assets/patches/vonnegut.story.shapes.v01.maxpat){:target="_blank"}  
+<a href="/MHL-Advanced-CAO/assets/patches/vonnegut.story.shapes.v01.maxpat" target="_blank" class="btn btn--primary">Download this boiler patch here</a>   
+
+<!-- [Download this boiler patch here.](/MHL-Advanced-CAO/assets/patches/vonnegut.story.shapes.v01.maxpat){:target="_blank"}   -->
 
 ### 3. Create a Small Étude   
 
