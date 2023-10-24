@@ -59,7 +59,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Assignments   
 * Install MaxMSP    
 * Install the BACH Library   
-* (deadlne for these installations: Week 2 before class! see our Resources page for instructions)   
+* (deadline for these installations: Week 2 before class! see our Resources page for instructions)   
 
 <!-- * [About the Command Line](/Goldford-MTEC1003/labs/01/command-line.html){:target="_blank"}  
 * [Entering Commands](/Goldford-MTEC1003/labs/01/entering-commands.html){:target="_blank"}  
