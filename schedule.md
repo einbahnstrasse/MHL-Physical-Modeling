@@ -141,6 +141,9 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 <!-- #### Tutorials   -->  
 
+#### Downloads  
+* [Using Randomness and Reservoirs: Boiler Patches](https://github.com/einbahnstrasse/week.5.boiler.patches){:target="_blank"}     
+
 #### Listening   
 * Shai Cohen, **_Algorithmic Puzzle_** (2020) for Piano and Electronics: "_By pressing a key, the Markov synthesis moves forward one step. The notation is what the players press..._"     
 
