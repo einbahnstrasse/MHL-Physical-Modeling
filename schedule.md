@@ -169,7 +169,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 7: {{ site.week-07 }}  
 ### Real-Time Analysis and Resynthesis  
 
-<!-- #### Tutorials   -->  
+#### Tutorials    
+* [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}     
 
 #### Listening   
 * Jonathan Bell, **_Au Commencement_** (2016) for Choir and Electronics       
