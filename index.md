@@ -278,12 +278,12 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Chaotic Attractors</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">Concert Patch Design</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">Concert Patch Design</a></td>
+<td markdown="span"><a href="schedule/#w10" target="_blank">Chaotic Attractors</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>

@@ -202,16 +202,18 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### Chaotic Attractors  
+### Concert Patch Design   
 
-<!-- #### Tutorials   -->  
+#### Tutorials    
+* [MyMagnumOpus Boiler Patch](#){:target="_blank"}     
 
-<!-- #### Assignments    -->
+#### Assignments   
+* Start assembling and formatting your piece using today's concert patch template!  
 
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-### Concert Patch Design   
+### Chaotic Attractors    
 
 <!-- #### Tutorials   -->
 
