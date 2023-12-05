@@ -205,7 +205,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### Concert Patch Design   
 
 #### Tutorials    
-* [MyMagnumOpus Boiler Patch](#){:target="_blank"}     
+* [MyMagnumOpus Boiler Patch](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}     
 
 #### Assignments   
 * Start assembling and formatting your piece using today's concert patch template!  
