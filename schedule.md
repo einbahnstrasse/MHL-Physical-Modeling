@@ -215,7 +215,13 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 10: {{ site.week-10 }}  
 ### Chaotic Attractors    
 
-<!-- #### Tutorials   -->
+#### Tutorials  
+* [Chaotic Sounds](https://youtu.be/EwunJYwxNcs?si=Rl-yXsSsj6ZUIVhV){:target="_blank"}    
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EwunJYwxNcs?si=K4f8AMN_iiqDRYsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Downloads   
+* [Chaotic boiler patches](https://github.com/einbahnstrasse/MHL-AC-chaos-boiler){:target="_blank"}    
 
 <!-- #### Assignments    -->
 
