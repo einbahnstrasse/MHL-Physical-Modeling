@@ -216,7 +216,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### Chaotic Attractors    
 
 #### Tutorials  
-* [Chaotic Sounds](https://youtu.be/EwunJYwxNcs?si=Rl-yXsSsj6ZUIVhV){:target="_blank"}    
+* [Representation of Strange Attractors and Fractals](http://www.3d-meier.de/tut19/Seite0.html){:target="_blank"}   
+* [Chaotic Sounds Video Tutorial](https://youtu.be/EwunJYwxNcs?si=Rl-yXsSsj6ZUIVhV){:target="_blank"}    
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EwunJYwxNcs?si=K4f8AMN_iiqDRYsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
