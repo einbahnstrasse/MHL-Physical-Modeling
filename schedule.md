@@ -222,8 +222,10 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [MIT Animation of the Thomas Attractor](https://turbowarp.org/197965154){:target="_blank"}   
 
 >"the trajectory of a frictionally dampened particle moving in a 3D lattice of forces"  
+
 >"_b_ corresponds to how dissipative the system is"   
->_dt_ is the time step: larger values means the particles move faster   
+
+>"_dt_ is the time step: larger values means the particles move faster"   
 
 #### Tutorials  
 * [List of Strange Attractors + Fractals](http://www.3d-meier.de/tut19/Seite0.html){:target="_blank"}   
