@@ -215,8 +215,12 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 10: {{ site.week-10 }}  
 ### Chaotic Attractors    
 
+#### Definitions  
+* [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}   
+* [Strange Attractor](https://en.wikipedia.org/wiki/Attractor){:target="_blank"}   
+
 #### Tutorials  
-* [Representation of Strange Attractors and Fractals](http://www.3d-meier.de/tut19/Seite0.html){:target="_blank"}   
+* [List of Strange Attractors + Fractals](http://www.3d-meier.de/tut19/Seite0.html){:target="_blank"}   
 * [Chaotic Sounds Video Tutorial](https://youtu.be/EwunJYwxNcs?si=Rl-yXsSsj6ZUIVhV){:target="_blank"}    
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EwunJYwxNcs?si=K4f8AMN_iiqDRYsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -233,7 +237,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 <!-- ### Tutorials  -->
 
-### Assignments  
+### Assignments   
 * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 
