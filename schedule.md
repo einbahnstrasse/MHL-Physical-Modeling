@@ -15,8 +15,8 @@ toc_label: "Schedule" # default: Content
 toc_icon: "bell"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc 
 read_time: true  
-date: 2023-08-01  
-last_modified_at: 2023-08-28  
+date: 2024-03-20   
+last_modified_at: 2024-03-20   
 
 ---
 
@@ -311,35 +311,5 @@ _Schedule to be announced..._
 {% include video id="fTU1v0bPRE4" provider="youtube" %}    
 
 #### Assignments  
-
-* * *
-
-## Week 16: {{ site.week-16 }}  
-### Granular Synthesis and Bach Slots       
-
-<!-- #### Tutorials   -->
-
-### Listening   
-* Jakob talks about his installation (ca. 5 min.)   
-* Iannis Xenakis, **_Concret PH_** (1958)   
-
-{% include video id="S9zMaIhuMgo" provider="youtube" %}    
-
-* Barry Truax, **_Riverrun_** (1986)   
-
-{% include video id="u81IGEFt7dM" provider="youtube" %}    
-
-#### Assignments  
-* [Debrief Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
-
-* * *
-
-## Week 17: {{ site.week-17 }}   
-<!-- ### Physical Modeling ("Modal" Synthesis), Part II: Finite Elements   -->
-### _No Class!_  
-
-<!-- #### Tutorials   -->
-
-<!-- #### Assignments    -->
 
 * * *

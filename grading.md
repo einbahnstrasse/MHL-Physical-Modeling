@@ -13,8 +13,8 @@ toc_label: "Grading Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc  
 read_time: true  
-date: 2023-08-01  
-last_modified_at: 2023-08-28  
+date: 2024-03-20    
+last_modified_at: 2024-03-20  
 
 ---
 

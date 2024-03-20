@@ -40,7 +40,7 @@ last_modified_at: 2024-03-20
 **Time:** Tuesdays 14:30-16:00    
 **Location:** 2.43 Electronic Music Studio   
 **Format:** Seminar   
-**Modality:** In-person<b>*</b>   
+**Modality:** In-person     
 <!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
 **Instructor:** Louis Goldford  
@@ -310,7 +310,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <td markdown="span">{{ site.week-15 }}</td>
 <td markdown="span"><a href="schedule/#w15" target="_blank">Advanced FM</a></td>
 </tr>
-<tr>
+<!-- <tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
 <td markdown="span"><a href="schedule/#w16" target="_blank">Granular Synthesis and Bach Slots</a></td>
@@ -319,7 +319,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
 <td markdown="span"><a href="schedule/#w17" target="_blank"><em>No Class!</em></a></td>
-</tr>
+</tr> -->
 </tbody>
 </table>
 </div>
@@ -344,7 +344,7 @@ I understand the value of personal integrity and ethical behavior in all aspects
 2. Only turning in work that I have done myself, and not using unattributed work done by others. While working and studying with others can be an effective way to learn, submitted work will be my own.  
 3. Giving full and proper credit to sources and references, and acknowledging the contributions and ideas of others, in my academic work.  
 
-Further, I have read and understand the college’s [Academic Integrity Policy found in the New York City College of Technology College Catalog, p. 56 of the spring 2020 catalog.](http://www.citytech.cuny.edu/catalog/docs/catalog.pdf#page=56){:target="_blank"}  
+<!-- Further, I have read and understand the college’s [Academic Integrity Policy found in the New York City College of Technology College Catalog, p. 56 of the spring 2020 catalog.](http://www.citytech.cuny.edu/catalog/docs/catalog.pdf#page=56){:target="_blank"}   -->
 
 (Modified from the Marquette University Honor Code, PB, RB; AM; 12/23/2020)  
 
