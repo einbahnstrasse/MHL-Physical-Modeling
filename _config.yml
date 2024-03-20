@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Physical Modeling ("Modal") Synthesis   
+title: Physical Modeling (Modal) Synthesis   
 email: Louis.Goldford@mh-luebeck.de  
 description: >- # this means to ignore newlines until "baseurl:"
   Summer 2024 | Tuesdays 14:30—16:00 | Electronic Music Studio    
@@ -24,7 +24,7 @@ search: true
 lunr:  
   search_within_pages: true   
 
-# baseurl: MHL-Advanced-CAO
+# baseurl: MHL-Advanced-CAO # needs to be commented out!  
 
 # Build settings
 markdown: kramdown
