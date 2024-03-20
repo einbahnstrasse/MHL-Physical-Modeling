@@ -24,7 +24,7 @@ search: true
 lunr:  
   search_within_pages: true   
 
-# baseurl: MHL-Advanced-CAO # needs to be commented out!  
+# baseurl: MHL-Physical-Modeling # needs to be commented out!  
 
 # Build settings
 markdown: kramdown

@@ -32,11 +32,11 @@ _Enable German subtitles if it would help._
 
 ### 2. Study the Patch   
 
-<img src="/MHL-Advanced-CAO/assets/images/vonnegut.patch.v01.png" alt="Vonnegut-patch">   
+<img src="/MHL-Physical-Modeling/assets/images/vonnegut.patch.v01.png" alt="Vonnegut-patch">   
 
-<a href="/MHL-Advanced-CAO/assets/patches/vonnegut.story.shapes.v01.maxpat" target="_blank" class="btn btn--primary">Download this boiler patch here</a>   
+<a href="/MHL-Physical-Modeling/assets/patches/vonnegut.story.shapes.v01.maxpat" target="_blank" class="btn btn--primary">Download this boiler patch here</a>   
 
-<!-- [Download this boiler patch here.](/MHL-Advanced-CAO/assets/patches/vonnegut.story.shapes.v01.maxpat){:target="_blank"}   -->
+<!-- [Download this boiler patch here.](/MHL-Physical-Modeling/assets/patches/vonnegut.story.shapes.v01.maxpat){:target="_blank"}   -->
 
 ### 3. Create a Small Étude   
 

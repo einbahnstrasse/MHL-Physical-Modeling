@@ -24,7 +24,7 @@ last_modified_at: 2024-03-20
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %}
-    <li class="zoom"><a href="/MHL-Advanced-CAO{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
+    <li class="zoom"><a href="/MHL-Physical-Modeling{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
   {% endfor %}
 </div>
 
@@ -98,15 +98,15 @@ To begin, in MaxMSP go to `File > Show Package Manager`.
 
 In the Package Manager window that pops up, type the name of a package, e.g., `miraweb`, in the search bar at the upper-right, and then click the MiraWeb package at the bottom to install:  
 
-<img src="/MHL-Advanced-CAO/assets/images/01.package.manager.png" alt="package manager">
+<img src="/MHL-Physical-Modeling/assets/images/01.package.manager.png" alt="package manager">
 
 On the next page, click the <span style="font-weight: bold; color: lightblue;">blue</span> `Install` button:
 
-<img src="/MHL-Advanced-CAO/assets/images/02.install.png" alt="install">
+<img src="/MHL-Physical-Modeling/assets/images/02.install.png" alt="install">
 
 When finished, you should see a <span style="font-weight: bold; color: lightblue;">blue</span> `Launch` button and a "Successfully installed Miraweb" message:
 
-<img src="/MHL-Advanced-CAO/assets/images/03.success.png" alt="install">
+<img src="/MHL-Physical-Modeling/assets/images/03.success.png" alt="install">
 
 From here, you can simply close the Package Manager window.  
 
@@ -276,7 +276,7 @@ _Check your operating system for compatibility and install one of these:_
 
 _Choose auto-generated German translations of subtitles if it would help:_  
 
-<img src="/MHL-Advanced-CAO/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
+<img src="/MHL-Physical-Modeling/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 #### MaxMSP   

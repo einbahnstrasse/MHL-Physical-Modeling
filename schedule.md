@@ -45,9 +45,9 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Start-of-Semester Business  
 
-* Review [Syllabus + course policies.](/MHL-Advanced-CAO/index.html){:target="_blank"}  
-* Review [Software Installation.](/MHL-Advanced-CAO/resources/){:target="_blank"}  
-* Review [Detailed Breakdown of Grading.](/MHL-Advanced-CAO/grading/){:target="_blank"}  
+* Review [Syllabus + course policies.](/MHL-Physical-Modeling/index.html){:target="_blank"}  
+* Review [Software Installation.](/MHL-Physical-Modeling/resources/){:target="_blank"}  
+* Review [Detailed Breakdown of Grading.](/MHL-Physical-Modeling/grading/){:target="_blank"}  
 
 #### Listening   
 * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
@@ -100,7 +100,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Tutorials   -->
 
 #### Assignments   
-* Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Advanced-CAO/final-mixed-piece/){:target="_blank"}   
+* Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Physical-Modeling/final-mixed-piece/){:target="_blank"}   
 * Consider the [score for _**Giffen Good**_ (2014) for Trombone and Live Electronics](https://drive.google.com/file/d/0BwEuqJNr_Pm2SVhTNlZwdWRMSDQ/view?usp=sharing&resourcekey=0-VGg0No-RZ5esl5DVr_0Ygg){:target="_blank"} — as an example approach to using Bach for **generative notation** in a piece of **mixed music**        
 
 
@@ -124,7 +124,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 {% include video id="pnaeUfNE-ew" provider="youtube" %}    
 
 #### Assignments  
-* Assign + discuss the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Advanced-CAO/xlr-cable-coiling/){:target="_blank"} Assignment.  
+* Assign + discuss the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Physical-Modeling/xlr-cable-coiling/){:target="_blank"} Assignment.  
 
 * * *  
 
@@ -132,7 +132,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### _No Class!_    
 
 #### Assignments   
-* [Alternative Proposal Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+* [Alternative Proposal Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *  
 
@@ -150,8 +150,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 {% include video id="SYxSvWVY17Q" provider="youtube" %}    
 
 #### Assignments   
-* Assign the [Story Curves Project](https://einbahnstrasse.github.io/MHL-Advanced-CAO/story-curves/){:target="_blank"}      
-* [1st Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     
+* Assign the [Story Curves Project](https://einbahnstrasse.github.io/MHL-Physical-Modeling/story-curves/){:target="_blank"}      
+* [1st Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}     
 
 * * *   
 
@@ -179,7 +179,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 #### Assignments   
 * <span style="color: red;"><em>Deadline for Story Curves Project</em></span>     
-* [Midterm Exam Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+* [Midterm Exam Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 * * *
 
@@ -246,7 +246,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- ### Tutorials  -->
 
 ### Assignments   
-* [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}    
+* [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}    
 
 
 * * *
@@ -265,8 +265,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- #### Assignments   -->
 
 #### Assignments   
-* <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints" target="_blank">Tech Rider Deadline</a></em></span>
-<!-- * [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
+* <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints" target="_blank">Tech Rider Deadline</a></em></span>
+<!-- * [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 
 * * *
 
@@ -277,8 +277,8 @@ _Schedule to be announced..._
 <!-- #### Tutorials   -->
 
 #### Assignments   
-* <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints" target="_blank">Deadline for Final Exam piece</a></em></span>
-<!-- * [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Advanced-CAO/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
+* <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints" target="_blank">Deadline for Final Exam piece</a></em></span>
+<!-- * [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 
 * * *
 

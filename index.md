@@ -24,7 +24,7 @@ last_modified_at: 2024-03-20
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %}
-    <li class="zoom"><a href="/MHL-Advanced-CAO{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
+    <li class="zoom"><a href="/MHL-Physical-Modeling{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
   {% endfor %}
 </div>
 
@@ -48,7 +48,7 @@ last_modified_at: 2024-03-20
 **Office Hours:** Monday — Wednedsay <mark>by appointment</mark>   
 **Office Location:** 2.47A _"The Aquarium"_ (next to 2.43 Electronic Music Studio)  
 **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
-**Course Website:** [https://einbahnstrasse.github.io/MHL-Advanced-CAO/](https://einbahnstrasse.github.io/MHL-Advanced-CAO/){:target="_blank"}  
+**Course Website:** [https://einbahnstrasse.github.io/MHL-Physical-Modeling/](https://einbahnstrasse.github.io/MHL-Physical-Modeling/){:target="_blank"}  
 
 _If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
 
@@ -81,7 +81,7 @@ _By the end of the course, successful students will be able to do the following:
 
 ### 2.3 Required Software + Hardware    
 
-_See the [RESOURCES TAB](/MHL-Advanced-CAO/resources){:target="_blank"} for download and documentation links._  
+_See the [RESOURCES TAB](/MHL-Physical-Modeling/resources){:target="_blank"} for download and documentation links._  
 1. personal laptop  
 2. headphones  
 3. MaxMSP  
