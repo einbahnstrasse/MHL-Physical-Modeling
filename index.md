@@ -14,8 +14,8 @@ toc_sticky: true
 read_time: true  
 show_date: true  
 date_format: "%Y-%m-%d"  
-date: 2023-08-01  
-last_modified_at: 2023-08-28   
+date: 2024-03-20   
+last_modified_at: 2024-03-20   
 
 ---
 
@@ -34,14 +34,14 @@ last_modified_at: 2023-08-28
 
 ## 1. Essential Contact Information  
 
-**Course Number:** 00789   
-**Semester:** Fall/Winter 2023   
+**Course Number:** 00791   
+**Semester:** Summer 2024   
 <!-- **Section:** OL20 (21310)   -->
 **Time:** Tuesdays 14:30-16:00    
 **Location:** 2.43 Electronic Music Studio   
 **Format:** Seminar   
 **Modality:** In-person<b>*</b>   
-<span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>   
+<!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
 **Instructor:** Louis Goldford  
 **Email:** <a href="mailto:Louis.Goldford@mh-luebeck.de">Louis.Goldford@mh-luebeck.de</a>  
@@ -57,9 +57,9 @@ _If you're viewing this syllabus on a projected screen, bookmark our site at the
 
 ## 2. Course Description    
 
-**Advanced Computer-Assisted Composition** is a second-semester MaxMSP and synthesis course that introduces students to the tools of Computer-Assisted Composition (CAO). Considering a number of "real-time" and "offline" CAO paradigms, students will learn to control a variety of MaxMSP-based synthesizers and digital signal processing algorithms using the [BACH library for Computer-Assisted Composition](https://www.bachproject.net/){:target="_blank"}, including polysynthesis, audio spatialization, and physical modeling ("modal") synthesis. Topics in algorithmic composition will frequently be disucssed, as well as specific historical works by contemporary composers.  
+**Physical Modeling Synthesis (Modal Synthesis)** is a second-semester MaxMSP and synthesis course that focuses on Physical Modeling (Modal Synthesis), a technique at the forefront of sound design utilizing niche software to simulate a physical object's acoustic vibrations. Physical models produce timbres that can be both realistic and otherworldly. Together, we will build virtual environments in which vibrating objects are assigned physical properties that shape their timbres (properties like mass, and density; materials such as stone, glass, metal, wood, etc.). We will explore the physics of resonance and the history of synthesis leading to PM techniques in the 1990s. Topics covered include: digital filtering; feedback and recursion; the source-filter model, vocal synthesis; MaxMSP’s gen~ extension to build virtual strings, plates, and membranes; the mi-gen library (“Mass-Interaction Sound Synthesis Toolbox”); the Modalys~ package, and its 3D mesh interface to visually design the geometry of vibrating objects. These tools will provide students with the ultimate flexibility producing new and “unreal” timbres and synthetic textures. Weekly in-class Max patching, occasional small assignments, and a final culmination project, a “work-in-progress,” or a “proof-of-concept” to be shared in class at the end of the semester are required. Although no formal prerequisite exists for this course, prior completion of Sound Synthesis Techniques and Creative Coding is strongly recommended. Taught by Dr. Louis Goldford and offered in English.  
 
-Each weekly seminar is a patching workshop on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ We will complete weekly pedagogical patches built in each class, which can be quickly integrated into personal projects. Most work in this class will be rendered in musical notation that can be easily exported for use in software notation programs like Finale, Sibelius, Lilypond, etc. Students will learn to use new software libraries, set up and maintain a public _GitHub_ repository consisting of coursework, actively communicate about course materials on our MHL Discord Server, and finish a small project or a _work-in-progress_ to be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024).   
+
 
 ### 2.1 Course Goals      
 

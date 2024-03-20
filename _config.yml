@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Advanced Computer-Assisted Composition  
+title: Physical Modeling ("Modal") Synthesis   
 email: Louis.Goldford@mh-luebeck.de  
 description: >- # this means to ignore newlines until "baseurl:"
-  Fall/Winter 2023 | Tuesdays 14:30—16:00 | Electronic Music Studio    
+  Summer 2024 | Tuesdays 14:30—16:00 | Electronic Music Studio    
 twitter_username: einbahnstrasse  
 github_username: einbahnstrasse  
 minimal_mistakes_skin: mint   
@@ -135,23 +135,23 @@ kramdown:
 weekly-deadline-statement: Unless otherwise noted, assignments are always due online on GitHub at 11:59 PM the following Monday night each week!
 MHL-calendar: https://www.mh-luebeck.de/studium/termine-und-fristen/
 
-week-01: 10 Oct.  
-week-02: 17 Oct.  
-week-03: 24 Oct.  
-week-04: 31 Oct.   
-week-05: 7 Nov.  
-week-06: 14 Nov.  
-week-07: 21 Nov.  
-week-08: 28 Nov.  
-week-09: 5 Dec.  
-week-10: 12 Dec.  
-week-11: 19 Dec.  
-week-12: 9 Jan.  
-week-13: 16 Jan.  
-week-14: 23 Jan.  
-week-15: 30 Jan.  
-week-16: 6 Feb.  
-week-17: 13 Feb.  
+week-01: 2 April   
+week-02: 9 April   
+week-03: 16 April  
+week-04: 23 April   
+week-05: 30 April  
+week-06: 7 May  
+week-07: 14 May    
+week-08: 21 May  
+week-09: 28 May     
+week-10: 4 June   
+week-11: 11 June   
+week-12: 18 June     
+week-13: 25 June  
+week-14: 2 July     
+week-15: 9 July     
+week-16: n/a     
+week-17: n/a  
 
 # language plugin settings   
 
