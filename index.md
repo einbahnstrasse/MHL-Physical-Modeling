@@ -255,73 +255,73 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">{{ site.week-02 }}</td>
-<td markdown="span"><a href="schedule/#w2" target="_blank">BACH and Polysynthesis in MaxMSP</a></td>
+<td markdown="span"><a href="schedule/#w2" target="_blank">{{ site.week-02-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">3</td>
 <td markdown="span">{{ site.week-03 }}</td>
-<td markdown="span"><a href="schedule/#w3" target="_blank">Spectral and Microtonal Harmony</a></td>
+<td markdown="span"><a href="schedule/#w3" target="_blank">{{ site.week-03-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">{{ site.week-04 }}</td>
-<td markdown="span"><a href="schedule/#w4" target="_blank"><em>No Class!</em></a></td>
+<td markdown="span"><a href="schedule/#w4" target="_blank">{{ site.week-04-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">Using Randomness and Distributions</a></td>
+<td markdown="span"><a href="schedule/#w5" target="_blank">{{ site.week-05-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
 <td markdown="span">{{ site.week-06 }}</td>
-<td markdown="span"><a href="schedule/#w6" target="_blank"><em>No Class!</em></a></td>
+<td markdown="span"><a href="schedule/#w6" target="_blank">{{ site.week-06-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">Real-Time Analysis and Resynthesis</a></td>
+<td markdown="span"><a href="schedule/#w7" target="_blank">{{ site.week-07-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">{{ site.week-08 }}</td>
-<td markdown="span"><a href="schedule/#w8" target="_blank"><em>No Class!</em></a>
+<td markdown="span"><a href="schedule/#w8" target="_blank">{{ site.week-08-topic }}</a>
 </td>
 </tr>
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Concert Patch Design</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">{{ site.week-09-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">Chaotic Attractors</a></td>
+<td markdown="span"><a href="schedule/#w10" target="_blank">{{ site.week-10-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">{{ site.week-11 }}</td>
-<td markdown="span"><a href="schedule/#w11" target="_blank">Introduction to SPAT~ for Multichannel Audio Spatialization</a></td>
+<td markdown="span"><a href="schedule/#w11" target="_blank">{{ site.week-11-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">{{ site.week-12 }}</td>
-<td markdown="span"><a href="schedule/#w12" target="_blank">Interpolation of Pitch and Rhythm</a></td>
+<td markdown="span"><a href="schedule/#w12" target="_blank">{{ site.week-12-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
 <td markdown="span">{{ site.week-13 }}</td>
-<td markdown="span"><a href="schedule/#w13" target="_blank">Werkstatt für Aktuelle Musik</a></td>
+<td markdown="span"><a href="schedule/#w13" target="_blank">{{ site.week-13-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank">Mirrors and Fractals: Webern and Risset</a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank">{{ site.week-14-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank">Advanced FM</a></td>
+<td markdown="span"><a href="schedule/#w15" target="_blank">{{ site.week-15-topic }}</a></td>
 </tr>
 <!-- <tr>
 <td markdown="span">16</td>
