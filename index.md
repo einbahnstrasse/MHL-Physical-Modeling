@@ -12,10 +12,18 @@ toc_label: "Syllabus Contents"
 toc_icon: "book-open"  
 toc_sticky: true   
 sidebar:
-  - title: "Physical Modeling"
-    image: "/assets/images/modalys.klein.bottle.v01.png"
-    image_alt: "A Klein Bottle"
-    text: "A physical model of the Klein Bottle."
+  - title: "3D Mesh"
+    image: "/assets/images/modalys.klein.bottle.v01.png"  
+    image_alt: "3D Mesh"  
+    text: "Model geometry for resonating objects."  
+  - title: "Digital Waveguides"  
+    image_alt: "Ideal String"  
+    image: "/assets/images/ideal.string.v01.png"  
+    text: "Waveguide model of an ideal string."  
+  - title: "Particle Attractors"  
+    image_alt: "Particle Attractors"  
+    image: "/assets/images/mi-gen.particle.attractors.v01.png"  
+    text: "Gravity pulls particles towards oscillators."  
 read_time: true  
 show_date: true  
 date_format: "%Y-%m-%d"  
