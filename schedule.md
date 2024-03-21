@@ -65,6 +65,9 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Install MaxMSP    
 * Install the BACH Library   
 * (deadline for these installations: Week 2 before class! see our Resources page for instructions)   
+* Filter Characteristics: Digital Filter Basics  
+
+{% include video id="autPNZ9XMa4?si=pl-cVyLcmF4pHsWW" provider="youtube" %}    
 
 <!-- * [About the Command Line](/Goldford-MTEC1003/labs/01/command-line.html){:target="_blank"}  
 * [Entering Commands](/Goldford-MTEC1003/labs/01/entering-commands.html){:target="_blank"}  
