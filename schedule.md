@@ -53,7 +53,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
 * [Joshua Banks Mailman‘s analysis of _Dripsody_](/MHL-studio-methods/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}   -->
 
-#### Review   
+#### Tutorials     
 * [Basic Signal Diagram Components](assets/images/basic.signal.diagram.components.png){:target="_blank"}    
 
 ![Basic Signal Diagram Components](assets/images/basic.signal.diagram.components.png)  
@@ -62,7 +62,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- * [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}      -->
 
 #### Assignments _(always due before the next class!)_   
-* Install MaxMSP    
+* Install + Authorize MaxMSP    
 * Install the CNMAT Externals package (_Search for_ `CNMAT Externals` _in Package Manager. See instructions for using the Max Package Manager on our Software + Resources page_.)   
 * [Filter Characteristics (Digital Filter Basics)](https://youtu.be/autPNZ9XMa4?si=1FTZB6r6q1NZ5ymU){:target="_blank"}         
 
@@ -76,6 +76,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 ## Week 2: {{ site.week-02 }}  
 ### {{ site.week-02-topic }}    
 
+#### Tutorials   
+
 #### Downloads   
 <!-- * [Bach and `poly~` boiler patches](https://github.com/einbahnstrasse/bach-poly-boiler-patches/){:target="_blank"}      -->
 
@@ -85,6 +87,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- #### Tutorials   -->
 
 #### Assignments   
+<!-- * Assign + discuss the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Physical-Modeling/xlr-cable-coiling/){:target="_blank"} Assignment.   -->
 <!-- * Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Physical-Modeling/final-mixed-piece/){:target="_blank"}   
 * Consider the [score for _**Giffen Good**_ (2014) for Trombone and Live Electronics](https://drive.google.com/file/d/0BwEuqJNr_Pm2SVhTNlZwdWRMSDQ/view?usp=sharing&resourcekey=0-VGg0No-RZ5esl5DVr_0Ygg){:target="_blank"} — as an example approach to using Bach for **generative notation** in a piece of **mixed music**         -->
 * [Feedforward Filter (Digital Filter Basics)](https://youtu.be/ffVcEvYvtcQ?si=_ChokCMOvwgirz4f){:target="_blank"}       
@@ -102,23 +105,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Tutorials   
 
-<!-- <!-- #### Listening    -->
-<!-- * "Nikola Kołodziejczyk’s **_Instant Ensemble_** is a response to predictable and repeatable music tours. Sheet music for each concert of the seven-piece band is created live literally in front of the audience, composed in real-time by Nikola" :   
-
-{% include video id="gasJc0VEuo8" provider="youtube" %}    
-
-* Claude Vivier, **_Lonely Child_** (1980)       --> -->
-  <!-- - _Excerpts to be determined._ -->
-
-<!-- {% include video id="pnaeUfNE-ew" provider="youtube" %}     -->
-
-#### Assignments  
-* Assign + discuss the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Physical-Modeling/xlr-cable-coiling/){:target="_blank"} Assignment.  
-
-* * *  
-
-## Week 4: {{ site.week-04 }}  
-### {{ site.week-04-topic }}    
+#### Listening   
 
 #### Assignments   
 * [Feedback Filter (Digital Filter Basics)](https://youtu.be/NC_dAcvYLsc?si=8KZ38cZTjPHXmMcq){:target="_blank"}       
@@ -128,6 +115,14 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * [IIR: Infinite Impulse Response Filters (Digital Filter Basics)](https://youtu.be/ap1qXBTKU8g?si=v2Y2SJhsltlTc5La){:target="_blank"}         
 
 {% include video id="ap1qXBTKU8g?si=v2Y2SJhsltlTc5La" provider="youtube" %}    
+
+
+* * *  
+
+## Week 4: {{ site.week-04 }}  
+### {{ site.week-04-topic }}    
+
+#### Assignments   
 
 * * *  
 
