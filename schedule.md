@@ -41,7 +41,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 1: {{ site.week-01 }}  
-### {{ site.week-01-topic }}    
+### <span style="color: blue;">{{ site.week-01-topic }}</span>    
 
 #### Start-of-Semester Business  
 
