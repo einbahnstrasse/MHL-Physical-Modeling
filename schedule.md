@@ -78,7 +78,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Mechanical Resonance    
 _Watch just a few moments of these examples._   
-* [Mechanical Resonance: Tacoma Narrows Bridge Collapse (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
+* [Tacoma Narrows Bridge Collapse (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
 
 {% include video id="j-zczJXSxnw?si=BMd-ccMB243qXVi8&t=8" provider="youtube" %}    
 
