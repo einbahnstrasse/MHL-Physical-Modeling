@@ -77,6 +77,14 @@ _This page will be updated frequently with examples, video tutorials, links to n
 ### <span style="color: blue;">{{ site.week-02-topic }}</span>    
 
 #### Tutorials   
+* [Mechanical Resonance: Tacoma Narrows Bridge Collapse (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
+
+{% include video id="j-zczJXSxnw?si=BMd-ccMB243qXVi8&t=8" provider="youtube" %}    
+
+* [Mechanical Resonance: (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
+
+{% include video id="j-zczJXSxnw?si=BMd-ccMB243qXVi8&t=8" provider="youtube" %}    
+
 
 #### Downloads   
 <!-- * [Bach and `poly~` boiler patches](https://github.com/einbahnstrasse/bach-poly-boiler-patches/){:target="_blank"}      -->
