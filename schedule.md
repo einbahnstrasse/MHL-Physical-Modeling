@@ -74,7 +74,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 2: {{ site.week-02 }}  
-### {{ site.week-02-topic }}    
+### <span style="color: blue;">{{ site.week-02-topic }}</span>    
 
 #### Tutorials   
 
@@ -101,7 +101,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 3: {{ site.week-03 }}  
-### {{ site.week-03-topic }}    
+### <span style="color: blue;">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
 
@@ -120,14 +120,14 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
-### {{ site.week-04-topic }}    
+### <span style="color: blue;">{{ site.week-04-topic }}</span>    
 
 #### Assignments   
 
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
-### {{ site.week-05-topic }}    
+### <span style="color: blue;">{{ site.week-05-topic }}</span>    
 
 <!-- #### Tutorials   -->  
 
@@ -146,7 +146,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *   
 
 ## Week 6: {{ site.week-06 }}  
-### {{ site.week-06-topic }}    
+### <span style="color: blue;">{{ site.week-06-topic }}</span>    
 
 <!-- #### Tutorials   -->
 
@@ -156,7 +156,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 7: {{ site.week-07 }}  
-### {{ site.week-07-topic }}    
+### <span style="color: blue;">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
 * [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}     
@@ -173,7 +173,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 8: {{ site.week-08 }}  
-### {{ site.week-08-topic }}    
+### <span style="color: blue;">{{ site.week-08-topic }}</span>    
 
 <!-- #### Tutorials   -->
 
@@ -191,7 +191,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### {{ site.week-09-topic }}    
+### <span style="color: blue;">{{ site.week-09-topic }}</span>    
 
 #### Tutorials    
 * [MyMagnumOpus Boiler Patch](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}     
@@ -202,7 +202,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-### {{ site.week-10-topic }}    
+### <span style="color: blue;">{{ site.week-10-topic }}</span>    
 
 #### Definitions  
 * [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}   
@@ -230,7 +230,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-### {{ site.week-11-topic }}    
+### <span style="color: blue;">{{ site.week-11-topic }}</span>    
 
 <!-- ### Tutorials  -->
 
@@ -241,7 +241,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 12: {{ site.week-12 }}   
-### {{ site.week-12-topic }}    
+### <span style="color: blue;">{{ site.week-12-topic }}</span>    
 
 <!-- #### Tutorials   -->
 
@@ -260,7 +260,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 13: {{ site.week-13 }}  
-### {{ site.week-13-topic }}    
+### <span style="color: blue;">{{ site.week-13-topic }}</span>    
 
 <!-- #### Tutorials   -->
 
@@ -271,7 +271,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-### {{ site.week-14-topic }}    
+### <span style="color: blue;">{{ site.week-14-topic }}</span>    
 
 ### Listening   
 * Anton Webern, **_Variations for Piano_**, Op. 27 (1936)   
@@ -289,7 +289,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 15: {{ site.week-15 }}   
-### {{ site.week-15-topic }}    
+### <span style="color: blue;">{{ site.week-15-topic }}</span>    
 
 <!-- #### Tutorials  -->
 
