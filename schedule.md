@@ -41,7 +41,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 1: {{ site.week-01 }}  
-### {{ site.week-01-topic }}    
+## {{ site.week-01-topic }}    
 
 #### Start-of-Semester Business  
 
@@ -89,7 +89,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- <a id="w2"></a> -->
 <!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
 ## Week 2: {{ site.week-02 }}  
-### BACH and Polysynthesis in MaxMSP  
+## {{ site.week-02-topic }}    
 
 #### Downloads   
 * [Bach and `poly~` boiler patches](https://github.com/einbahnstrasse/bach-poly-boiler-patches/){:target="_blank"}     
@@ -109,7 +109,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 3: {{ site.week-03 }}  
-### Spectral and Microtonal Harmony  
+## {{ site.week-03-topic }}    
 
 <!-- #### Tutorials  -->  
 
@@ -129,7 +129,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
-### _No Class!_    
+## {{ site.week-04-topic }}    
 
 #### Assignments   
 * [Alternative Proposal Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}    
@@ -137,7 +137,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
-### Using Randomness and Distributions  
+## {{ site.week-05-topic }}    
 
 <!-- #### Tutorials   -->  
 
@@ -156,8 +156,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *   
 
 ## Week 6: {{ site.week-06 }}  
-<!-- ### Generating Scales, Harmonies, and Chords   -->
-### _No Class!_  
+## {{ site.week-06-topic }}    
 
 <!-- #### Tutorials   -->
 
@@ -167,7 +166,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 7: {{ site.week-07 }}  
-### Real-Time Analysis and Resynthesis  
+## {{ site.week-07-topic }}    
 
 #### Tutorials    
 * [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}     
@@ -184,7 +183,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 8: {{ site.week-08 }}  
-### _No Class!_  
+## {{ site.week-08-topic }}    
 
 <!-- #### Tutorials   -->
 
@@ -202,7 +201,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### Concert Patch Design   
+## {{ site.week-09-topic }}    
 
 #### Tutorials    
 * [MyMagnumOpus Boiler Patch](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}     
@@ -213,7 +212,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-### Chaotic Attractors    
+## {{ site.week-10-topic }}    
 
 #### Definitions  
 * [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}   
@@ -241,7 +240,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-### Introduction to SPAT~ for Multichannel Audio Spatialization  
+## {{ site.week-11-topic }}    
 
 <!-- ### Tutorials  -->
 
@@ -252,7 +251,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 12: {{ site.week-12 }}   
-### Interpolation of Pitch and Rhythm   
+## {{ site.week-12-topic }}    
 
 <!-- #### Tutorials   -->
 
@@ -271,8 +270,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 13: {{ site.week-13 }}  
-### Werkstatt für Aktuelle Musik   
-_Schedule to be announced..._    
+## {{ site.week-13-topic }}    
 
 <!-- #### Tutorials   -->
 
@@ -283,7 +281,7 @@ _Schedule to be announced..._
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-### Mirrors and Fractals: Webern and Risset  
+## {{ site.week-14-topic }}    
 
 ### Listening   
 * Anton Webern, **_Variations for Piano_**, Op. 27 (1936)   
@@ -301,7 +299,7 @@ _Schedule to be announced..._
 * * *
 
 ## Week 15: {{ site.week-15 }}   
-### Advanced FM   
+## {{ site.week-15-topic }}    
 
 <!-- #### Tutorials  -->
 
@@ -313,3 +311,31 @@ _Schedule to be announced..._
 #### Assignments  
 
 * * *
+<!-- 
+## Week 16: {{ site.week-15 }}   
+## {{ site.week-16-topic }}    
+
+#### Tutorials 
+
+### Listening   
+* John Chowning, **_Stria_** (1977)   
+
+{% include video id="fTU1v0bPRE4" provider="youtube" %}    
+
+#### Assignments  
+
+* * *  
+
+## Week 17: {{ site.week-15 }}   
+## {{ site.week-17-topic }}    
+
+#### Tutorials 
+
+### Listening   
+* John Chowning, **_Stria_** (1977)   
+
+{% include video id="fTU1v0bPRE4" provider="youtube" %}    
+
+#### Assignments  
+
+* * *   -->

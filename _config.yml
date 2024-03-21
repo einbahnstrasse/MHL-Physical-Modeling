@@ -150,26 +150,27 @@ week-12: 18 June
 week-13: 25 June  
 week-14: 2 July     
 week-15: 9 July     
-week-16: n/a     
-week-17: n/a  
+# week-16: n/a     
+# week-17: n/a  
 
 week-01-topic: Digital Filters Revisited   
-week-02-topic: n/a     
-week-03-topic: n/a    
-week-04-topic: n/a     
-week-05-topic: n/a    
-week-06-topic: n/a    
-week-07-topic: n/a      
-week-08-topic: n/a    
-week-09-topic: n/a       
-week-10-topic: n/a     
-week-11-topic: n/a     
-week-12-topic: n/a       
-week-13-topic: n/a    
-week-14-topic: n/a       
-week-15-topic: n/a       
-week-16-topic: n/a     
-week-17-topic: n/a  
+week-02-topic: Resonance       
+week-03-topic: Formant Modeling (Larynx)      
+week-04-topic: Introduction to <gen~>       
+week-05-topic: The Karplus-Strong Algorithm      
+week-06-topic: Waveguide String Model      
+week-07-topic: Bowed String Model (Julius O. Smith)      
+week-08-topic: A Simple Flute Model   
+week-09-topic: Introduction to Modalys~ in MaxMSP        
+# do some basic string model here?         
+week-10-topic: Plate Excited By A Strike Force       
+week-11-topic: Transducing the Plate Model       
+week-12-topic: 3D Meshes in Modalisp           
+week-13-topic: Introdution to mi-gen~      
+week-14-topic: mi-gen~ (Part 2)       
+week-15-topic: mi-gen~ (Part 3)         
+# week-16-topic: n/a     
+# week-17-topic: n/a  
 
 # language plugin settings   
 
