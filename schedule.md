@@ -47,11 +47,16 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 * Review [Syllabus + course policies.](/MHL-Physical-Modeling/index.html){:target="_blank"}  
 * Review [Software Installation.](/MHL-Physical-Modeling/resources/){:target="_blank"}  
-* Review [Detailed Breakdown of Grading.](/MHL-Physical-Modeling/grading/){:target="_blank"}  
+<!-- * Review [Detailed Breakdown of Grading.](/MHL-Physical-Modeling/grading/){:target="_blank"}   -->
 
 #### Listening   
-* [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
-* [Joshua Banks Mailman‘s analysis of _Dripsody_](/MHL-studio-methods/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}  
+<!-- * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
+* [Joshua Banks Mailman‘s analysis of _Dripsody_](/MHL-studio-methods/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}   -->
+
+#### Review   
+* [Basic Signal Diagram Components](assets/images/basic.signal.diagram.components.png){:target="_blank"}    
+
+![Basic Signal Diagram Components](assets/images/basic.signal.diagram.components.png)  
 
 #### Downloads  
 * [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}     
