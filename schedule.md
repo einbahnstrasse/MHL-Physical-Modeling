@@ -41,7 +41,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 1: {{ site.week-01 }}  
-### Introduction to the BACH library for Computer-Assisted Composition (CAO)  
+### {{ site.week-01-topic }}    
 
 #### Start-of-Semester Business  
 

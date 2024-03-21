@@ -250,7 +250,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">1</td>
 <td markdown="span">{{ site.week-01 }}</td>
-<td markdown="span"><a href="schedule/#w1" target="_blank">Introduction to the BACH library<br>for Computer-Assisted Composition (CAO)</a></td>
+<td markdown="span"><a href="schedule/#w1" target="_blank">{{ site.week-01-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">2</td>
