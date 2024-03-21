@@ -11,6 +11,11 @@ toc: true
 toc_label: "Syllabus Contents" 
 toc_icon: "book-open"  
 toc_sticky: true   
+sidebar:
+  - title: "Physical Modeling"
+    image: "/assets/images/modalys.klein.bottle.v01.png"
+    image_alt: "A Klein Bottle"
+    text: "A physical model of the Klein Bottle."
 read_time: true  
 show_date: true  
 date_format: "%Y-%m-%d"  
