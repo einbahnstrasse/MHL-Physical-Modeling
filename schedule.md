@@ -76,14 +76,15 @@ _This page will be updated frequently with examples, video tutorials, links to n
 ## Week 2: {{ site.week-02 }}  
 ### <span style="color: blue;">{{ site.week-02-topic }}</span>    
 
-#### Tutorials   
+#### Mechanical Resonance    
+_Watch just a few moments of these examples._   
 * [Mechanical Resonance: Tacoma Narrows Bridge Collapse (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
 
 {% include video id="j-zczJXSxnw?si=BMd-ccMB243qXVi8&t=8" provider="youtube" %}    
 
-* [Mechanical Resonance: (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
+* [Pogo Oscillations on the Apollo 6 Rocket (1967)](https://youtu.be/pOOrXWLLza0?si=Yl2PoY3VLfGfxG8A&t=14){:target="_blank"}      
 
-{% include video id="j-zczJXSxnw?si=BMd-ccMB243qXVi8&t=8" provider="youtube" %}    
+{% include video id="pOOrXWLLza0?si=Yl2PoY3VLfGfxG8A&t=14" provider="youtube" %}    
 
 
 #### Downloads   
