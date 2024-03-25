@@ -85,7 +85,7 @@ _Be sure to replace_ `username` _above with the actual user name on your compute
 
 To acquire Max packages #2 and #3 above, you must create a **free** account on the [IRCAM Forum website](https://forum.ircam.fr/){:target="_blank"}.  
 
-Once you register, you'll be able to download Modalys and Spat.  
+Once you register, you'll be able to download `modalys~` and `spat~`.  
 
 These packages are free and will not incure any additional costs.  
 
