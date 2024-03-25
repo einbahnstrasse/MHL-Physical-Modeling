@@ -172,6 +172,8 @@ week-15-topic: Project Presentations
 # week-16-topic: n/a     
 # week-17-topic: n/a  
 
+# dummy to try and trigger deploy workflow again... 
+
 # language plugin settings   
 
 languages: ["en", "sv", "de", "fr"]  
