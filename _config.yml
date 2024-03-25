@@ -160,7 +160,7 @@ week-04-topic: Introduction to <gen~>
 week-05-topic: The Karplus-Strong Algorithm<br>Waveguide String Models        
 week-06-topic: Bowed String Model (Julius O. Smith)      
 week-07-topic: A Simple Flute Model      
-week-08-topic: Introduction to <modalys~> <br>Guest — Christopher Trapani, Composer      
+week-08-topic: Introduction to <modalys~> <br>Guest — Christopher Trapani, Composer      
 # do some basic string model here?    
 week-09-topic: Plate Excited By A Strike Force         
 week-10-topic: Transducing the Plate Model       
@@ -172,7 +172,8 @@ week-15-topic: Project Presentations
 # week-16-topic: n/a     
 # week-17-topic: n/a  
 
-# dummy to try and trigger deploy workflow again... 
+# dummy to try and trigger deploy workflow again   
+# dummy to try and trigger deploy workflow again   
 
 # language plugin settings   
 
