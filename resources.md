@@ -61,7 +61,7 @@ _We may add to this list throughout the semester:_
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	1. <a href="https://forum.ircam.fr/projects/detail/modalys/" target="_blank" class="btn btn--primary">modalys~</a> for Physical Modeling (Modal) Synthesis   
-	2. <a href="https://www.bachproject.net/dl/" target="_blank" class="btn btn--primary">CNMAT MaxMSP Externals</a> for resonance modeling   
+	2. <a href="https://cnmat.berkeley.edu/downloads" target="_blank" class="btn btn--primary">CNMAT MaxMSP Externals</a> for resonance modeling          
 	3. <a href="https://www.bachproject.net/dl/" target="_blank" class="btn btn--primary">bach</a> for computer-assisted composition   
 	4. <a href="https://forum.ircam.fr/projects/detail/spat/" target="_blank" class="btn btn--primary">spat~</a> for multichannel audio spatialization   
 </span>
