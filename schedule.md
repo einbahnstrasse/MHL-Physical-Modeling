@@ -52,6 +52,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Listening     
 * [Example of a metal beam structure excited by plucking forces (using the `mi-gen~` package)](https://youtu.be/jgzVsZeTNGo?si=31ylLUjj55pTOVwO){:target="_blank"}     
 
+{% include video id="jgzVsZeTNGo?si=31ylLUjj55pTOVwO" provider="youtube" %}   
+
 #### Tutorials     
 * [What is Physical Modeling Synthesis?](https://www.perfectcircuit.com/signal/what-is-physical-modeling){:target="_blank"}    
 * Prof. Jon Nelson Physical Modeling slides:  
