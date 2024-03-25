@@ -50,7 +50,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- * Review [Detailed Breakdown of Grading.](/MHL-Physical-Modeling/grading/){:target="_blank"}   -->
 
 #### Listening     
-* [Example of a metal beam structure excited by plucking forces (using the `mi-gen~` package)](https://youtu.be/jgzVsZeTNGo?si=31ylLUjj55pTOVwO){:target="_blank"}     
+* [Example of a metal beam structure excited by plucking forces (using the mi-gen~ package)](https://youtu.be/jgzVsZeTNGo?si=31ylLUjj55pTOVwO){:target="_blank"}     
 
 {% include video id="jgzVsZeTNGo?si=31ylLUjj55pTOVwO" provider="youtube" %}   
 
