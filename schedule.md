@@ -82,6 +82,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 ## Week 2: {{ site.week-02 }}  
 ### <span style="color: blue;">{{ site.week-02-topic }}</span>    
 
+#### Tutorials    
+
 #### Mechanical Resonance    
 _Watch just a few moments of these examples._   
 * [Tacoma Narrows Bridge Collapse (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
@@ -97,9 +99,6 @@ _Watch just a few moments of these examples._
 <!-- * [Bach and `poly~` boiler patches](https://github.com/einbahnstrasse/bach-poly-boiler-patches/){:target="_blank"}      -->
 
 #### Listening   
-<!-- * Goeun talks about her new piece _"Into Another"_   -->
-
-<!-- #### Tutorials   -->
 
 #### Assignments   
 <!-- * Assign + discuss the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Physical-Modeling/xlr-cable-coiling/){:target="_blank"} Assignment.   -->
@@ -147,17 +146,11 @@ _Watch just a few moments of these examples._
 #### Tutorials    
 
 #### Downloads  
-<!-- * [Using Randomness and Reservoirs: Boiler Patches](https://github.com/einbahnstrasse/week.5.boiler.patches){:target="_blank"}      -->
 
 #### Listening   
-<!-- * Shai Cohen, **_Algorithmic Puzzle_** (2020) for Piano and Electronics: "_By pressing a key, the Markov synthesis moves forward one step. The notation is what the players press..._"     
-
-{% include video id="SYxSvWVY17Q" provider="youtube" %}     -->
 
 #### Assignments   
-<!-- * Assign the [Story Curves Project](https://einbahnstrasse.github.io/MHL-Physical-Modeling/story-curves/){:target="_blank"}      
-* [1st Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}      -->
-
+  
 * * *   
 
 ## Week 6: {{ site.week-06 }}  
@@ -174,17 +167,9 @@ _Watch just a few moments of these examples._
 ### <span style="color: blue;">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
-<!-- * [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}      -->
 
 #### Listening   
-<!-- * Jonathan Bell, **_Au Commencement_** (2016) for Choir and Electronics       
-
-{% include video id="uVGPa1Z6Ji8" provider="youtube" %}    
-
-#### Assignments   
-* <span style="color: red;"><em>Deadline for Story Curves Project</em></span>     
-* [Midterm Exam Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}    
- -->   
+  
 * * *
 
 ## Week 8: {{ site.week-08 }}  
@@ -193,15 +178,6 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 
 #### Assignments      
-<!-- * Install MuBu before Week 8 _(See Resources page for details...)_    
-* Hans Tutschku, **_Shadow of bells_** (2014) for Piano and Live Electronics  
-  - _Watch all 4 video clips in Hans’ series. Here is Part 1:_    
-
-<iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>   -->   
-<!-- 
-  - [Part 2](https://vimeo.com/371859285){:target="_blank"}     
-  - [Part 3](https://vimeo.com/371859404){:target="_blank"}     
-  - [Part 4](https://vimeo.com/371859503){:target="_blank"}      -->    
 
 * * *
 
@@ -209,10 +185,8 @@ _Watch just a few moments of these examples._
 ### <span style="color: blue;">{{ site.week-09-topic }}</span>    
 
 #### Tutorials    
-<!-- * [MyMagnumOpus Boiler Patch](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}      -->
 
 #### Assignments   
-<!-- * Start assembling and formatting your piece using today's concert patch template!   -->
 
 * * *
 
@@ -220,25 +194,10 @@ _Watch just a few moments of these examples._
 ### <span style="color: blue;">{{ site.week-10-topic }}</span>    
 
 #### Definitions  
-<!-- * [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}   
-* [Strange Attractor](https://en.wikipedia.org/wiki/Attractor){:target="_blank"}   
-* [Thomas' cyclically symmetric attractor](https://en.wikipedia.org/wiki/Thomas%27_cyclically_symmetric_attractor){:target="_blank"}   
-* [MIT Animation of the Thomas Attractor](https://turbowarp.org/197965154){:target="_blank"}   
-
->"the trajectory of a frictionally dampened particle moving in a 3D lattice of forces"  
-
->"_b_ corresponds to how dissipative the system is"   
-
->"_dt_ is the time step: larger values means the particles move faster"   
- -->   
+  
 #### Tutorials  
-<!-- * [List of Strange Attractors + Fractals](http://www.3d-meier.de/tut19/Seite0.html){:target="_blank"}   
-* [Chaotic Sounds Video Tutorial](https://youtu.be/EwunJYwxNcs?si=Rl-yXsSsj6ZUIVhV){:target="_blank"}    
- -->   
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/EwunJYwxNcs?si=K4f8AMN_iiqDRYsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->  
 
 #### Downloads   
-<!-- * [Chaotic boiler patches](https://github.com/einbahnstrasse/MHL-AC-chaos-boiler){:target="_blank"}     -->   
 
 #### Assignments   
 
@@ -250,7 +209,6 @@ _Watch just a few moments of these examples._
 ### Tutorials 
 
 ### Assignments   
-<!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
   
 
 * * *
@@ -261,14 +219,8 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 
 #### Listening   
-<!-- * Magnus Lindberg, **_Joy_** (1989) for Ensemble and Electronics (_excerpts_)   -->
-  <!-- - _Excerpts to be determined._ -->
-
-<!-- {% include video id="qtzqw2Gv2pQ" provider="youtube" %}     -->
 
 #### Assignments   
-<!-- * <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints" target="_blank">Tech Rider Deadline</a></em></span> -->   
-<!-- * [Tech Rider Deadline](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 
 * * *
 
@@ -278,8 +230,6 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 
 #### Assignments   
-<!-- * <span style="color: red;"><em><a href="https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints" target="_blank">Deadline for Final Exam piece</a></em></span> -->   
-<!-- * [Deadline for Final Exam piece](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 
 * * *
 
@@ -287,15 +237,6 @@ _Watch just a few moments of these examples._
 ### <span style="color: blue;">{{ site.week-14-topic }}</span>    
 
 ### Listening   
-<!-- * Anton Webern, **_Variations for Piano_**, Op. 27 (1936)   
-
-{% include video id="LOhZjgsqQ04" provider="youtube" %}    
-
-* Jean-Claude Risset, **_Huit esquisses en duo pour un pianiste_** (1989)  
-  - II. Mirrors (2:19)    
-  - IV. Fractals (5:53)   
-
-{% include video id="Tz5qqMyAg88" provider="youtube" %}     -->
    
 ### Assignments  
 
@@ -307,38 +248,8 @@ _Watch just a few moments of these examples._
 #### Tutorials   
 
 ### Listening   
-<!-- * John Chowning, **_Stria_** (1977)   
-
-{% include video id="fTU1v0bPRE4" provider="youtube" %}     -->   
 
 #### Assignments  
 
 * * *
-<!-- 
-## Week 16: {{ site.week-15 }}   
-### {{ site.week-16-topic }}    
 
-#### Tutorials 
-
-### Listening   
-* John Chowning, **_Stria_** (1977)   
-
-{% include video id="fTU1v0bPRE4" provider="youtube" %}    
-
-#### Assignments  
-
-* * *  
-
-## Week 17: {{ site.week-15 }}   
-### {{ site.week-17-topic }}    
-
-#### Tutorials 
-
-### Listening   
-* John Chowning, **_Stria_** (1977)   
-
-{% include video id="fTU1v0bPRE4" provider="youtube" %}    
-
-#### Assignments  
-
-* * *   -->
