@@ -174,6 +174,9 @@ _Watch just a few moments of these examples._
 #### Tutorials    
 
 #### Listening   
+
+#### Assignments   
+* prepare for our guest Christopher Trapani next week _(stand by for materials to examine, which will be posted here later)_   
   
 * * *
 
@@ -239,6 +242,7 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 
 #### Assignments   
+* prepare for our guest Jason Thorpe Buchanan next week _(stand by for materials to examine, which will be posted here later)_   
 
 * * *
 
