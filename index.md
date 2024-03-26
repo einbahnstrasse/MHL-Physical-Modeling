@@ -63,11 +63,6 @@ last_modified_at: 2024-03-20
 **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
 **Course Website:** [https://einbahnstrasse.github.io/MHL-Physical-Modeling/](https://einbahnstrasse.github.io/MHL-Physical-Modeling/){:target="_blank"}  
 
-_If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
-
-![Our site.](assets/images/qr-advanced-cao.png)   
-  
-
 ## 2. Course Description    
 
 **Physical Modeling Synthesis (Modal Synthesis)** is a second-semester MaxMSP and synthesis course that focuses on Physical Modeling (Modal Synthesis), a technique at the forefront of sound design utilizing niche software to simulate a physical object's acoustic vibrations. Physical models produce timbres that can be both realistic and otherworldly. Together, we will build virtual environments in which vibrating objects are assigned physical properties that shape their timbres (properties like mass, and density; materials such as stone, glass, metal, wood, etc.). We will explore the physics of resonance and the history of synthesis leading to PM techniques in the 1990s. Topics covered include: digital filtering; feedback and recursion; the source-filter model, vocal synthesis; MaxMSP’s gen~ extension to build virtual strings, plates, and membranes; the mi-gen library (“Mass-Interaction Sound Synthesis Toolbox”); the Modalys~ package, and its 3D mesh interface to visually design the geometry of vibrating objects. These tools will provide students with the ultimate flexibility producing new and “unreal” timbres and synthetic textures. Weekly in-class Max patching, occasional small assignments, and a final culmination project, a “work-in-progress,” or a “proof-of-concept” to be shared in class at the end of the semester are required. Although no formal prerequisite exists for this course, prior completion of Sound Synthesis Techniques and Creative Coding is strongly recommended. Taught by Dr. Louis Goldford and offered in English.  
