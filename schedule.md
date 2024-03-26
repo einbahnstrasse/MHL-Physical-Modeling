@@ -54,6 +54,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 {% include video id="jgzVsZeTNGo?si=31ylLUjj55pTOVwO" provider="youtube" %}   
 
+* [Marco Stroppa, _Come Play with Me_, VI. Strike)](https://youtu.be/DFWmCVs5GV0?si=r6_2FyZTtQ6yGL80){:target="_blank"}     
+
+{% include video id="DFWmCVs5GV0?si=r6_2FyZTtQ6yGL80" provider="youtube" %}   
+
 #### Tutorials     
 * [What is Physical Modeling Synthesis?](https://www.perfectcircuit.com/signal/what-is-physical-modeling){:target="_blank"}    
 * Prof. Jon Nelson Physical Modeling slides:   
@@ -177,6 +181,7 @@ _Watch just a few moments of these examples._
 ### <span style="color: blue;">{{ site.week-08-topic }}</span>    
 
 #### Tutorials  
+* [Basic Concepts of Synthesis with Modalys](https://support.ircam.fr/docs/Modalys/current/Introduction.html#basic-concepts-of-synthesis-with-modalys){:target="_blank"}         
 
 #### Assignments      
 
@@ -218,6 +223,9 @@ _Watch just a few moments of these examples._
 ### <span style="color: blue;">{{ site.week-12-topic }}</span>    
 
 #### Tutorials  
+* [3D Finite Elements in Modalys](https://support.ircam.fr/docs/Modalys/current/Finite_Elements.html){:target="_blank"}    
+* Finite Elements in ModaLisp   
+* Finite Elements using the `mlys.lua` controller    
 
 #### Listening   
 
