@@ -141,79 +141,32 @@ _See the [RESOURCES TAB](/MHL-Physical-Modeling/resources){:target="_blank"} for
 
 ### 3.5 Attendance + Participation Policy   
 
-_Participation is based on attendance and your engagement in class, and will form a substantial portion of your grade._  
+> _es besteht Anwesenheitspflicht gemäß Prüfungsverfahrensordung._ 
+
+> _Attendance is required in accordance with the examination procedure regulations._  
+
+_Your participation is based on attendance and your engagement in class, and will form a substantial portion of your grade._   
 
 #### 3.5.1 Prompt Arrival   
 
-1. Students are expected to arrive promptly to all class sessions and remain engaged throughout.  
-2. On-time arrivals earn you an immediate 5 points (full participation).   
-3. Arrivals after 14:30 trigger the following weighted score system:
-
-<div class="latetable">
-<table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Arrival Time</th>
-<th>Participation Points</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">14:30 or earlier</td>
-<td markdown="span">5 points (full credit)</td>
-</tr>
-<tr>
-<td markdown="span">14:31—14:10</td>
-<td markdown="span">4 points</td>
-</tr>
-<tr>
-<td markdown="span">14:11—15:00</td>
-<td markdown="span">3 points</td>
-</tr>
-<tr>
-<td markdown="span">15:01—15:30</td>
-<td markdown="span">2 points</td>
-</tr>
-<tr>
-<td markdown="span">after 15:30</td>
-<td markdown="span">1 point</td>
-</tr>
-<tr>
-<td markdown="span">absent</td>
-<td markdown="span">0 points</td>
-</tr>
-</tbody>
-</table>
-</div>
+Students are expected to arrive promptly to all class sessions and remain engaged throughout for the duration of class.     
 
 #### 3.5.2 Absences   
+
+* German law requires that you **attend a minimum of 80% of all class sessions** in order to pass this class. 
+* This means **you can miss up to 3 class sessions**.  
+* However, missing a class should be avoided when possible. In a skills-building music technology course such as this one, we must ensure that you are up-to-date on our materials each week — partly because the next week will often build on the materials covered last week.  
+* Missing _more than_ 3 class sessions will result in a grade reduction or a fail of the course, pending a solution agreed upon by the instructor and student. In this scenary, the student seeks permission to complete all patching, assignments, projects, and any additional material assigned by the instructor. Additional materials may, in some cases, require the studnet to attend additional check-in meetings with the instructor to ensure the student understands the material missed in class. Failure to meet with the instructor to evaluate progress in such a circumstance will result in a grade reduction.  
 
 ##### 3.5.2.1 Procedure for Absences      
 
 * Students are responsible for completing the same work outside of class that was assigned or completed in class.   
-* If you must be absent for any reason, regardless of whether that absence is excused or unexcused, follow this **Procedure for Absences:**   
+* If you must be absent for any reason, follow this **Procedure for Absences:**   
 
   1. Check our [Schedule](/schedule){:target="_blank"} for assignments, videos, slides, readings, etc.   
   2. Contact a classmate for **patch screenshots** and **notes** on what you missed (e.g. on Discord) _(in accordance with [3.5.2.3 Sharing Patch Screenshots](#3523-sharing-patch-screenshots) below)._   
-  3. After these first 2 steps, contact the instructor with any additional questions.   
-
-* **Absences/tardiness must be accompanied by documentation** and/or include advance notice with the instructor. Absences/tardiness will not impact on your grade if they are reported in advance and if they are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor's note, religious observance with advance notice, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.  
-* _A lack of communication with the instructor about planned absences will therefore be treated as **unexcused**. Be in touch early._   
-* Planned absences should be reported to the instructor by our Week 3 class _(see our [Schedule](/schedule){:target="_blank"} page)._   
-* **Absences and lateness may result in a lack of understanding of our materials, which will become evident in your project and/or exam work, and therefore will result in lower exam and project scores.** 
-
-##### 3.5.2.2 Required Check-In Meetings   
-
-* A student absent for **a single seminar** need only follow the [Procedure for Absenses](#3521-procedure-for-absences) outlined above.  
-* A student missing **2 seminars** must additionally **schedule a half-hour office hour appointment**, designated as a **Check-In Meeting**, according to instructor availability outlined in [Essential Contact Information](#1-essential-contact-information) above.  
-* Check-In Meetings are necessary to ensure understanding of our course content and to plan alternative work for missed class time.  
-* **Every 2 absences will require a new Check-In Meeting**.  
-* <span style="color: red;">_**NOTE:** Instructor availability is limited and available on a first-come-first-serve basis. I will not always be available due to my additional teaching and other events. Availability for Check-In Meetings, therefore, **is not guaranteed!** Students must coordinate around the instructor's availability if they choose to be absent from multiple seminars. Failure to scheudle or attend the required number of Check-In Meetings is  firmly the responsibility of the student and will result in lowered participation grades for the semester._</span>  
-* Students should, therefore, strive to attend all seminars, or as many as possible, in person.  
+  3. After these first 2 steps, contact the instructor with any additional questions.  
+  4. Complete all assigned work one week later than original planned.      
 
 ##### 3.5.2.3 Sharing Patch Screenshots   
 
