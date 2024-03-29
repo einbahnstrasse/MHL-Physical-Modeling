@@ -207,8 +207,8 @@ _Watch just a few moments of these examples._
 - filter instability   
 - blowing up a filter   
 - impulse response   
-- driving a filter to 0   
-- driving a filter to ∞   
+- driving a filter to 0 (zero)   
+- driving a filter to ∞ (pole)   
 - zeros and poles   
 - bi-quad filter   
 - non-linear phase response  
