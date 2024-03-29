@@ -267,10 +267,10 @@ _Check your operating system for compatibility and install one of these:_
 	<a href="https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/" target="_blank" class="btn btn--primary">Introduction to Digital Audio (Slides)</a> <a href="https://einbahnstrasse.github.io/MHL-intro-to-midi/" target="_blank" class="btn btn--primary">Introduction to MIDI (Slides)</a>
 </span>
 
-**Sampling Theorem and the Nyquist Frequency**   
+#### Sampling Theorem and the Nyquist Frequency    
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
 
-**Aliasing**     
+#### Aliasing     
 {% include video id="91PKZllbgds" provider="youtube" %}  
 
 _Choose auto-generated German translations of subtitles if it would help:_  
