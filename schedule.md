@@ -81,6 +81,31 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 {% include video id="ItYpQ7hMupQ?si=6lK6s9uRPHI5T4Ck" provider="youtube" %}    
 
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts    
+- filter   
+- digital filter   
+- first-order filter    
+- smoothing filter    
+- constructive interference    
+- destructive interference    
+- frequency response   
+- phase response   
+- phase shift   
+- attenuation   
+- cutoff frequency      
+- pass band   
+- stop band   
+- rolloff   
+- DC signal   
+- Nyquist signal   
+- impulse signal   
+- physical modeling synthesis      
+- exciter  
+- resonator    
+
 * * *
 
 ## Week 2: {{ site.week-02 }}  
@@ -100,14 +125,10 @@ _Watch just a few moments of these examples._
 
 
 #### Downloads   
-<!-- * [Bach and `poly~` boiler patches](https://github.com/einbahnstrasse/bach-poly-boiler-patches/){:target="_blank"}      -->
 
 #### Listening   
 
 #### Assignments   
-<!-- * Assign + discuss the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Physical-Modeling/xlr-cable-coiling/){:target="_blank"} Assignment.   -->
-<!-- * Assign & disucss [Final Exam: Mixed Piece with Max Patch](/MHL-Physical-Modeling/final-mixed-piece/){:target="_blank"}   
-* Consider the [score for _**Giffen Good**_ (2014) for Trombone and Live Electronics](https://drive.google.com/file/d/0BwEuqJNr_Pm2SVhTNlZwdWRMSDQ/view?usp=sharing&resourcekey=0-VGg0No-RZ5esl5DVr_0Ygg){:target="_blank"} — as an example approach to using Bach for **generative notation** in a piece of **mixed music**         -->
 * [Feedforward Filter (Digital Filter Basics)](https://youtu.be/ffVcEvYvtcQ?si=_ChokCMOvwgirz4f){:target="_blank"}       
 
 {% include video id="ffVcEvYvtcQ?si=_ChokCMOvwgirz4f" provider="youtube" %}    
@@ -116,12 +137,43 @@ _Watch just a few moments of these examples._
 
 {% include video id="_WoqwSBkhj0?si=Nv6X9APyvN2TFK96" provider="youtube" %}    
 
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts    
+- resonance   
+- mechanical resonance   
+- pogo oscillation   
+- resonant frequency  
+- resonant filter   
+- resonance model        
+- `<resonators~>`   
+- filter topology   
+- register   
+- _x<sub>(n)</sub>_   
+- _y<sub>(n)</sub>_  
+- _x<sub>(n-1)</sub>_   
+- _Z<sup>(-N)</sup>_   
+- _a_   
+- a<sub>0</sub>   
+- a<sub>1</sub>   
+- ∑     
+- feedforward filter   
+- finite impulse response (FIR) filter   
+- filter stablility      
+- filter tap    
+- time smearing artefact      
+- linear phase response      
+
 * * *
 
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: blue;">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
+
+#### Downloads   
+* [Chant manual (coming soon!)](#){:target="_blank"}       
 
 #### Listening   
 
@@ -134,13 +186,55 @@ _Watch just a few moments of these examples._
 
 {% include video id="ap1qXBTKU8g?si=v2Y2SJhsltlTc5La" provider="youtube" %}    
 
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts    
+- formant   
+- vowel   
+- speech synthesis   
+- pulse train   
+- larynx   
+- source-filter model   
+- `<poly~>`  
+- feedback filter   
+- _b<sub>1</sub>_   
+- _∞_   
+- inifnite impulse response (IIR) filter   
+- filter instability   
+- blowing up a filter   
+- impulse response   
+- driving a filter to 0   
+- driving a filter to ∞   
+- zeros and poles   
+- bi-quad filter   
+- non-linear phase response  
+- transient response   
 
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: blue;">{{ site.week-04-topic }}</span>    
 
+#### Tutorials   
+* [Gregory Taylor's Introduction to gen~ Tutorial series (optional)](https://cycling74.com/tutorials/gen-video-tutorial-series){:target="_blank"}         
+* [Musicdsp.org (optional)](https://www.musicdsp.org/en/latest/){:target="_blank"}     
+
 #### Assignments   
+
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
+- single-sample delay   
+- _Z<sup>(-N)</sup>_   
+- `<gen~>`    
+- `<history>`   
+- `<param>`   
+- `<codebox>`   
+- `<twopi>`  
+- `<tan>`   
+- `<samplerate>`   
 
 * * *  
 
@@ -148,13 +242,21 @@ _Watch just a few moments of these examples._
 ### <span style="color: blue;">{{ site.week-05-topic }}</span>    
 
 #### Tutorials    
-* scattering junctions   
+* [Reference page for Karplus-Strong Algorithm (Stanford)](https://ccrma.stanford.edu/~jos/pasp/Karplus_Strong_Algorithm.html){:target="_blank"}     
+* [Reference page for Digital Waveguides (Stanford)](https://ccrma.stanford.edu/~bilbao/booktop/node15.html){:target="_blank"}     
 
 #### Downloads  
 
 #### Listening   
 
-#### Assignments   
+#### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
+* Karplus-Strong Algorithm  
+* Waveguide synthesis   
+* scattering junction      
   
 * * *   
 
