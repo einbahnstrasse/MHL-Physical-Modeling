@@ -158,11 +158,11 @@ _Watch just a few moments of these examples._
 - _x<sub>(n-1)</sub>_   
 - _Z<sup>(-N)</sup>_   
 - _a_   
-- a<sub>0</sub>   
-- a<sub>1</sub>   
+- _a<sub>0</sub>_      
+- _a<sub>1</sub>_      
 - ∑     
 - feedforward filter   
-- finite impulse response (FIR) filter   
+- finite impulse response (FIR)    
 - filter stablility      
 - filter tap    
 - time smearing artefact      
@@ -203,7 +203,7 @@ _Watch just a few moments of these examples._
 - feedback filter   
 - _b<sub>1</sub>_   
 - _∞_   
-- inifnite impulse response (IIR) filter   
+- inifnite impulse response (IIR)      
 - filter instability   
 - blowing up a filter   
 - impulse response   
