@@ -279,7 +279,11 @@ _Watch just a few moments of these examples._
 
 #### Assignments   
 * prepare for our guest Christopher Trapani next week _(stand by for materials to examine, which will be posted here later)_   
-  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
+
 * * *
 
 ## Week 8: {{ site.week-08 }}  
@@ -288,7 +292,11 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 * [Basic Concepts of Synthesis with Modalys](https://support.ircam.fr/docs/Modalys/current/Introduction.html#basic-concepts-of-synthesis-with-modalys){:target="_blank"}         
 
-#### Assignments      
+#### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
 
 * * *
 
@@ -297,7 +305,11 @@ _Watch just a few moments of these examples._
 
 #### Tutorials    
 
-#### Assignments   
+#### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
 
 * * *
 
@@ -310,7 +322,11 @@ _Watch just a few moments of these examples._
 
 #### Downloads   
 
-#### Assignments   
+#### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
 
 * * *
 
@@ -319,9 +335,12 @@ _Watch just a few moments of these examples._
 
 ### Tutorials 
 
-### Assignments   
-  
+#### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
 
+#### Terms, Concepts, Objects, Shortcuts  
+  
 * * *
 
 ## Week 12: {{ site.week-12 }}   
@@ -334,7 +353,11 @@ _Watch just a few moments of these examples._
 
 #### Listening   
 
-#### Assignments   
+#### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
 
 * * *
 
@@ -344,7 +367,11 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 
 #### Assignments   
-* prepare for our guest Jason Thorpe Buchanan next week _(stand by for materials to examine, which will be posted here later)_   
+* prepare for our guest Jason Thorpe Buchanan next week _(stand by for materials to examine, which will be posted here later)_    
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
 
 * * *
 
@@ -353,7 +380,11 @@ _Watch just a few moments of these examples._
 
 ### Listening   
    
-### Assignments  
+#### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
 
 * * *
 
@@ -365,6 +396,10 @@ _Watch just a few moments of these examples._
 ### Listening   
 
 #### Assignments  
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
 
 * * *
 
