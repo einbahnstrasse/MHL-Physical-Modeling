@@ -86,11 +86,14 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Terms, Concepts, Objects, Shortcuts    
 - filter   
+- delay  
+- `<pass~>`  
+- `<delay~>`   
+- constructive interference    
+- destructive interference    
 - digital filter   
 - first-order filter    
 - smoothing filter    
-- constructive interference    
-- destructive interference    
 - frequency response   
 - phase response   
 - phase shift   
