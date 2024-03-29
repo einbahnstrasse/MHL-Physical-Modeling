@@ -41,7 +41,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 1: {{ site.week-01 }}  
-### <span style="color: blue;">{{ site.week-01-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-01-topic }}</span>    
 
 #### Start-of-Semester Business  
 
@@ -112,7 +112,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 2: {{ site.week-02 }}  
-### <span style="color: blue;">{{ site.week-02-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-02-topic }}</span>    
 
 #### Tutorials    
 
@@ -171,7 +171,7 @@ _Watch just a few moments of these examples._
 * * *
 
 ## Week 3: {{ site.week-03 }}  
-### <span style="color: blue;">{{ site.week-03-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
 
@@ -209,7 +209,7 @@ _Watch just a few moments of these examples._
 - impulse response   
 - driving a filter to 0 (zero)   
 - driving a filter to ∞ (pole)   
-- zeros and poles   
+- poles and zeros   
 - bi-quad filter   
 - non-linear phase response  
 - transient response   
@@ -217,7 +217,7 @@ _Watch just a few moments of these examples._
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
-### <span style="color: blue;">{{ site.week-04-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
 #### Tutorials   
 * [Gregory Taylor's Introduction to gen~ Tutorial series (optional)](https://cycling74.com/tutorials/gen-video-tutorial-series){:target="_blank"}         
@@ -242,10 +242,10 @@ _Watch just a few moments of these examples._
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
-### <span style="color: blue;">{{ site.week-05-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
 
 #### Tutorials    
-* [Reference page for Karplus-Strong Algorithm (Stanford)](https://ccrma.stanford.edu/~jos/pasp/Karplus_Strong_Algorithm.html){:target="_blank"}     
+* [Reference page for the Karplus-Strong Algorithm (Stanford)](https://ccrma.stanford.edu/~jos/pasp/Karplus_Strong_Algorithm.html){:target="_blank"}     
 * [Reference page for Digital Waveguides (Stanford)](https://ccrma.stanford.edu/~bilbao/booktop/node15.html){:target="_blank"}     
 
 #### Downloads  
@@ -264,17 +264,22 @@ _Watch just a few moments of these examples._
 * * *   
 
 ## Week 6: {{ site.week-06 }}  
-### <span style="color: blue;">{{ site.week-06-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-06-topic }}</span>    
 
-<!-- #### Tutorials   -->
+#### Tutorials  
 
 #### Assignments  
 <!-- * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>   -->
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_    
+
+#### Terms, Concepts, Objects, Shortcuts  
+_Terms list coming soon!_    
 
 * * *
 
 ## Week 7: {{ site.week-07 }}  
-### <span style="color: blue;">{{ site.week-07-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
 
@@ -286,11 +291,12 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
+_Terms list coming soon!_    
 
 * * *
 
 ## Week 8: {{ site.week-08 }}  
-### <span style="color: blue;">{{ site.week-08-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-08-topic }}</span>    
 
 #### Tutorials  
 * [Basic Concepts of Synthesis with Modalys](https://support.ircam.fr/docs/Modalys/current/Introduction.html#basic-concepts-of-synthesis-with-modalys){:target="_blank"}         
@@ -299,12 +305,23 @@ _Watch just a few moments of these examples._
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
-#### Terms, Concepts, Objects, Shortcuts  
+#### Terms, Concepts, Objects, Shortcuts    
+* `access-in-position`   
+* `access-out-position`   
+* `<modalys~>`   
+* `<mlys.script>`  
+* `<mlys.point-input>`   
+* `<mlys.point-output>`   
+* `<mlys.mono-string>`  
+* `<mlys.signal>`   
+* `<mlys.bow>`   
+* `<mlys.position>`   
+<!-- 01a-string+force_sigctrl.maxpat -->   
 
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### <span style="color: blue;">{{ site.week-09-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-09-topic }}</span>    
 
 #### Tutorials    
 
@@ -312,12 +329,23 @@ _Watch just a few moments of these examples._
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
-#### Terms, Concepts, Objects, Shortcuts  
+#### Terms, Concepts, Objects, Shortcuts    
+* `freq-loss`   
+* `const-loss`   
+* density   
+* Young's modulus   
+* Poisson coefficient (Poisson's ratio)    
+* material properties   
+* `<mlys.rect-plate>`  
+* `<mlys.strike>`  
+* `<mlys.mono-string>`  
+* `<mlys.mono-two-mass>`   
+<!-- 05a-mlys_plate+strike_sigctrl.maxpat -->   
 
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-### <span style="color: blue;">{{ site.week-10-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-10-topic }}</span>    
 
 #### Definitions  
   
@@ -330,11 +358,12 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
+_Terms list coming soon!_    
 
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-### <span style="color: blue;">{{ site.week-11-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-11-topic }}</span>    
 
 ### Tutorials 
 
@@ -343,16 +372,17 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
-  
+* `<mlys.melt-hybrid>`   
+
 * * *
 
 ## Week 12: {{ site.week-12 }}   
-### <span style="color: blue;">{{ site.week-12-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-12-topic }}</span>    
 
 #### Tutorials  
 * [3D Finite Elements in Modalys](https://support.ircam.fr/docs/Modalys/current/Finite_Elements.html){:target="_blank"}    
 * Finite Elements in ModaLisp   
-* Finite Elements using the `mlys.lua` controller    
+* Finite Elements using the `<mlys.lua>` controller    
 
 #### Listening   
 
@@ -360,12 +390,24 @@ _Watch just a few moments of these examples._
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
-#### Terms, Concepts, Objects, Shortcuts  
+#### Terms, Concepts, Objects, Shortcuts    
+* finite element   
+* mesh   
+* controller   
+* access  
+* connection    
+* listening point   
+* `make-mesh`   
+* `compute-modes`   
+* `.modal`   
+* `<mlys.read-from-file>`   
+* Medit   
+* `<mlys.lua>`   
 
 * * *
 
 ## Week 13: {{ site.week-13 }}  
-### <span style="color: blue;">{{ site.week-13-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-13-topic }}</span>    
 
 #### Tutorials  
 
@@ -375,11 +417,12 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
+_Terms list coming soon!_    
 
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-### <span style="color: blue;">{{ site.week-14-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-14-topic }}</span>    
 
 ### Listening   
    
@@ -388,11 +431,12 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
+_Terms list coming soon!_    
 
 * * *
 
 ## Week 15: {{ site.week-15 }}   
-### <span style="color: blue;">{{ site.week-15-topic }}</span>    
+### <span style="color: #10999e;">{{ site.week-15-topic }}</span>    
 
 #### Tutorials   
 
@@ -403,6 +447,7 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
+_Terms list coming soon!_    
 
 * * *
 
