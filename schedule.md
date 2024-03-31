@@ -153,7 +153,7 @@ _Watch just a few moments of these examples._
 - pogo oscillation   
 - resonant frequency  
 - resonant filter   
-- resonance model        
+- resonance model   
 - `<resonators~>`   
 - filter topology   
 - register   
@@ -203,6 +203,7 @@ _Watch just a few moments of these examples._
 - pulse train   
 - larynx   
 - source-filter model   
+- `<reson~>`       
 - `<poly~>`  
 - feedback filter   
 - _b<sub>1</sub>_   
