@@ -64,7 +64,7 @@ _We may add to this list throughout the semester:_
 	2. <a href="https://cnmat.berkeley.edu/downloads" target="_blank" class="btn btn--primary">CNMAT MaxMSP Externals</a> for resonance modeling          
 	3. <a href="https://www.bachproject.net/dl/" target="_blank" class="btn btn--primary">bach</a> for computer-assisted composition   
 	4. <a href="https://forum.ircam.fr/projects/detail/spat/" target="_blank" class="btn btn--primary">spat~</a> for multichannel audio spatialization   
-	5. <a href="https://github.com/mi-creative/mi-gen" target="_blank" class="btn btn--primary">Mass-Interaction Sound Synthesis Toolbox for Max/MSP's `gen~`</a>      
+	5. <a href="https://github.com/mi-creative/mi-gen" target="_blank" class="btn btn--primary">mi-gen~</a> Mass-Interaction Sound Synthesis Toolbox for Max/MSP's `gen~`         
 </span>
 
 
