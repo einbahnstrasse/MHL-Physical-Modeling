@@ -33,8 +33,6 @@ last_modified_at: 2024-03-20
   <i class="fas fa-bell fa-2x"></i>
 </div>
 
-<!-- <img src="/Goldford-MTEC1003/assets/organized.gif" alt="organized" width="400" align="right"> -->
-
 <!-- # Schedule -->
 _This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current MHL Academic Calendar]({{ site.MHL-calendar }}){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_  
 
@@ -69,11 +67,11 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- ![Basic Signal Diagram Components](assets/images/basic.signal.diagram.components.png)   -->
 
 #### Downloads  
-<!-- * [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}      -->
 
-#### Assignments _(always due before the next class!)_   
-* Install + Authorize MaxMSP    
-* Install the CNMAT Externals package (_Search for_ `CNMAT Externals` _in Package Manager. See instructions for using the Max Package Manager on our Software + Resources page_.)   
+#### Assignments    
+_(Unless otherwise noted, assignments are always due before the next class!)_    
+* **Install** + **Authorize** MaxMSP   
+* Install the **CNMAT Externals** package (_Search for_ `CNMAT Externals` _in Package Manager. See instructions for using the Max Package Manager on our Software + Resources page_.)   
 * [Filter Characteristics (Digital Filter Basics)](https://youtu.be/autPNZ9XMa4?si=1FTZB6r6q1NZ5ymU){:target="_blank"}         
 
 {% include video id="autPNZ9XMa4?si=pl-cVyLcmF4pHsWW" provider="youtube" %}    
@@ -82,16 +80,22 @@ _This page will be updated frequently with examples, video tutorials, links to n
 {% include video id="ItYpQ7hMupQ?si=6lK6s9uRPHI5T4Ck" provider="youtube" %}    
 
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `plot.v01.maxpat`      
+  - `bp.higher.order.filter.v01.maxpat`   
 
 #### Terms, Concepts, Objects, Shortcuts    
 - filter   
 - delay  
-- `<pass~>`  
-- `<delay~>`   
 - constructive interference    
 - destructive interference    
 - digital filter   
+- `<pass~>`  
+- `<delay~>`   
+- `<filterdesign~>`  
+- `<filterdetail>`   
+- `<cascade~>`   
+- Butterworth filter   
+- Chebyshev filter   
 - first-order filter    
 - smoothing filter    
 - frequency response   
@@ -302,6 +306,7 @@ _Terms list coming soon!_
 * [Basic Concepts of Synthesis with Modalys](https://support.ircam.fr/docs/Modalys/current/Introduction.html#basic-concepts-of-synthesis-with-modalys){:target="_blank"}         
 
 #### Assignments  
+* Introduce + assign the Final Project, due in Week 15 _(A small project to be shared in class, a working patch, a small design, nothing big. Details coming soon.)_    
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
