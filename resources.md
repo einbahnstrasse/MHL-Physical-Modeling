@@ -267,6 +267,12 @@ _Check your operating system for compatibility and install one of these:_
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/" target="_blank" class="btn btn--primary">Introduction to Digital Audio (Slides)</a> <a href="https://einbahnstrasse.github.io/MHL-intro-to-midi/" target="_blank" class="btn btn--primary">Introduction to MIDI (Slides)</a>
+</span>   
+
+### History + References   
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
+	<a href="https://120years.net/" target="_blank" class="btn btn--primary">120 Years Of Electronic Music</a> <a href="https://musicandcomputersbook.com/" target="_blank" class="btn btn--primary">Music and Computers: A Theoretical and Historical Approach</a> <a href="https://msp.ucsd.edu/techniques.htm" target="_blank" class="btn btn--primary">The Theory and Technique of Electronic Music (Miller Puckette)</a> <a href="http://www.pd-tutorial.com/" target="_blank" class="btn btn--primary">Programming Electronic Music in Pd (Johannes Kreidler)</a>    
 </span>
 
 #### Sampling Theorem and the Nyquist Frequency    
