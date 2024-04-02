@@ -71,19 +71,17 @@ last_modified_at: 2024-03-20
 
 ### 2.1 Course Goals      
 
-Students will learn to **integrate** basic formal methods of musical generation into their already established personal and foundational MaxMSP workflow by **building control structures** such as loops, functions, and conditionals. Various data clases, as well as historic approaches to CAO methods by twentieth and twenty-first century composers, will be **observed** and **understood**. A final step in this process is the **creation of a concert work** or a _work-in-progress_ to be presented near the end of the semester during a class concert.  
-
-
+Students will learn to **integrate** basic formal methods of musical generation into their already established personal and foundational MaxMSP workflow by building filters, delays, and physical models of vibrating objects.   
 
 ### 2.2 Learning Outcomes  
 
 _By the end of the course, successful students will be able to do the following:_  
 
-1. **implement** and **demonstrate** the tools of computer-assisted composition within an artistic workflow  
+1. **implement** and **demonstrate** the tools of physical modeling within an artistic workflow  
 2. **classify** and **identify** a variety of synthesis methods      
 3. **design** compositional algorithms and **apply** them to the control of synthesizers  
 4. **identify**, **critique**, and **experiment** with differing approaches to sound synthesis  
-5. **compare** and **contrast** real-time and offline computer-assisted methodologies   
+5. **compare** and **contrast** various historic physical modeling approaches      
 6. **assemble** favored tools into a personal creative coding practice, including a logical debugging process  
 7. **submit** and **version** assignments through _GitHub_  
 
