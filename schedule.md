@@ -81,8 +81,9 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 {% include video id="ItYpQ7hMupQ?si=6lK6s9uRPHI5T4Ck" provider="youtube" %}    
 
 * **Finish these patches** we made in class:   
-  - `plot.v01.maxpat`      
   - `bp.higher.order.filter.v01.maxpat`   
+  - `00.series.and.parallel.maxpat`  
+  - `01.plot.maxpat`   
 
 #### Terms, Concepts, Objects, Shortcuts    
 - filter   
