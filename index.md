@@ -60,7 +60,7 @@ last_modified_at: 2024-03-20
 **Email:** <a href="mailto:Louis.Goldford@mh-luebeck.de">Louis.Goldford@mh-luebeck.de</a>  
 **Office Hours:** Monday — Wednedsay <mark>by appointment</mark>   
 **Office Location:** 2.47A _"The Aquarium"_ (next to 2.43 Electronic Music Studio)  
-**MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
+**MHL Discord Server:** [https://discord.gg/2t9kcuGZ](https://discord.gg/2t9kcuGZ){:target="_blank"}      
 **Course Website:** [https://einbahnstrasse.github.io/MHL-Physical-Modeling/](https://einbahnstrasse.github.io/MHL-Physical-Modeling/){:target="_blank"}  
 
 ## 2. Course Description    

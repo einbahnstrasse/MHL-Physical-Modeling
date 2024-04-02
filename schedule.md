@@ -71,6 +71,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Assignments    
 _(Unless otherwise noted, assignments are always due before the next class!)_    
 * **Install** + **Authorize** MaxMSP   
+* Join our Digitale Kreation Discord Server _(see link on Syllabus page)_   
 * Install the **CNMAT Externals** package (_Search for_ `CNMAT Externals` _in Package Manager. See instructions for using the Max Package Manager on our Software + Resources page_.)   
 * [Filter Characteristics (Digital Filter Basics)](https://youtu.be/autPNZ9XMa4?si=1FTZB6r6q1NZ5ymU){:target="_blank"}         
 
