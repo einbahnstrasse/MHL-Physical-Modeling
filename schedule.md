@@ -64,8 +64,6 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * [Demystyfying Digital Filters (reference)](https://cycling74-web-uploads.s3.amazonaws.com/57ec430afd747b8a71b4f1ab/2021-03-26T22:03:16Z/demystifying-digital-filters.pdf){:target="_blank"}  
 * [Basic Signal Diagram Components](assets/images/basic.signal.diagram.components.png){:target="_blank"}    
 
-<!-- ![Basic Signal Diagram Components](assets/images/basic.signal.diagram.components.png)   -->
-
 #### Downloads  
 
 #### Assignments    
@@ -134,6 +132,7 @@ _Watch just a few moments of these examples._
 
 
 #### Downloads   
+* [**Resonance** Boiler Patches](https://github.com/einbahnstrasse/resonance.boiler){:target="_blank"}  
 
 #### Listening   
 
