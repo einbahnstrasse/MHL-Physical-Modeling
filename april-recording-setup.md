@@ -164,8 +164,7 @@ Be sure that Goeun's channel 1 aligns with the mixer's channel 5 seen here accor
 
 The exact names of Goeun's computer and the mixing console will appear differenly than the red text you see here. Apologies that this is a terrible photo; it is just a quick and dirty graphic to show you what the setup should look like.   
 
-21. **Reverse this process**: Along the top row of Dante Controller, open (+ to expand) the Yamaha TF3 mixer (`NY64`) and along the left sidebar, open (+ to expand) Goeun's computer. This represents the signal path _from_ the mixer _to_ the computer.   
-22. Create green checkmarks in the matrix connecting the Yamaha mixer's output channels 1-2 to Goeun's input channels 1-2. This represents the stage microphones to the input of the patch on Goeun's computer.   
+21. For input from the microphoes to the Max patch, I will program a separate connection. _Stand by for further details about this._   
    
 #### 3.4 Test Signals at 15:00      
 
