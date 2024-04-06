@@ -37,26 +37,55 @@ ca. 15:30 Recording Ends
 ### 2. Who is Involved   
 
 #### Setup (Sunday) and Teardown (Monday)   
-Goeun   
-Diego   
-Philipp  
-Parnaz   
-Ilia   
+* Goeun<sup>1</sup>   
+* Diego<sup>1</sup>      
+* Ilia<sup>1</sup>      
+* Philipp  
+* Parnaz   
+* Panos    
 
+<sup>1</sup>The 3 HiWis should direct the others.     
+  
 #### Additional Recording Personnel      
-Louis  
-Thomas   
-Katharina   
-Margit   
+* Louis  
+* Thomas   
+* Katharina   
+* Margit   
 
 _Am I missing anybody?_   
-
-<!-- <img src="/MHL-Physical-Modeling/assets/images/vonnegut.patch.v01.png" alt="Vonnegut-patch">    -->
-
+   
 ### 3. Setup Procedure      
 
 #### 3.1 Stage Plot   
 
-_See the plot below for an overview of how things will look:_   
+_See the stage plot below for an overview of how things will look:_   
+
+<img src="/MHL-Physical-Modeling/assets/images/stage.plot.april.7.v01.png" alt="stage plot Apil 7th">   
+
+_See below for an expalanation of equipment and connections._   
+
+#### 3.2 Equipment List      
+
+_From the **Electronic Studio** (2.43):_   
+* 1 x ART HeadAmp Headphone Amplifier (left on desk by Ilia)    
+* 3 x beyerdynamic DT 770 Headphones (cabinet 6C)    
+* 1 x ethernet-to-USB-C adaptor<sup>2</sup> (cabinet 2)   
+
+<sup>2</sup>Be sure to use the ones that _also have USB connections_. These ones are faster and provide 1K speed for network connections. If you use one of the dark connectors that only has the ethernet port, they are very slow.   
+
+_From the **Upstairs Storage Room** (3.13e):_   
+* 2 x power extension cords (for stage and house mix position)  
+* 2 x power strips (for stage and house mix position)  
+* 1 x Yamaha TF3 mixing console (in flight case; see photos)   
+* 1 x small audio snake (the kind we used at our Winter concert)   
+* 5 x 10-meter XLR cables   
+* ? x XLR-to-TRS ("jack") cables   
+* ? x TRS-to-XLR ("jack") cables   
+
+_From downstairs, below the Kammersaal, and elsewhere:_   
+* 2 x large tables (see photos)   
+* 3 x chairs (if none are availble in Kammersaal)   
+* 2 x music stands (if none are availble in 3.13e)    
+
 
 
