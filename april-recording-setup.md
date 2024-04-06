@@ -4,7 +4,7 @@
 
 # layout: archive   
 layout: single   
-title: "Recording Setup on 7 April"   
+title: "April Recording Setup"   
 lang: en   
 ref: grade  
 permalink: /story-curves/   
