@@ -87,8 +87,8 @@ _From the **Upstairs Storage Room** (3.13e):_
 * 2 x long network cables ("ethernet" cables) (not the long orange one, but 2 long cables that can go from the stage to mix position)   
 * 1 x small audio snake (the kind we used at our Winter concert)   
 * 5 x 10-meter XLR cables   
-* ? x XLR-to-TRS ("jack") cables   
-* ? x TRS-to-XLR ("jack") cables   
+* 2 x XLR-to-TRS ("jack") cables   
+* 1 x TRS-to-XLR ("jack") cables   
 
 _From downstairs, below the Kammersaal, and elsewhere:_   
 * 2 x large tables (see photos)   
@@ -107,7 +107,7 @@ _Parnaz, Philipp, and Panos:_
 
 _If any of these tables are unavaiable, there is also a table in 3.13e that can be used, and there is a small table for a laptop in the Kammersaal marked as "MHL Tontechnik."_   
 
-2. Unpack the **Yamaha TF3 mixing console** and set it on **Table 1** as marked in 3.1 Stage Plot, above.  
+2. Carefully unpack the **Yamaha TF3 mixing console** and place it on **Table 1** as marked in 3.1 Stage Plot, above.  
 3. Set up **power extension cords** and **power strips** on stage and at the mix position (Tables 1 and 2).   
 4. Place the **ART HeadAmp** Headphone Amplifier on **Table 2**.  
 5. Place **Goeun's laptop** on **Table 2**.  
@@ -119,9 +119,10 @@ _If any of these tables are unavaiable, there is also a table in 3.13e that can 
 11. Place the **Genelec 8030** loudspeaker on stage in front of the microphone positions.   
 12. Place the **snake box** on stage near the 8030 speaker.  
 13. Run the **snake cable to the mix position** so that all of the XLR connections can be connected to the mixing console.   
-14. Cover the snake cable from the stage with a **rubber mat** to make sure nobody trips over it.  
+14. Inside the case for the TF3 mixing console, there is a **USB cable**. Plug this cable into the console's _"To Host"_ USB port on the back of the console panel. This cable is crucial for connecting Louis's laptop, so it must be taken care of!   
+15. Cover the snake cable from the stage with a **rubber mat** to make sure nobody trips over it.  
 
-_Diego, Ilia, and Goeun (HiWis):_   
+_Diego, Goeun, and Ilia (HiWis):_   
 
 1. Find the **Dante network switch** underneath the Kammersaal stage (see the stage plot for location):   
 
@@ -135,11 +136,56 @@ _Diego, Ilia, and Goeun (HiWis):_
 <img src="/MHL-Physical-Modeling/assets/images/TF3.back.panel.png" alt="TF3 back panel">   
 
 4. Connect one of the network cables to the Yamaha TF3 mixing console. There are 2 Dante plugs on the back of the mixer: plug this network cable into the mixer's **LEFT Dante port**.   
-5. Connect the other network cable to **Goeun's MacBook Pro** on Table 2. Use the adaptor from the studio described in 3.2 Equipment List above.   
+5. Connect the other network cable to **Goeun's MacBook Pro** on Table 2. Use the adaptor from the studio described in 3.2 Equipment List above. _To be sure, Goeun's laptop does not plug into the mixing console!_    
 6. On stage, place the **Sennheiser C214 microphones** on their stands and position them close to where the accordion sits.  
-7. Connect the microphones to the snake's input channels 1 and 2.  
-8. At the console, connect the snake's output channels 1 and 2 to the console's input XLR channels 1 and 2. These are the **direct signal** ("close mic") channels.   
-9. 
+7. Connect the microphones to the snake's input channels 1-2.  
+8. At the console, connect the snake's output channels 1-2 to the console's input XLR channels 1-2. These are the **direct signal** _("close mic")_ microphone channels.   
+9. Don't plug anything into the console's input channels 3-4. These will be the **ambient room mics** and will come from the **Dante** connection (routing from Thomas's upstairs studio).   
+10. Using 1-2 of the XLR-to-TRS adaptor cables, connect the console's OMNI outputs 1-2 to the **ART HeadAmp**'s stereo input channels. _(If necessary, use just one connector from OMNI out 1 to input 1.)_   
+11. Connect two of the beyerdynamic DT 770 **Headphones** to the **ART HeadAmp** output channels 1-2. These headphones are monitor lines for Louis and the composer operating their patch. They should occupy the first 2 channels on the HeadAmp.    
+12. Using 1 of the TRS-to-XLR adaptor cables, connect the output of the 3rd HeadAmp channel to the **snake**'s return input (labeled A or 1, I'm not remembering what it is called). We will return this 3rd monitor signal to the stage for Margit.   
+13. On the stage, place a **10-m or 5-m XLR cable** on stage next to the **Genelec 8030 speaker** in case we should use that as a monitor instead of headphones. Plug the Genelec 8030 into the power strip.   
+14. Use an XLR-to-TRS cable to connect the snake return channel 1 to a 3rd pair of DT 770 **Headphones**. This is Margit's monitor headphones. If she prefers, we can also try the Genelec speaker in rehearsal. Simply plug the output channel from the snake into the Genelec 8030 and adjust the volume on the HeadAmp channel 3 to be sure it's not too loud.   
+15. Turn on the mixing console. Click "Okay" on any startup screen you see. Verify that the "scene" in the left-hand corner of the LCD screen reads "Accordion."     
+
+_On Goeun's laptop:_   
+
+_All HiWis please assist with these next steps. If you need assistance from me, send me photos on Discord of what you see and describe anything that isn't working:_      
+
+16. Open Dante Virtual Soundcard (DVS), select 8 x 8, and Start the virtual soundcard.   
+17. Open Dante Controller, find Goeun's laptop along the top row. Click the + (plus) sign to expand it.   
+18. Find the Yamaha Mixer along the left output sidebar (the console's name will include `NY64`). Click the + (plus) sign to expand it. This represents the signal path _from_ Goeun's computer _to_ the mixer.   
+19. Verify that Goeun's laptop is on the top row, while the Yamaha TF3 mixer (`NY64`) is on the left sidebar.  
+20. Connect Goeun's output channels 1-2-3-4 to the mixer channels 5-6-7-8. This should form a diagonal line of green checkmarks in Dante Controller's matrix. See the photo below for reference:   
+
+<img src="/MHL-Physical-Modeling/assets/images/dante.controller.setup.v01.png" alt="Dante controller">   
+
+Be sure that Goeun's channel 1 aligns with the mixer's channel 5 seen here according to the dotted line.   
+
+The exact names of Goeun's computer and the mixing console will appear differenly than the red text you see here. Apologies that this is a terrible photo; it is just a quick and dirty graphic to show you what the setup should look like.   
+
+21. **Reverse this process**: Along the top row of Dante Controller, open (+ to expand) the Yamaha TF3 mixer (`NY64`) and along the left sidebar, open (+ to expand) Goeun's computer. This represents the signal path _from_ the mixer _to_ the computer.   
+22. Create green checkmarks in the matrix connecting the Yamaha mixer's output channels 1-2 to Goeun's input channels 1-2. This represents the stage microphones to the input of the patch on Goeun's computer.   
+   
+#### 3.4 Test Signals at 15:00      
+
+_All HiWis with the support of others as they deem necessary:_     
+
+1. On the TF3 mixing console, ensure that the **input** button is pressed. The channel strips are colored and labeled to ensure that you see the following:   
+    * channels 1-2: stage microphones (C414s or C214s)  
+    * channels 3-4: room microphones from Thomas's Dante connection (we will test on Monday morning at 9:00)  
+    * channels 5-6-7-8: computer output channels 1-4   
+  
+2. Turn on the HeadAmp.   
+3. Play some test sound from the computer. I recommend using **Max's Audio Tester** (go to Extras > Audiotester).   
+4. Ensure that in Options > Audio Status, your input and output are both set to **Dante Virtual Soundcard**. 
+5. Play some test sound in Max. Loop for continuous sound as necessary. Test _each_ output channel 1-4.     
+6. Verify that the meters are moving on the console channels 5-8.  
+7. Verify that the signal is being received on the HeadAmp. Adjust gain on the HeadAmp and mixing board as necessary.  
+8. Have someone do a **scratch test** on the stage microphones (lightly scratch each microphone grille) to verify that signal is being receiving on mixing console channels 1-2 and in inputs 1-2 of MaxMSP.  
+
+
+
 
 
 
