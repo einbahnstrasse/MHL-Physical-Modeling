@@ -64,7 +64,7 @@ _See the stage plot below for an overview of how things will look:_
 
 _This is not a duplicate of our Winter concert setup: We are not setting up 4-channel speakers for sound diffusion for this recording session, so don't bring the 8050s downstairs._   
 
-_See below for an expalanation of equipment and connections._    
+_See below for an explanation of equipment and connections._    
 
 #### 3.2 Equipment List      
 
@@ -84,6 +84,7 @@ _From the **Upstairs Storage Room** (3.13e):_
 * 2 x microphone stands  
 * 1 x Yamaha TF3 mixing console (in flight case; see photos)   
 * 1 x Genelec 8030 loudspeaker (for on-stage monitor)  
+* 2 x long network cables ("ethernet" cables) (not the long orange one, but 2 long cables that can go from the stage to mix position)   
 * 1 x small audio snake (the kind we used at our Winter concert)   
 * 5 x 10-meter XLR cables   
 * ? x XLR-to-TRS ("jack") cables   
@@ -121,6 +122,26 @@ _If any of these tables are unavaiable, there is also a table in 3.13e that can 
 14. Cover the snake cable from the stage with a **rubber mat** to make sure nobody trips over it.  
 
 _Diego, Ilia, and Goeun (HiWis):_   
+
+1. Find the **Dante network switch** underneath the Kammersaal stage (see the stage plot for location):   
+
+<img src="/MHL-Physical-Modeling/assets/images/network.switch.in.KS.jpg" alt="switch under stage">   
+
+<img src="/MHL-Physical-Modeling/assets/images/network.dante.swtich.KS.jpg" alt="Dante switch">   
+
+2. The <span style="color: orange;">**orange**</span> connections in 3.1 Stage Plot above are **Dante**. Using the photos above for reference, connect both network cables to the Dante switch (use any of the free ports you see in the photo) and run the cables to the mix position.   
+3. See the diagram of the Yamaha TF3 mixing console's back panel below:  
+
+<img src="/MHL-Physical-Modeling/assets/images/TF3.back.panel.png" alt="TF3 back panel">   
+
+4. Connect one of the network cables to the Yamaha TF3 mixing console. There are 2 Dante plugs on the back of the mixer: plug this network cable into the mixer's **LEFT Dante port**.   
+5. Connect the other network cable to **Goeun's MacBook Pro** on Table 2. Use the adaptor from the studio described in 3.2 Equipment List above.   
+6. On stage, place the **Sennheiser C214 microphones** on their stands and position them close to where the accordion sits.  
+7. Connect the microphones to the snake's input channels 1 and 2.  
+8. At the console, connect the snake's output channels 1 and 2 to the console's input XLR channels 1 and 2. These are the **direct signal** ("close mic") channels.   
+9. 
+
+
 
 
 
