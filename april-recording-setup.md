@@ -7,7 +7,7 @@ layout: single
 title: "April Recording Setup"   
 lang: en   
 ref: grade  
-permalink: /story-curves/   
+permalink: /april-recording/   
 toc: true  
 toc_label: "Recording Setup Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
