@@ -183,10 +183,6 @@ _All HiWis with the support of others as they deem necessary:_
 7. Verify that the signal is being received on the HeadAmp. Adjust gain on the HeadAmp and mixing board as necessary.  
 8. Have someone do a **scratch test** on the stage microphones (lightly scratch each microphone grille) to verify that signal is being receiving on mixing console channels 1-2 and in inputs 1-2 of MaxMSP.  
 
+_I hope you're able to finish all of this well ahead of my arrival time and that you can take a break before our 17:00 rehearsals!_    
 
-
-
-
-
-
-
+_Thanks for all your help, everybody!_     
