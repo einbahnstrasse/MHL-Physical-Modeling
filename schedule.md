@@ -121,7 +121,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 #### Tutorials    
 * Using GIT for Production Patches      
 
-<img src="/MHL-Physical-Modeling/assets/images/GIT.for.production.patches.v01.drawio.png" alt="git for production">   
+<img src="/MHL-Physical-Modeling/assets/images/GIT.for.production.patches.v01.drawio.png" width="70%" alt="git for production">   
    
 ##### Mechanical Resonance    
 _Watch just a few moments of these examples._   
