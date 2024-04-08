@@ -184,6 +184,10 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
+* [Reading Spectrograms: Vowels](https://youtu.be/mWel5j-F8lE?si=rlQzDD_KZA-CvjPc){:target="_blank"}         
+   
+{% include video id="mWel5j-F8lE?si=rlQzDD_KZA-CvjPc" provider="youtube" %}    
+   
 * [Formant Values from the CSound Manual](https://www.classes.cs.uchicago.edu/archive/1999/spring/CS295/Computing_Resources/Csound/CsManual3.48b1.HTML/Appendices/table3.html){:target="_blank"}       
    
 #### Downloads   
