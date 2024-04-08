@@ -164,7 +164,7 @@ Be sure that Goeun's channel 1 aligns with the mixer's channel 5 seen here accor
 
 The exact names of Goeun's computer and the mixing console will appear differenly than the red text you see here. Apologies that this is a terrible photo; it is just a quick and dirty graphic to show you what the setup should look like.   
 
-21. For input from the microphoes to the Max patch, I will program a separate connection. _Stand by for further details about this._   
+For input from the microphoes to your Max patches, I will program a separate connection. _Stand by for further details about this._   
    
 #### 3.4 Test Signals at 15:00      
 

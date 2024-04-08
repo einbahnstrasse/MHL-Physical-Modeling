@@ -119,7 +119,10 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
 ### <span style="color: #10999e;">{{ site.week-02-topic }}</span>    
 
 #### Tutorials    
+* Using GIT for Production Patches      
 
+<img src="/MHL-Physical-Modeling/assets/images/GIT.for.production.patches.v01.drawio.png" alt="git for production">   
+   
 ##### Mechanical Resonance    
 _Watch just a few moments of these examples._   
 * [Tacoma Narrows Bridge Collapse (1940)](https://youtu.be/j-zczJXSxnw?si=xmXJD0aquZbH-n8-&t=8){:target="_blank"}      
