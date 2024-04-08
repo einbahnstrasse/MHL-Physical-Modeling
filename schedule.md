@@ -186,7 +186,7 @@ _Watch just a few moments of these examples._
 #### Tutorials   
 
 #### Downloads   
-* [Chant manual (coming soon!)](#){:target="_blank"}       
+* [Formant Values from the CSound Manual](https://www.classes.cs.uchicago.edu/archive/1999/spring/CS295/Computing_Resources/Csound/CsManual3.48b1.HTML/Appendices/table3.html){:target="_blank"}       
 
 #### Listening   
 
