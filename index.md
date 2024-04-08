@@ -308,74 +308,9 @@ I understand the value of personal integrity and ethical behavior in all aspects
 (Modified from the Marquette University Honor Code, PB, RB; AM; 12/23/2020)  
 
 ## 6. General Grading Rubric   
-
-<div class="gradingtable">
-<table>
-<colgroup>
-<col width="20%" />
-<col width="8%" />
-<col width="75%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Score</th>
-<th>Grade</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">93-100%</td>
-<td markdown="span">A</td>
-<td markdown="span">**Outstanding:** pushing the limits of both the student’s creativity and the assignment.</td>
-</tr>
-<tr>
-<td markdown="span">90-92.9%</td>
-<td markdown="span">A-</td>
-<td markdown="span">**Impressive​:** demonstrates maximum aptitude and/or organizational skills.</td>
-</tr>
-<tr>
-<td markdown="span">87-89.9%</td>
-<td markdown="span">B+</td>
-<td markdown="span">**High Achieving:** thoughtful and creative approach to the assignment.</td>
-</tr>
-<tr>
-<td markdown="span">83-86.9%</td>
-<td markdown="span">B</td>
-<td markdown="span">**Thorough:** clear articulation of skills, concepts, and preparation.</td>
-</tr>
-<tr>
-<td markdown="span">80-82.9%</td>
-<td markdown="span">B-</td>
-<td markdown="span">**Above Average:** quality work, but lacking in some problem-solving areas.</td>
-</tr>
-<tr>
-<td markdown="span">77-79.9%</td>
-<td markdown="span">C+</td>
-<td markdown="span">**Well Intentioned:** submitted on time, completed according to minimum requirements.</td>
-</tr>
-<tr>
-<td markdown="span">70-76.9%</td>
-<td markdown="span">C</td>
-<td markdown="span">**Average:** may need help with certain concepts and/or organization of ideas.</td>
-</tr>
-<tr>
-<td markdown="span">60-69.9%</td>
-<td markdown="span">D</td>
-<td markdown="span">**Poor:** does not meet the minimum requirements.</td>
-</tr>
-<tr>
-<td markdown="span">< 60%</td>
-<td markdown="span">F</td>
-<td markdown="span">**Fail:** not turned in, excessively late, or incomplete.</td>
-</tr>
-</tbody>
-</table>
-</div>  
-_For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](/grading){:target="_blank"}_  
-
-
-
+   
+_Your course grade will be a weighted average between your completion of in-class work and out-of-class project work, attendance, and participation._  
+   
 ## 7. Course Accommodations for Students with Disabilities    
 
 In order to receive disability-related academic accommodations students must contact [Inclusion at MHL](https://www.mh-luebeck.de/en/studium/inclusion/){:target="_blank"}.     
