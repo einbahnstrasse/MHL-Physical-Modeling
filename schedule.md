@@ -184,10 +184,10 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
-
-#### Downloads   
 * [Formant Values from the CSound Manual](https://www.classes.cs.uchicago.edu/archive/1999/spring/CS295/Computing_Resources/Csound/CsManual3.48b1.HTML/Appendices/table3.html){:target="_blank"}       
-
+   
+#### Downloads   
+   
 #### Listening   
 
 #### Assignments   
