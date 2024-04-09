@@ -140,7 +140,7 @@ _Watch just a few moments of these examples._
 * [**Resonance** Boiler Patches](https://github.com/einbahnstrasse/resonance.boiler){:target="_blank"}  
 
 #### Listening   
-* [Kaija Saariaho, _L'Amour de loin_, Première acte, I. _Traverée_](https://youtu.be/x0gDY3hXpQ0?si=rD_goTDxMqtE86ms){:target="_blank"}       
+* [Kaija Saariaho, _L'Amour de loin_, Première acte, I. _Traversée_](https://youtu.be/x0gDY3hXpQ0?si=rD_goTDxMqtE86ms){:target="_blank"}       
    
 {% include video id="x0gDY3hXpQ0?si=rD_goTDxMqtE86ms" provider="youtube" %}    
   
