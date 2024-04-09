@@ -154,7 +154,7 @@ _Watch just a few moments of these examples._
 {% include video id="_WoqwSBkhj0?si=Nv6X9APyvN2TFK96" provider="youtube" %}    
 
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `01.modres.from.a.chord.maxpat`   
 
 #### Terms, Concepts, Objects, Shortcuts    
 - resonance   
