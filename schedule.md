@@ -200,9 +200,13 @@ _Watch just a few moments of these examples._
 * [Formant Values from the CSound Manual](https://www.classes.cs.uchicago.edu/archive/1999/spring/CS295/Computing_Resources/Csound/CsManual3.48b1.HTML/Appendices/table3.html){:target="_blank"}       
    
 #### Downloads   
-   
-#### Listening   
+* [**Formant** Boiler Patches](https://github.com/einbahnstrasse/formant.boiler){:target="_blank"}  
 
+#### Listening   
+* [Jean-Baptiste Barrière, _Chreode I_ (1983)](https://youtu.be/5AEFhybYrPg?si=PRdgsCal_CTasVPA){:target="_blank"}       
+   
+{% include video id="5AEFhybYrPg?si=PRdgsCal_CTasVPA" provider="youtube" %}    
+  
 #### Assignments   
 * [Feedback Filter (Digital Filter Basics)](https://youtu.be/NC_dAcvYLsc?si=8KZ38cZTjPHXmMcq){:target="_blank"}       
 
@@ -213,8 +217,9 @@ _Watch just a few moments of these examples._
 {% include video id="ap1qXBTKU8g?si=v2Y2SJhsltlTc5La" provider="youtube" %}    
 
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
-
+  - `01.formant.modeling.parent.patch.maxpat`   
+  - `formant.polyCore.maxpat`   
+   
 #### Terms, Concepts, Objects, Shortcuts    
 - formant   
 - vowel   
