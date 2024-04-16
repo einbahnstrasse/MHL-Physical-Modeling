@@ -191,6 +191,12 @@ _Watch just a few moments of these examples._
    
 {% include video id="mWel5j-F8lE?si=rlQzDD_KZA-CvjPc" provider="youtube" %}    
    
+* Source-Filter Synthesis Model:   
+   
+<img src="/MHL-Physical-Modeling/assets/images/Source-filter-model-of-speech-production.png" alt="source-filter model">   
+   
+[Source](https://www.researchgate.net/figure/Source-filter-model-of-speech-production_fig1_265566668){:target="_blank"}       
+   
 * [Formant Values from the CSound Manual](https://www.classes.cs.uchicago.edu/archive/1999/spring/CS295/Computing_Resources/Csound/CsManual3.48b1.HTML/Appendices/table3.html){:target="_blank"}       
    
 #### Downloads   
