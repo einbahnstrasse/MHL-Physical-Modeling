@@ -282,6 +282,7 @@ _Watch just a few moments of these examples._
 #### Listening   
 
 #### Assignments  
+* Reminder: Next week's class is on Zoom! _(see link below)_    
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
@@ -295,8 +296,11 @@ _Watch just a few moments of these examples._
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #10999e;">{{ site.week-06-topic }}</span>    
 
+#### Zoom Link   
+* [https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09](https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09){:target="_blank"}     
+   
 #### Tutorials  
-
+   
 #### Assignments  
 <!-- * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>   -->
 * **Finish these patches** we made in class:   
