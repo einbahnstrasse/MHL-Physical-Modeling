@@ -253,6 +253,9 @@ _Watch just a few moments of these examples._
 * [Gregory Taylor's Introduction to gen~ Tutorial series (optional)](https://cycling74.com/tutorials/gen-video-tutorial-series){:target="_blank"}         
 * [Musicdsp.org (optional)](https://www.musicdsp.org/en/latest/){:target="_blank"}     
 
+#### Downloads   
+* [**Comb + Allpass** Boiler Patches](https://github.com/einbahnstrasse/comb.and.allpass.filters.boiler){:target="_blank"}  
+
 #### Assignments   
 
 * **Finish these patches** we made in class:   
