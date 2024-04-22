@@ -249,7 +249,7 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-04-topic }}</span>    
 
 #### Tutorials   
-* [Introduction to gen~ (slides)](https://einbahnstrasse.github.io/MHL-intro-to-gen/){:target="_blank"}         
+* [Introduction to <gen~> (slides)](https://einbahnstrasse.github.io/MHL-intro-to-gen/){:target="_blank"}         
 * [Gregory Taylor's Introduction to gen~ Tutorial series (optional)](https://cycling74.com/tutorials/gen-video-tutorial-series){:target="_blank"}         
 * [Musicdsp.org (optional)](https://www.musicdsp.org/en/latest/){:target="_blank"}     
 
