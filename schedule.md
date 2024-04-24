@@ -259,18 +259,28 @@ _Watch just a few moments of these examples._
 #### Assignments   
 
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `03.FIR+IIR.comb.maxpat`       
+  - `my.IIR.comb.gendsp`    
+  - `04.allpass.filter.maxpat`    
+  - `my.schroeder.allpass.gendsp`    
 
 #### Terms, Concepts, Objects, Shortcuts  
+- FIR comb filter   
+- IIR comb filter   
+- moving delay   
+- allpass filter  
+- resonances + antiresonances   
+- I/O vector   
+- signal vector  
+- JIT (“just-in-time”) compiling   
 - single-sample delay   
 - _Z<sup>(-N)</sup>_   
-- `<gen~>`    
+- `<dspstate~>`   
+- `<gen~>`   
+- `<delay>` _(the_ `<gen~>` _operator using @feedback 1)_    
 - `<history>`   
 - `<param>`   
-- `<codebox>`   
-- `<twopi>`  
-- `<tan>`   
-- `<samplerate>`   
+- `<codebox>`    
 
 * * *  
 
