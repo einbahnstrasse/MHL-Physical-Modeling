@@ -257,7 +257,10 @@ _Watch just a few moments of these examples._
 * [**Comb + Allpass** Boiler Patches](https://github.com/einbahnstrasse/comb.and.allpass.filters.boiler){:target="_blank"}  
 
 #### Assignments   
-
+* **Complete the patch** `05.FIR.echo.simulator.v02.maxpat` using the [video tutorial](https://youtu.be/zhJavv1kxYU){:target="_blank"} below, **this weekend if possible, or by Week 6** at the latest:   
+   
+{% include video id="zhJavv1kxYU" provider="youtube" %}    
+   
 * **Finish these patches** we made in class:   
   - `03.FIR+IIR.comb.maxpat`       
   - `my.IIR.comb.gendsp`    
