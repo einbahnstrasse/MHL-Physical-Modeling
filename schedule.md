@@ -265,7 +265,8 @@ _Watch just a few moments of these examples._
   - `03.FIR+IIR.comb.maxpat`       
   - `my.IIR.comb.gendsp`    
   - `04.allpass.filter.maxpat`    
-  - `my.schroeder.allpass.gendsp`    
+  - `my.schroeder.allpass.gendsp`   
+  - `05.FIR.echo.simulator.v02.maxpat`    
 
 #### Terms, Concepts, Objects, Shortcuts  
 - FIR comb filter   
