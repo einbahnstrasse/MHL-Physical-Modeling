@@ -294,6 +294,9 @@ _Watch just a few moments of these examples._
 #### Tutorials    
 * [Reference page for the Karplus-Strong Algorithm (Stanford)](https://ccrma.stanford.edu/~jos/pasp/Karplus_Strong_Algorithm.html){:target="_blank"}     
 * [Reference page for Digital Waveguides (Stanford)](https://ccrma.stanford.edu/~bilbao/booktop/node15.html){:target="_blank"}     
+* Karplus-Strong Algorithm as a Simplified Block Diagram (much like a Topology):   
+
+<img src="/MHL-Physical-Modeling/assets/images/Karplus-strong-schematic.png" width="70%" alt="Karplus-Strong Block Diagram">   
 
 #### Downloads  
 
@@ -307,7 +310,7 @@ _Watch just a few moments of these examples._
 #### Terms, Concepts, Objects, Shortcuts  
 * Karplus-Strong Algorithm  
 * Waveguide synthesis   
-* scattering junction      
+<!-- * scattering junction       -->
   
 * * *   
 
