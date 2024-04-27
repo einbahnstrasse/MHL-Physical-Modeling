@@ -296,7 +296,7 @@ _Watch just a few moments of these examples._
 * [Reference page for Digital Waveguides (Stanford)](https://ccrma.stanford.edu/~bilbao/booktop/node15.html){:target="_blank"}     
 * Karplus-Strong Algorithm as a Simplified Block Diagram (much like a Topology):   
 
-<img src="/MHL-Physical-Modeling/assets/images/Karplus-strong-schematic.png" width="70%" alt="Karplus-Strong Block Diagram">   
+<img src="/MHL-Physical-Modeling/assets/images/Karplus-strong-schematic.png" width="100%" alt="Karplus-Strong Block Diagram">   
 
 #### Downloads  
 
