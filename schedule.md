@@ -305,13 +305,15 @@ _Watch just a few moments of these examples._
 #### Assignments  
 * Reminder: Next week's class is on Zoom! _(see link below)_    
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `01.Karplus-Strong.maxpat`     
+  - `string-LP.gendsp`      
+  - `string-AP-LP.gendsp`         
 
 #### Terms, Concepts, Objects, Shortcuts  
 * Karplus-Strong Algorithm  
 * Waveguide synthesis   
 <!-- * scattering junction       -->
-  
+   
 * * *   
 
 ## Week 6: {{ site.week-06 }}  
