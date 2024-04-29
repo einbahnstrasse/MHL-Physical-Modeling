@@ -310,8 +310,8 @@ _Watch just a few moments of these examples._
 * Reminder: Next week's class is on Zoom! _(see link below)_    
 * **Finish these patches** we made in class:   
   - `01.Karplus-Strong.maxpat`     
-  - `string-LP.gendsp`      
-  - `string-AP-LP.gendsp`         
+  - `Karplus-Strong.gendsp`      
+  - `stiff-string-AP-LP.gendsp`         
 
 #### Terms, Concepts, Objects, Shortcuts  
 * Karplus-Strong Algorithm  
