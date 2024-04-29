@@ -298,7 +298,7 @@ _Watch just a few moments of these examples._
 
 <img src="/MHL-Physical-Modeling/assets/images/Karplus-strong-schematic.png" width="100%" alt="Karplus-Strong Block Diagram">   
 
-* Block Diagrams for a Karplus-Strong String Model (_above_), and an Ideally Stiff, Rigidly Terminating String (below):   
+* Block Diagrams for the **Karplus-Strong String Model** (_above_), and an **Ideally Stiff, Rigidly Terminating String** (_below_):   
 
 <img src="/MHL-Physical-Modeling/assets/images/KS_LP_and_AP_string_models.jpg" width="100%" alt="2 string models">   
    
