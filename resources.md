@@ -266,7 +266,7 @@ _Check your operating system for compatibility and install one of these:_
 ### Tutorials   
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
-	<a href="https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/" target="_blank" class="btn btn--primary">Introduction to Digital Audio (Slides)</a> <a href="https://einbahnstrasse.github.io/MHL-intro-to-midi/" target="_blank" class="btn btn--primary">Introduction to MIDI (Slides)</a> <a href="https://einbahnstrasse.github.io/MHL-Debugging-in-Max/" target="_blank" class="btn btn--primary">Debugging in MaxMSP (Slides)</a>
+	<a href="https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/" target="_blank" class="btn btn--primary">Introduction to Digital Audio (Slides)</a> <a href="https://einbahnstrasse.github.io/MHL-intro-to-midi/" target="_blank" class="btn btn--primary">Introduction to MIDI (Slides)</a> <a href="https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/" target="_blank" class="btn btn--primary">Introduction to MaxMSP (Slides)</a> <a href="https://einbahnstrasse.github.io/MHL-Debugging-in-Max/" target="_blank" class="btn btn--primary">Debugging in MaxMSP (Slides)</a>
 </span>   
    
 ### History + References   
