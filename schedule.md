@@ -292,6 +292,7 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-05-topic }}</span>    
 
 #### Tutorials    
+* [gen~ Operators](https://docs.cycling74.com/max8/vignettes/gen~_operators){:target="_blank"}  
 * [Reference page for the Karplus-Strong Algorithm (Stanford)](https://ccrma.stanford.edu/~jos/pasp/Karplus_Strong_Algorithm.html){:target="_blank"}     
 * [Reference page for Digital Waveguides (Stanford)](https://ccrma.stanford.edu/~bilbao/booktop/node15.html){:target="_blank"}     
 * Karplus-Strong Algorithm as a Simplified Block Diagram (much like a Topology):   
