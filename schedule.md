@@ -317,10 +317,16 @@ _Watch just a few moments of these examples._
 #### Terms, Concepts, Objects, Shortcuts  
 * Karplus-Strong Algorithm  
 * Waveguide synthesis   
+* string stiffness   
+* Allpass coefficient  
+* attack reflections   
+* `samplerate`    
+* `<history>`   
+* `<dcblock>`   
 <!-- * scattering junction       -->
-   
+    
 * * *   
-
+  
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #10999e;">{{ site.week-06-topic }}</span>    
 
