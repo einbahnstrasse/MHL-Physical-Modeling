@@ -320,6 +320,8 @@ _Watch just a few moments of these examples._
 * string stiffness   
 * Allpass coefficient  
 * attack reflections   
+* bias  
+* DC-blocking filter   
 * `samplerate`    
 * `<history>`   
 * `<dcblock>`   
