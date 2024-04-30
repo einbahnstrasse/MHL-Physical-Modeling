@@ -318,6 +318,7 @@ _Watch just a few moments of these examples._
 * Karplus-Strong Algorithm  
 * Waveguide synthesis   
 * string stiffness   
+* dispersion   
 * Allpass coefficient  
 * attack reflections   
 * bias  
