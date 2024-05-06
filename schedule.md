@@ -336,15 +336,31 @@ _Watch just a few moments of these examples._
 #### Zoom Link   
 * [https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09](https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09){:target="_blank"}     
    
-#### Tutorials  
+#### Tutorials    
+* [Digital Waveguide Bowed String (CCRMA):](https://ccrma.stanford.edu/~jos/pasp/Digital_Waveguide_Bowed_String.html){:target="_blank"}   
+     
+<img src="/MHL-Physical-Modeling/assets/images/Bowed-String.png" width="100%" alt="bowed string model">   
+    
+* Biquad Filter Block Diagram:   
+  
+<img src="/MHL-Physical-Modeling/assets/images/biquad.jpg" width="100%" alt="biquad block diagram">   
    
 #### Assignments  
-<!-- * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>   -->
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `bowed.string.v01.maxpat`     
+  - `bowed.string.gendsp`     
+  - `biquad.gendsp`    
 
 #### Terms, Concepts, Objects, Shortcuts  
-_Terms list coming soon!_    
+* reflection coefficient   
+* bow velocity   
+* bow force scaling value     
+* bow force offset value   
+* reflection filter   
+* body filter   
+* bow position table  
+* `<buffer>`   
+* `<sample>`   
 
 * * *
 
