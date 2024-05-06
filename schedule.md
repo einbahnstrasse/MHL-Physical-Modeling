@@ -337,6 +337,8 @@ _Watch just a few moments of these examples._
 * [https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09](https://columbiauniversity.zoom.us/j/93295410482?pwd=Q3Z5RUR6OU1SUDRNbVBrMkhyT3Vzdz09){:target="_blank"}     
    
 #### Tutorials    
+* [What is a Waveguide?](https://ccrma.stanford.edu/~jos/pasp/Digital_Waveguides.html){:target="_blank"}  
+* [Waves Traveling in 2 Directions Give Rise to Standing Waves](https://youtu.be/Mhp9oEmWfXw?si=CyuLtbz9ti4NCLkJ){:target="_blank"}  
 * [Digital Waveguide Bowed String (CCRMA):](https://ccrma.stanford.edu/~jos/pasp/Digital_Waveguide_Bowed_String.html){:target="_blank"}   
      
 <img src="/MHL-Physical-Modeling/assets/images/Bowed-String.png" width="100%" alt="bowed string model">   
