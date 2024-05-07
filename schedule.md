@@ -348,6 +348,7 @@ _Watch just a few moments of these examples._
 <img src="/MHL-Physical-Modeling/assets/images/biquad.jpg" width="100%" alt="biquad block diagram">   
    
 #### Assignments  
+* [Study the **Debugging in MaxMSP** slides](https://einbahnstrasse.github.io/MHL-Debugging-in-Max/){:target="_blank"}   
 * **Finish these patches** we made in class:   
   - `bowed.string.v01.maxpat`     
   - `bowed.string.gendsp`     
