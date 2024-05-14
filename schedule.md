@@ -379,7 +379,13 @@ _Watch just a few moments of these examples._
 * Scattering Junction   
      
 <img src="/MHL-Physical-Modeling/assets/images/flute.scatter.jpg" width="50%" alt="Scattering Junction">   
-
+  
+* Dispersion vs. Scattering      
+     
+<img src="/MHL-Physical-Modeling/assets/images/Difference-Between-Dispersion-and-Scattering-of-Light-Tabular-Form.png" width="100%" alt="Dispersion vs. Scattering">   
+   
+[Source](https://www.differencebetween.com/difference-between-dispersion-and-scattering-of-light/){:target="_blank"}       
+   
 #### Listening   
 
 #### Assignments   
