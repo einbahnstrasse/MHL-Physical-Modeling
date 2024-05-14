@@ -371,6 +371,13 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
+* Flute Model Block Diagram     
+     
+<img src="/MHL-Physical-Modeling/assets/images/flute.scattering.junction.jpg" width="100%" alt="flute model">   
+
+* Scattering Junction   
+     
+<img src="/MHL-Physical-Modeling/assets/images/flute.scatter.jpg" width="50%" alt="Scattering Junction">   
 
 #### Listening   
 
@@ -380,7 +387,7 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
-_Terms list coming soon!_    
+* scattering junction      
 
 * * *
 
