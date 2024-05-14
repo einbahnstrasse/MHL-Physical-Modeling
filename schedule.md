@@ -389,13 +389,13 @@ _Watch just a few moments of these examples._
 #### Listening   
 
 #### Assignments   
-* Prepare for our guest **Christopher Trapani** next week. Watch the following ScoreFollower videos of his music, which he will discuss in class:     
+* Prepare for our guest **Christopher Trapani** next week. Watch the following ScoreFollower videos of his music, which he will discuss in class. These are also posted under Week 8 Listening materials:        
   
-* [Cognitive Consonance](https://youtu.be/jsxb6sUatIs?si=zgGLW8nTPzBzbqO4){:target="_blank"}       
+* [Christopher Trapani: _Cognitive Consonance_](https://youtu.be/jsxb6sUatIs?si=zgGLW8nTPzBzbqO4){:target="_blank"}       
      
 {% include video id="jsxb6sUatIs?si=zgGLW8nTPzBzbqO4" provider="youtube" %}    
    
-* [Tesserae](https://youtu.be/bbBXxeTmoXQ?si=wLQvx9lk43x-ictS){:target="_blank"}     
+* [Christopher Trapani: _Tesserae_](https://youtu.be/bbBXxeTmoXQ?si=wLQvx9lk43x-ictS){:target="_blank"}     
    
 {% include video id="bbBXxeTmoXQ?si=wLQvx9lk43x-ictS" provider="youtube" %}    
    
@@ -414,6 +414,17 @@ _Watch just a few moments of these examples._
 
 #### Tutorials  
 * [Basic Concepts of Synthesis with Modalys](https://support.ircam.fr/docs/Modalys/current/Introduction.html#basic-concepts-of-synthesis-with-modalys){:target="_blank"}         
+   
+#### Listening   
+   
+* [Christopher Trapani: _Cognitive Consonance_](https://youtu.be/jsxb6sUatIs?si=zgGLW8nTPzBzbqO4){:target="_blank"}       
+     
+{% include video id="jsxb6sUatIs?si=zgGLW8nTPzBzbqO4" provider="youtube" %}    
+   
+* [Christopher Trapani: _Tesserae_](https://youtu.be/bbBXxeTmoXQ?si=wLQvx9lk43x-ictS){:target="_blank"}     
+   
+{% include video id="bbBXxeTmoXQ?si=wLQvx9lk43x-ictS" provider="youtube" %}    
+
 
 #### Assignments  
 * Introduce + assign the Final Project, due in Week 15 _(A small project to be shared in class, a working patch, a small design, nothing big. Details coming soon.)_    
