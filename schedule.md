@@ -389,9 +389,19 @@ _Watch just a few moments of these examples._
 #### Listening   
 
 #### Assignments   
-* prepare for our guest Christopher Trapani next week _(stand by for materials to examine, which will be posted here later)_   
+* Prepare for our guest **Christopher Trapani** next week. Watch the following ScoreFollower videos of his music, which he will discuss in class:     
+  
+* [Cognitive Consonance](https://youtu.be/jsxb6sUatIs?si=zgGLW8nTPzBzbqO4){:target="_blank"}       
+     
+{% include video id="jsxb6sUatIs?si=zgGLW8nTPzBzbqO4" provider="youtube" %}    
+   
+* [Tesserae](https://youtu.be/bbBXxeTmoXQ?si=wLQvx9lk43x-ictS){:target="_blank"}     
+   
+{% include video id="bbBXxeTmoXQ?si=wLQvx9lk43x-ictS" provider="youtube" %}    
+   
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `_flute.v01.MAIN.maxpat`      
+  - `flute.v01.gendsp`   
 
 #### Terms, Concepts, Objects, Shortcuts  
 * wave impedance  
