@@ -394,6 +394,7 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
+* wave impedance  
 * scattering junction      
 
 * * *
