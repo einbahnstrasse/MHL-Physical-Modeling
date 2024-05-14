@@ -371,6 +371,7 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
+* [Scattering Junctions](https://ccrma.stanford.edu/~jos/pasp/Scattering_Impedance_Changes.html){:target="_blank"}   
 * Flute Model Block Diagram     
      
 <img src="/MHL-Physical-Modeling/assets/images/flute.scattering.junction.jpg" width="100%" alt="flute model">   
