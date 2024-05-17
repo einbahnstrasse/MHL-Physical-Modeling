@@ -64,7 +64,7 @@ Checkpoints are opportunities for me to evaluate your work as the semester conti
 * **4th and FINAL EXAM DEADLINE!**: _before_ Week 15:  
     - Deadline to receive your final exam is: **Monday 8 July by 20:00**  
     - Final copies of your patch / project folder tested and sent to instructor by this date and time.     
-* _Grades and notes on final versions will be sent after the semester has ended._    
+* _Grades and notes on final versions will be sent after classes have finished._    
 
 We may also schedule **individual meetings** around the time of these deadlines to discuss the progress of your work.  
 
