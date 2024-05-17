@@ -18,7 +18,7 @@ last_modified_at: 2024-05-17
 
 ---
 
-### Deadline: Week 15: {{ site.week-15 }}  
+### Deadline: 8 July 2024 by 20:00      
 
 ### 1. Overview   
 
