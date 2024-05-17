@@ -427,7 +427,8 @@ _Watch just a few moments of these examples._
 
 
 #### Assignments  
-* [Introduce + assign the Final Project](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-project/){:target="_blank"}, **due by Week 15 Monday night July 8 by 20:00**       
+* [Introduce + assign the Final Project](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-project/){:target="_blank"}   
+* **due by Week 15 Monday night July 8 by 20:00**       
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
