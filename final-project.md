@@ -72,7 +72,7 @@ We may also schedule **individual meetings** around the time of these deadlines 
 
 The elements described below are already available to you in the [Concert _My Magnum Opus_ Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}    template we will build in our previous semesters. Your project must reproduce this basic structure as a minimum requirement:      
 
-1. A **folder** of patches, Max abstractions, sounds, or other dependencies. Your folder structure should look like this:   
+1. A **folder** of patches, Max abstractions, `.gendsp` files (if you are using `gen~`), sounds, or other dependencies. Your folder structure should look like this:   
   
 ![Final project folder structure](assets/images/final.project.folder.structure.png)  
   
