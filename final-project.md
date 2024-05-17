@@ -22,7 +22,7 @@ last_modified_at: 2024-05-17
 
 ### 1. Overview   
 
-The final exam is a _working draft of a composition_ for instrument(s) and electronics realized in MaxMSP with occasional _checkpoints_ where I evaluate your progress throughout the remaining weeks of the semester. 
+The final exam is a _working draft of a composition_ for instrument(s) and electronics realized in MaxMSP with occasional _checkpoints_ where I evaluate your progress throughout the remaining weeks of the semester. The piece must be **mixed**, meaning it must include **realtime control by a live performer** (or using _simulation audio_ in the absense of a performer, as described below). In other words, **fixed media works or entirely generative patches are not permissible**.   
 
 Your project may be conceived as a _work-in-progress_ but **must be presented as a finished draft of a composition** in a class presentation given during our final class session on {{ site.week-15 }} . 
 
@@ -114,7 +114,7 @@ Details in the boxes below will be filled in upon grading and provided as feedba
 
 ![Rubric image for Final Exam](assets/images/final-rubric.png)  
 
-Of these, **musicality** refers to the _technical aspects in service of your sonic and creative goals and not to prior knowledge of musical history, theory, composition_, etc. Does your work sustain listener interest? Do your sounds modulate and develop, or do they stay stationary for too long? Does your piece create a sense of direction or motion? Does your analysis of someone else’s music clarify or consider these efforts that the original composer or artist may have had in mind? Quality refers to the synthesis itself; do your sounds distort when you don’t intend for them to? (Music based on distortion is great; but is it wildly out of control all the time?) Are your sounds and effects executed in a controlled manner? Are you using compression logically? Are you introducing unwanted artifacts into your sound? What is predictable about the functioning of your patch? These are some of the considerations formulated in these two categories.  
+Of these, **musicality** refers to the _technical aspects in service of your sonic and creative goals and not to prior knowledge of musical history, theory, composition_, etc. Does your work sustain listener interest? Do your sounds modulate and develop, or do they stay stationary for too long? Does your piece create a sense of direction or motion? **Quality** refers to the synthesis itself; do your sounds distort when you don’t intend for them to? (Music based on distortion is great; but is it wildly out of control all the time?) Are your sounds and effects executed in a controlled manner? Are you using compression logically? Are you introducing unwanted artifacts into your sound? What is predictable about the functioning of your patch? These are some of the considerations formulated in these two categories.  
 
 If you have any questions, please don't hesitate to reach out to me and ask.  
 
