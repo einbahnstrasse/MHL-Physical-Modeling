@@ -56,7 +56,7 @@ Checkpoints are opportunities for me to evaluate your work as the semester conti
     - 2-3 Max patches or presets with evidence of your control over physical mdoeling synthesis algorithms        
     - Your ideas about compositional _transitions_ between these 2-3 "states"  
 * **3rd Concert Patch Checkpoint**: Week 13: {{ site.week-13 }}  
-    - Your concert patch (_in progress_) **must take the form of the template** built in our previous semesters: [Concert _My Magnum Opus_ Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
+    - Your concert patch (_in progress_) **must take the form of the template** built in our previous semesters: [_My Magnum Opus_ Concert Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
     - Individual **events** should now be numbered and coded into your patch   
     - Send your **score** to your perfomer(s)  
     - revisions will be sent to you by email or Discord; 
@@ -70,7 +70,7 @@ We may also schedule **individual meetings** around the time of these deadlines 
 
 ### 3. Things Your Project Should Have   
 
-The elements described below are already available to you in the [Concert _My Magnum Opus_ Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}    template we will build in our previous semesters. Your project must reproduce this basic structure as a minimum requirement:      
+The elements described below are already available to you in the [_My Magnum Opus_ Concert Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}    template we will build in our previous semesters. Your project must reproduce this basic structure as a minimum requirement:      
 
 1. A **folder** of patches, Max abstractions, `.gendsp` files (if you are using `gen~`), sounds, or other dependencies. Your folder structure should look like this:   
   
