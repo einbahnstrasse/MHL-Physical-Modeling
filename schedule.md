@@ -415,6 +415,9 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 * [Basic Concepts of Synthesis with Modalys](https://support.ircam.fr/docs/Modalys/current/Introduction.html#basic-concepts-of-synthesis-with-modalys){:target="_blank"}         
    
+#### Downloads     
+* [Introduction to Modalys Boiler](https://github.com/einbahnstrasse/modalys-intro-boiler){:target="_blank"}         
+   
 #### Listening   
    
 * [Christopher Trapani: _Cognitive Consonance_](https://youtu.be/jsxb6sUatIs?si=zgGLW8nTPzBzbqO4){:target="_blank"}       
@@ -445,9 +448,6 @@ _Watch just a few moments of these examples._
 * `<mlys.point-output>`   
 * `<mlys.mono-string>`  
 * `<mlys.signal>`   
-* `<mlys.bow>`   
-* `<mlys.position>`   
-<!-- 01a-string+force_sigctrl.maxpat -->   
 
 * * *
 
