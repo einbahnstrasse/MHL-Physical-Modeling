@@ -32,7 +32,7 @@ Your piece should **include the physical modeling tools** we explored this semes
 
 You can also use our Final Exam piece as an opportunity to develop a new piece for any other recital or commission obligation at MHL or elsewhere, but it **must meet the requirements of our exam as detailed below**. 
 
-By the deadline below, send me a project folder (by email, WeTransfer.com, or any accessible cloud link), and a stereo mixdown (binaural), meeting the following criteria:  
+By the deadline below, send me a project folder (by email, WeTransfer.com, or any accessible cloud link), and a stereo audio file (for example, a binaural mixdown of a multichannel piece), meeting the following criteria:  
 
 ### 2. Procedure / General Timeline   
 
