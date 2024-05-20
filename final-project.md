@@ -80,7 +80,7 @@ The elements described below are already available to you in the [Concert _My Ma
 2. A clearly labeled **main patch** serving as your central interface that loads your other sub-patches, sounds, synths, etc.       
 3. An **initialization (“init”)** routine that sets your piece's starting parameters, readying everything before your patch produces its first sound or event number.  
 4. An **input and output patch**: steal these from the versions we created earlier in the semester and/or in preious semesters!   
-5. A **“script” (event management system)** for individual events and transitions. Use **remote message boxses** and a counter system as demonstrated in the _MyMagnumOpus_ boiler patch.    
+5. A **“script” (event management system)** for individual events and transitions. Use **remote message boxes** and a counter system as demonstrated in the _MyMagnumOpus_ boiler patch.    
 6. Replace all `loadbang` and `loadmess` objects with `receive` objects. Be sure to create `receive` objects for any `preset` or `pattrstorage` object you might be using: so that you can control **which preset number** to send from your remote messaging script via a single event number trigger.    
 6. Your project should draw on a **combination** of sound sources, synthesis processes, and/or treatments of your choosing. It can include many sources of control: for example, MIDI controllers, random generation, or even the use of `bach` to introduce notated score elements.      
 7. However, because we focused on _physical modeling_ this semester, your piece’s **main emphasis should be on using any of the _physical modeling tools and/or algorithms_ of your choosing**. In general, these should be **placed inside your DSP subpatch**. 
