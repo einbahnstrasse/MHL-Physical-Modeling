@@ -437,7 +437,7 @@ _Watch just a few moments of these examples._
 {% include video id="uAS1MVVIVI8" provider="youtube" %}    
   
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `01.mly.string.force.maxpat`       
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `access-in-position`   
