@@ -437,7 +437,11 @@ _Watch just a few moments of these examples._
 {% include video id="uAS1MVVIVI8" provider="youtube" %}    
   
 * **Finish these patches** we made in class:   
-  - `01.mlys.string.force.maxpat`       
+  - `01.mlys.string.force.maxpat`   
+
+* [Tutorial Video Building the Modalys String Force Patch](https://youtu.be/YPqxmi9akVY){:target="_blank"}     
+   
+{% include video id="YPqxmi9akVY" provider="youtube" %}    
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `access-in-position`   
