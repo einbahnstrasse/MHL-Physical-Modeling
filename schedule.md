@@ -479,7 +479,8 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-10-topic }}</span>    
      
 #### Tutorials  
-* [Modulus of Elasticity: **Young’s Modulus**](https://www.setareh.arch.vt.edu/safas/007_fdmtl_24_youngs_modulus.html){:target="_blank"}     
+* [**Elasticity** vs. **Plasticity**](https://energyeducation.ca/encyclopedia/Elasticity_vs_plasticity){:target="_blank"}    
+* [Modulus of _elasticity_ or **Young’s Modulus**](https://www.setareh.arch.vt.edu/safas/007_fdmtl_24_youngs_modulus.html){:target="_blank"}     
     
 <img src="/MHL-Physical-Modeling/assets/images/youngs_ modulus-01-01.png" width="100%" alt="modulus of elasticity">     
 > _Slope of the **stress-strain diagram** within the elastic zone is called “Modulus of Elasticity” or **“Young’s Modulus”**. This parameter depends only on the material type._   
@@ -500,6 +501,8 @@ _Watch just a few moments of these examples._
 
 #### Terms, Concepts, Objects, Shortcuts  
 * material properties  
+* elasticity  
+* plasticity  
 * density   
 * Young's modulus   
 * Poisson coefficient (Poisson's ratio)    
