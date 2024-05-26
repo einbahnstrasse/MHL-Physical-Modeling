@@ -444,15 +444,15 @@ _Watch just a few moments of these examples._
 {% include video id="YPqxmi9akVY" provider="youtube" %}    
 
 #### Terms, Concepts, Objects, Shortcuts    
+* `<mlys.point-input>`   
+* `<mlys.signal>`   
+* `<mlys.mono-string>`  
+* `<mlys.script>`  
+* `<modalys~>`   
 * `access-in-position`   
 * `access-out-position`   
-* `<modalys~>`   
-* `<mlys.script>`  
-* `<mlys.point-input>`   
 * `<mlys.point-output>`   
-* `<mlys.mono-string>`  
-* `<mlys.signal>`   
-
+   
 * * *
 
 ## Week 9: {{ site.week-09 }}  
@@ -462,15 +462,15 @@ _Watch just a few moments of these examples._
 
 #### Assignments  
 * **Finish these patches** we made in class:   
-  - `01.plate.signal.force.v01.maxpat`      
+  - `01.mlys.plate.signal.force.v01.maxpat`      
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `freq-loss`   
 * `const-loss`    
-* `<mlys.rect-plate>`  
+* `<mlys.position>`  
 * `<mlys.strike>`  
-* `<mlys.mono-string>`  
-* `<mlys.mono-two-mass>`   
+* `<mlys.mono-two-mass>`  
+* `<mlys.rect-plate>`   
 <!-- 05a-mlys_plate+strike_sigctrl.maxpat -->   
 
 * * *
