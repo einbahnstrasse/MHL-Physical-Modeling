@@ -462,7 +462,7 @@ _Watch just a few moments of these examples._
 
 #### Assignments  
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `01.plate.signal.force.v01.maxpat`      
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `freq-loss`   
@@ -479,7 +479,7 @@ _Watch just a few moments of these examples._
 ### <span style="color: #10999e;">{{ site.week-10-topic }}</span>    
      
 #### Tutorials  
-* [Modulus of Elasticity **Young’s Modulus**](https://www.setareh.arch.vt.edu/safas/007_fdmtl_24_youngs_modulus.html){:target="_blank"}     
+* [Modulus of Elasticity: **Young’s Modulus**](https://www.setareh.arch.vt.edu/safas/007_fdmtl_24_youngs_modulus.html){:target="_blank"}     
     
 <img src="/MHL-Physical-Modeling/assets/images/youngs_ modulus-01-01.png" width="100%" alt="modulus of elasticity">   
    
