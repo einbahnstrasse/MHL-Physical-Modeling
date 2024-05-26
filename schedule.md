@@ -487,6 +487,10 @@ _Watch just a few moments of these examples._
 * [Young’s Modulus as a function of **Density**](https://www.quora.com/What-will-be-Youngs-modulus-if-the-density-of-a-material-increases-whether-it-will-decrease-increase-or-remain-constant){:target="_blank"}     
   
 <img src="/MHL-Physical-Modeling/assets/images/youngs.modulus.v01.jpg" width="100%" alt="density vs. young's modulus">   
+
+* [**Poisson’s Ratio** of _ductility_ and _plasticity_ of a material](https://youtu.be/fc5sh65MI1M?si=DF7jDYkyKF89B5T3){:target="_blank"}     
+  
+<img src="/MHL-Physical-Modeling/assets/images/poisson.ratio.v01.png" width="100%" alt="poisson">   
    
 #### Downloads   
 
