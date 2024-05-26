@@ -466,11 +466,7 @@ _Watch just a few moments of these examples._
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `freq-loss`   
-* `const-loss`   
-* density   
-* Young's modulus   
-* Poisson coefficient (Poisson's ratio)    
-* material properties   
+* `const-loss`    
 * `<mlys.rect-plate>`  
 * `<mlys.strike>`  
 * `<mlys.mono-string>`  
@@ -481,11 +477,18 @@ _Watch just a few moments of these examples._
 
 ## Week 10: {{ site.week-10 }}  
 ### <span style="color: #10999e;">{{ site.week-10-topic }}</span>    
-
-#### Definitions  
-  
+     
 #### Tutorials  
-
+* [Modulus of Elasticity **Young’s Modulus**](https://www.setareh.arch.vt.edu/safas/007_fdmtl_24_youngs_modulus.html){:target="_blank"}     
+    
+<img src="/MHL-Physical-Modeling/assets/images/youngs_ modulus-01-01.png" width="100%" alt="modulus of elasticity">   
+   
+> _Slope of the **stress-strain diagram** within the elastic zone is called “Modulus of Elasticity” or **“Young’s Modulus”**. This parameter depends only on the material type._   
+   
+* [Young’s Modulus as a function of **Density**](https://www.quora.com/What-will-be-Youngs-modulus-if-the-density-of-a-material-increases-whether-it-will-decrease-increase-or-remain-constant){:target="_blank"}     
+  
+<img src="/MHL-Physical-Modeling/assets/images/youngs.modulus.v01.jpg" width="100%" alt="density vs. young's modulus">   
+   
 #### Downloads   
 
 #### Assignments  
@@ -493,8 +496,11 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
-_Terms list coming soon!_    
-
+* material properties  
+* density   
+* Young's modulus   
+* Poisson coefficient (Poisson's ratio)    
+   
 * * *
 
 ## Week 11: {{ site.week-11 }}  
