@@ -489,10 +489,10 @@ _Watch just a few moments of these examples._
   
 <img src="/MHL-Physical-Modeling/assets/images/youngs.modulus.v01.jpg" width="100%" alt="density vs. young's modulus">   
 
-* [**Poisson’s Ratio** of _ductility_ and _plasticity_ of a material](https://youtu.be/fc5sh65MI1M?si=DF7jDYkyKF89B5T3){:target="_blank"}     
-  
-<img src="/MHL-Physical-Modeling/assets/images/poisson.ratio.v01.png" width="100%" alt="poisson">   
-   
+* [**Poisson’s Ratio** of _ductility_ and _plasticity_ of a material](https://youtu.be/tuOlM3P7ygA?si=HHBhLD3EnkryQ2GO){:target="_blank"}      
+    
+{% include video id="tuOlM3P7ygA?si=HHBhLD3EnkryQ2GO" provider="youtube" %}    
+     
 #### Downloads   
 
 #### Assignments  
