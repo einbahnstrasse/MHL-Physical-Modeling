@@ -500,7 +500,7 @@ _Watch just a few moments of these examples._
 
 #### Assignments  
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
+  - `modified.simple.cymbal.v01.maxpat`    
 
 #### Terms, Concepts, Objects, Shortcuts  
 * material properties  
@@ -562,7 +562,7 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 
 #### Assignments   
-* prepare for our guest Jason Thorpe Buchanan next week: [Watch and listen to the pieces in his portfolio _(follow the links)_](https://www.dropbox.com/scl/fi/07js8md3z0p0zy4zz1s8x/ThorpeBuchanan_SelectPortfolio_Jun4.2024-opt.pdf?rlkey=0oprtauipwsnv10t6lsjz0ib2&e=1&dl=0){:target="_blank"}        
+* Prepare for our guest, composer **Jason Thorpe Buchanan** next week: [Watch and listen to the pieces in his portfolio _(follow the links)_](https://www.dropbox.com/scl/fi/07js8md3z0p0zy4zz1s8x/ThorpeBuchanan_SelectPortfolio_Jun4.2024-opt.pdf?rlkey=0oprtauipwsnv10t6lsjz0ib2&e=1&dl=0){:target="_blank"}        
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
