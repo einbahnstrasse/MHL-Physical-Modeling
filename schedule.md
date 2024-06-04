@@ -491,7 +491,7 @@ _Watch just a few moments of these examples._
 * [Young’s Modulus as a function of **Density**](https://www.quora.com/What-will-be-Youngs-modulus-if-the-density-of-a-material-increases-whether-it-will-decrease-increase-or-remain-constant){:target="_blank"}     
   
 <img src="/MHL-Physical-Modeling/assets/images/youngs.modulus.v01.jpg" width="100%" alt="density vs. young's modulus">   
-
+   
 * [**Poisson’s Ratio** of _ductility_ and _plasticity_ of a material](https://youtu.be/tuOlM3P7ygA?si=HHBhLD3EnkryQ2GO){:target="_blank"}      
     
 {% include video id="tuOlM3P7ygA?si=HHBhLD3EnkryQ2GO" provider="youtube" %}    
@@ -562,7 +562,7 @@ _Watch just a few moments of these examples._
 #### Tutorials  
 
 #### Assignments   
-* prepare for our guest Jason Thorpe Buchanan next week _(stand by for materials to examine, which will be posted here later)_    
+* prepare for our guest Jason Thorpe Buchanan next week: [Watch and listen to the pieces in his portfolio _(follow the links)_](https://www.dropbox.com/scl/fi/07js8md3z0p0zy4zz1s8x/ThorpeBuchanan_SelectPortfolio_Jun4.2024-opt.pdf?rlkey=0oprtauipwsnv10t6lsjz0ib2&e=1&dl=0){:target="_blank"}        
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_    
 
