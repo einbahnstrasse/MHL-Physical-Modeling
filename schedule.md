@@ -477,7 +477,10 @@ _Watch just a few moments of these examples._
 
 ## Week 10: {{ site.week-10 }}  
 ### <span style="color: #10999e;">{{ site.week-10-topic }}</span>    
-     
+
+#### Downloads  
+* [Cymbal model](/MHL-Physical-Modeling/assets/modified.simple.cymbal.v01.maxpat){:target="_blank"}   
+
 #### Tutorials  
 * [**Elasticity** vs. **Plasticity**](https://energyeducation.ca/encyclopedia/Elasticity_vs_plasticity){:target="_blank"}    
 * [Modulus of _elasticity_ or **Young’s Modulus**](https://www.setareh.arch.vt.edu/safas/007_fdmtl_24_youngs_modulus.html){:target="_blank"}     
