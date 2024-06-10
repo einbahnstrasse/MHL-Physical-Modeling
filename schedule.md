@@ -519,9 +519,13 @@ _Watch just a few moments of these examples._
 
 #### Assignments  
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
-
+  - `01.membrane.felt.mallet.maxpat`    
+  - `02.string.membrane.hybrid.maxpat`    
+    
 #### Terms, Concepts, Objects, Shortcuts  
+* `<mlys.circ-membrane>`   
+* `<mlys.felt>`   
+* `<mlys.pluck>`   
 * `<mlys.melt-hybrid>`   
 
 * * *
