@@ -495,9 +495,7 @@ _Watch just a few moments of these examples._
 * [**Poisson’s Ratio** of _ductility_ and _plasticity_ of a material](https://youtu.be/tuOlM3P7ygA?si=HHBhLD3EnkryQ2GO){:target="_blank"}      
     
 {% include video id="tuOlM3P7ygA?si=HHBhLD3EnkryQ2GO" provider="youtube" %}    
-     
-#### Downloads   
-
+    
 #### Assignments  
 * **Finish these patches** we made in class:   
   - `modified.simple.cymbal.v01.maxpat`    
@@ -539,10 +537,8 @@ _Watch just a few moments of these examples._
 * [**Standing wave** (red) as the result of the superposition of a left traveling (blue) and right traveling (green) wave](https://en.wikipedia.org/wiki/Standing_wave#/media/File:Waventerference.gif){:target="_blank"}    
 
 #### Downloads    
-* [Introduction to LISP Scripting (and _ModaLisp_)](/MHL-Physical-Modeling/assets/01-basic-LISP-intro.lisp){:target="_blank"}    
-
-<!-- #### Listening    -->
-
+* [Introduction to LISP Scripting (and _ModaLisp_)](/MHL-Physical-Modeling/assets/patches/01-basic-LISP-intro.lisp){:target="_blank"}    
+   
 #### Assignments  
 * **Finish these patches** we made in class:   
   - `wineGlass-v01.mos`   
