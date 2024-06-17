@@ -535,11 +535,10 @@ _Watch just a few moments of these examples._
 
 #### Tutorials  
 * [3D Finite Elements in Modalys](https://support.ircam.fr/docs/Modalys/current/Finite_Elements.html){:target="_blank"}    
-* Finite Elements in ModaLisp   
 * [**Eigenfrequencies** and **eigenmodes**](https://www.tf.uni-kiel.de/matwis/amat/iss/kap_c/backbone/rc_3_8.html){:target="_blank"}    
 * [**Standing wave** (red) as the result of the superposition of a left traveling (blue) and right traveling (green) wave](https://en.wikipedia.org/wiki/Standing_wave#/media/File:Waventerference.gif){:target="_blank"}    
 
-<img src="https://en.wikipedia.org/wiki/Standing_wave#/media/File:Waventerference.gif" width="70%" alt="standing wave wiki">    
+<!-- <img src="https://en.wikipedia.org/wiki/Standing_wave#/media/File:Waventerference.gif" width="70%" alt="standing wave wiki">     -->
 
 #### Listening   
 
