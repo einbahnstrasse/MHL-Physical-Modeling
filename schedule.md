@@ -553,16 +553,11 @@ _Watch just a few moments of these examples._
 * eigenfrequency   
 * eigenmode   
 * mesh   
-* controller   
-* access  
-* connection    
-* listening point   
 * `make-mesh`   
 * `compute-modes`   
 * `.modal`   
 * `<mlys.read-from-file>`   
 * Medit   
-* `<mlys.lua>`   
 
 * * *
 
