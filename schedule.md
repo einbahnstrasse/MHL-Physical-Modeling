@@ -551,10 +551,10 @@ _Watch just a few moments of these examples._
 * eigenmode   
 * mesh   
 * `make-mesh`   
-* `compute-modes`   
-* `.modal`   
-* `<mlys.read-from-file>`   
 * Medit   
+* `duplicate 'rotation`   
+* `duplicate 'translation`     
+* `duplicate 'homothety`   
 
 * * *
 
@@ -566,11 +566,13 @@ _Watch just a few moments of these examples._
 #### Assignments   
 * Prepare for our guest, composer **Jason Thorpe Buchanan** next week: [Watch and listen to the pieces in his portfolio _(follow the links)_](https://www.dropbox.com/scl/fi/07js8md3z0p0zy4zz1s8x/ThorpeBuchanan_SelectPortfolio_Jun4.2024-opt.pdf?rlkey=0oprtauipwsnv10t6lsjz0ib2&e=1&dl=0){:target="_blank"}        
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_    
-
-#### Terms, Concepts, Objects, Shortcuts  
   - `wineGlass-v01.mos` _(finish)_  
   - `import.3D.object.maxpat` _(finish)_   
+
+#### Terms, Concepts, Objects, Shortcuts  
+* `compute-modes`   
+* `.modal`   
+* `<mlys.read-from-file>`   
 
 * * *
 
