@@ -535,14 +535,15 @@ _Watch just a few moments of these examples._
 * [3D Finite Elements in Modalys](https://support.ircam.fr/docs/Modalys/current/Finite_Elements.html){:target="_blank"}    
 * [**Eigenfrequencies** and **eigenmodes**](https://www.tf.uni-kiel.de/matwis/amat/iss/kap_c/backbone/rc_3_8.html){:target="_blank"}    
 * [**Standing wave** (red) as the result of the superposition of a left traveling (blue) and right traveling (green) wave](https://en.wikipedia.org/wiki/Standing_wave#/media/File:Waventerference.gif){:target="_blank"}    
+* [Common LISP Documentation](https://www.lispworks.com/documentation/common-lisp.html){:target="_blank"}    
 
 #### Downloads    
 * [Introduction to LISP Scripting (and _ModaLisp_)](/MHL-Physical-Modeling/assets/patches/01-basic-LISP-intro.lisp){:target="_blank"}    
    
 #### Assignments  
 * **Finish these patches** we made in class:   
-  - `wineGlass-v01.mos`   
-  - `import.3D.object.maxpat`    
+  - `wineGlass-v01.mos` _(will finish next week)_  
+  - ~~`import.3D.object.maxpat`~~ _(postponed to next week)_   
 
 #### Terms, Concepts, Objects, Shortcuts    
 * finite element   
@@ -568,7 +569,8 @@ _Watch just a few moments of these examples._
   - _Patch list coming soon!_    
 
 #### Terms, Concepts, Objects, Shortcuts  
-_Terms list coming soon!_    
+  - `wineGlass-v01.mos` _(finish)_  
+  - `import.3D.object.maxpat` _(finish)_   
 
 * * *
 
