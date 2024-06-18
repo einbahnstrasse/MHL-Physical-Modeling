@@ -543,7 +543,7 @@ _Watch just a few moments of these examples._
 #### Assignments  
 * **Finish these patches** we made in class:   
   - `wineGlass-v01.mos` _(will finish next week)_  
-  - ~~`import.3D.object.maxpat`~~ _(postponed to next week)_   
+  - ~~`import.3D.object.maxpat`~~ _(postponed until next week)_   
 
 #### Terms, Concepts, Objects, Shortcuts    
 * finite element   
